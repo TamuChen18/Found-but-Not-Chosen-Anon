@@ -1,0 +1,16 @@
+model,method,primary_error_type,n
+GPT-4o-mini,BoN,Dependency,6
+GPT-4o-mini,BoN,Tool,4
+GPT-4o-mini,CoT-tree,Dependency,6
+GPT-4o-mini,CoT-tree,Tool,4
+GPT-4o-mini,MO-Tree,Dependency,1
+GPT-4o-mini,MO-Tree,Tool,9
+Qwen3.5-9B non-thinking (batch 20260725),BoN,Dependency,3
+Qwen3.5-9B non-thinking (batch 20260725),BoN,SemanticEquivalent,1
+Qwen3.5-9B non-thinking (batch 20260725),BoN,Tool,6
+Qwen3.5-9B non-thinking (batch 20260725),CoT-tree,Dependency,2
+Qwen3.5-9B non-thinking (batch 20260725),CoT-tree,SemanticEquivalent,1
+Qwen3.5-9B non-thinking (batch 20260725),CoT-tree,Tool,7
+Qwen3.5-9B non-thinking (batch 20260725),MO-Tree,Dependency,4
+Qwen3.5-9B non-thinking (batch 20260725),MO-Tree,SemanticEquivalent,1
+Qwen3.5-9B non-thinking (batch 20260725),MO-Tree,Tool,5

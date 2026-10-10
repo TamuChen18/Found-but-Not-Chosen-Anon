@@ -1,0 +1,29 @@
+metric,value
+candidates,45246
+pool=mini:BoN,5856
+parsed,42972
+hard0,42127
+cands_with:non_dict_step,6
+cands_with:unknown_agent,144
+cands_with:bad_dependence_field,0
+cands_with:bad_dependence_id,0
+cands_with:dep_out_of_range,188
+cands_with:missing_required_input,104
+cands_with:malformed_generated,26
+cands_with:generated_out_of_range,186
+cands_with:generated_unknown_output,369
+cands_with:C1_ref_not_in_dependence,0
+cands_with:C2_dependence_without_ref,1
+cands_with:C3_ref_without_dependence,0
+pool=mini:CoT-tree,5757
+any_consistency_fired,1
+consistency_only,0
+pool=mini:MO-Tree,2331
+pool=mini:Prompt-matched BoN,5856
+pool=qwen_b1:BoN,6222
+pool=qwen_b1:CoT-tree,2050
+pool=qwen_b1:MO-Tree,1336
+pool=qwen_b2:BoN,6222
+pool=qwen_b2:CoT-tree,2030
+pool=qwen_b2:MO-Tree,1364
+pool=qwen:Prompt-matched BoN,6222

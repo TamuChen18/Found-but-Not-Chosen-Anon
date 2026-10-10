@@ -1,0 +1,106 @@
+{
+ "mini": {
+  "BoN": {
+   "n_valid": 32,
+   "n_groups": 2,
+   "top_votes": 25,
+   "top_is_correct": false,
+   "landslide_miswired_votes": 25,
+   "stage": "vote_loss"
+  },
+  "CoT-tree": {
+   "n_valid": 32,
+   "n_groups": 3,
+   "top_votes": 28,
+   "top_is_correct": true,
+   "landslide_miswired_votes": 2,
+   "stage": "selected"
+  },
+  "MO-Tree": {
+   "n_valid": 8,
+   "n_groups": 3,
+   "top_votes": 4,
+   "top_is_correct": true,
+   "landslide_miswired_votes": 3,
+   "stage": "selected"
+  }
+ },
+ "qwen_b1": {
+  "BoN": {
+   "n_valid": 31,
+   "n_groups": 1,
+   "top_votes": 31,
+   "top_is_correct": true,
+   "landslide_miswired_votes": 0,
+   "stage": "selected"
+  },
+  "CoT-tree": {
+   "n_valid": 8,
+   "n_groups": 2,
+   "top_votes": 7,
+   "top_is_correct": true,
+   "landslide_miswired_votes": 0,
+   "stage": "selected"
+  },
+  "MO-Tree": {
+   "n_valid": 6,
+   "n_groups": 2,
+   "top_votes": 5,
+   "top_is_correct": true,
+   "landslide_miswired_votes": 0,
+   "stage": "selected"
+  }
+ },
+ "qwen_b2": {
+  "BoN": {
+   "n_valid": 26,
+   "n_groups": 2,
+   "top_votes": 25,
+   "top_is_correct": true,
+   "landslide_miswired_votes": 1,
+   "stage": "selected"
+  },
+  "CoT-tree": {
+   "n_valid": 12,
+   "n_groups": 3,
+   "top_votes": 10,
+   "top_is_correct": true,
+   "landslide_miswired_votes": 1,
+   "stage": "selected"
+  },
+  "MO-Tree": {
+   "n_valid": 3,
+   "n_groups": 2,
+   "top_votes": 2,
+   "top_is_correct": true,
+   "landslide_miswired_votes": 0,
+   "stage": "selected"
+  }
+ },
+ "mini_seeded": {
+  "BoN": {
+   "n_valid": 32,
+   "n_groups": 2,
+   "top_votes": 21,
+   "top_is_correct": false,
+   "landslide_miswired_votes": 21,
+   "stage": "vote_loss"
+  },
+  "CoT-tree": {
+   "n_valid": 13,
+   "n_groups": 1,
+   "top_votes": 13,
+   "top_is_correct": true,
+   "landslide_miswired_votes": 0,
+   "stage": "selected"
+  },
+  "MO-Tree": {
+   "n_valid": 12,
+   "n_groups": 6,
+   "top_votes": 4,
+   "top_is_correct": false,
+   "landslide_miswired_votes": 4,
+   "stage": "vote_loss"
+  }
+ }
+}

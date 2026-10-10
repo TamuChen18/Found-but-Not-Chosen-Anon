@@ -1,0 +1,4 @@
+procedure,candidates,invalid_pct_original,invalid_pct_common,unfiltered_majority_original,unfiltered_majority_common
+BoN,5856,2.0,0.9,117,117
+CoT-tree,4207,27.4,2.9,104,118
+MO-Tree,2335,25.1,6.9,100,115

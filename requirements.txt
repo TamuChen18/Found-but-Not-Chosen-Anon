@@ -1,0 +1,7 @@
+# Offline reproduction (scripts/reproduce_all.sh), Python 3.12.
+# Versions used to produce the released results.
+numpy==1.26.4
+matplotlib==3.10.7
+openai==1.109.1
+python-dotenv==1.0.1
+json-repair==0.58.6

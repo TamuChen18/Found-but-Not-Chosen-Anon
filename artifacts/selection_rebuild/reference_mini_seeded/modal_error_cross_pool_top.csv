@@ -1,0 +1,7 @@
+run,vote_loss_method,other_method,n_cases,other_top_is_same_wrong,pct,boot95,other_top_correct,same_wrong_present_in_other_pool,same_wrong_share_in_other_mean
+mini_seeded,BoN,CoT-tree,14,1,7.142857142857143,"[0.0, 21.4]",6,2,0.056261343012704176
+mini_seeded,BoN,MO-Tree,14,1,7.142857142857143,"[0.0, 21.4]",8,5,0.07466581038009609
+mini_seeded,CoT-tree,BoN,26,4,15.384615384615385,"[3.8, 30.8]",12,7,0.16503328402366865
+mini_seeded,CoT-tree,MO-Tree,26,6,23.076923076923077,"[7.7, 38.5]",11,22,0.2283534558704242
+mini_seeded,MO-Tree,BoN,29,6,20.689655172413794,"[6.9, 34.5]",12,9,0.19827586206896552
+mini_seeded,MO-Tree,CoT-tree,29,7,24.137931034482758,"[10.3, 41.4]",10,10,0.22189534810571915

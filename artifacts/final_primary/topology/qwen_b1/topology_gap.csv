@@ -1,0 +1,8 @@
+scheme,topology,n,BoN_oracle,BoN_selected,BoN_gap,CoT_oracle,CoT_selected,CoT_gap,Five_oracle,Five_selected,Five_gap,CoT_oracle_minus_BoN,CoT_selected_minus_BoN,Five_oracle_minus_BoN,Five_selected_minus_BoN
+4way,Node,27,27,25,2,27,25,2,26,22,4,0,0,-1,-3
+4way,Chain,47,41,35,6,40,36,4,40,32,8,-1,1,-1,-3
+4way,Parallel,63,56,51,5,58,52,6,53,50,3,2,1,-3,-1
+4way,Branching,46,35,18,17,37,19,18,28,18,10,2,1,-7,0
+3way_parallel_as_branching,Node,27,27,25,2,27,25,2,26,22,4,0,0,-1,-3
+3way_parallel_as_branching,Chain,47,41,35,6,40,36,4,40,32,8,-1,1,-1,-3
+3way_parallel_as_branching,Branching,109,91,69,22,95,71,24,81,68,13,4,2,-10,-1

@@ -1,0 +1,8 @@
+metric,run,count,subcount,definition
+gpt_mini_mo_n_gt1,mini,5082,5082,n>1 requests / returned exactly one choice
+mo_tiebreak_calls,mini,0,,confidence tie-break calls (max_tokens=10)
+qwen_mo_n_gt1,qwen_b1,4607,4607,n>1 requests / returned n completions
+mo_tiebreak_calls,qwen_b1,216,,confidence tie-break calls (max_tokens=10)
+qwen_mo_n_gt1,qwen_b2,4598,4598,n>1 requests / returned n completions
+mo_tiebreak_calls,qwen_b2,187,,confidence tie-break calls (max_tokens=10)
+qwen_thinking_no_plan,qwen_thinking_cot_seed20260725,1360,672,samples / samples without a JSON workflow

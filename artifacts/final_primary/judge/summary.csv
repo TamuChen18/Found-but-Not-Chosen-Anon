@@ -1,0 +1,4 @@
+bundle,pool,n,oracle,filter_majority,judge,judge_fixes,judge_breaks,judge_calls,subsampled_tasks,modes
+mini,BoN,183,139,121,123,11,9,72,7,"{""judge"": 72, ""singleton_valid"": 111}"
+mini,CoT,183,153,131,112,7,26,119,27,"{""judge"": 119, ""singleton_valid"": 64}"
+mini,Five,183,146,123,112,10,21,169,23,"{""judge"": 169, ""singleton_valid"": 14}"

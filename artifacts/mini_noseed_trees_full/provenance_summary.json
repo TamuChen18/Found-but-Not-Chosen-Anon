@@ -1,0 +1,112 @@
+{
+ "CoT-tree": {
+  "log": "logs/calllogs_mini_noseed_trees_full/cot.jsonl",
+  "records": 5856,
+  "ok": 5856,
+  "status": {
+   "ok": 5856
+  },
+  "tasks": 183,
+  "seed_sent": {
+   "False": 5856
+  },
+  "seed_field": {
+   "None": 5856
+  },
+  "temperature": {
+   "0.7": 5856
+  },
+  "top_p": {
+   "0.95": 5856
+  },
+  "max_tokens": {
+   "2048": 5856
+  },
+  "n": {
+   "1": 5856
+  },
+  "operator": {
+   "CHAIN_OF_THOUGHT": 5856
+  },
+  "response_id_present": 5856,
+  "unique_call_ids": 5856,
+  "calls_with_task_id": 5856,
+  "prompt_tokens": 41454368,
+  "completion_tokens": 2918827
+ },
+ "MO-Tree": {
+  "log": "logs/calllogs_mini_noseed_trees_full/five.jsonl",
+  "records": 5585,
+  "ok": 5585,
+  "status": {
+   "ok": 5585
+  },
+  "tasks": 183,
+  "seed_sent": {
+   "False": 5585
+  },
+  "seed_field": {
+   "None": 5585
+  },
+  "temperature": {
+   "0.7": 5585
+  },
+  "top_p": {
+   "0.95": 5585
+  },
+  "max_tokens": {
+   "2048": 5585
+  },
+  "n": {
+   "10": 2939,
+   "16": 1469,
+   "1": 503,
+   "3": 674
+  },
+  "operator": {
+   "DIRECT_ANSWER": 1365,
+   "CHAIN_OF_THOUGHT": 1365,
+   "DC_SUBQUESTION": 839,
+   "DC_SUBANSWER": 839,
+   "REPHRASE": 183,
+   "SELF_REFINE_REFLECT": 674,
+   "SELF_REFINE_REFINE": 320
+  },
+  "response_id_present": 5585,
+  "unique_call_ids": 5585,
+  "calls_with_task_id": 5585,
+  "prompt_tokens": 41371102,
+  "completion_tokens": 2434924
+ },
+ "BoN": {
+  "log": "logs/calllogs_mini_noseed_full/bon32.jsonl",
+  "records": 5856,
+  "ok": 5856,
+  "status": {
+   "ok": 5856
+  },
+  "tasks": 1,
+  "seed_sent": {
+   "False": 5856
+  },
+  "seed_field": "not logged",
+  "temperature": {
+   "None": 5856
+  },
+  "top_p": "not logged",
+  "max_tokens": {
+   "2048": 5856
+  },
+  "n": {
+   "1": 5856
+  },
+  "operator": {
+   "None": 5856
+  },
+  "response_id_present": 0,
+  "unique_call_ids": "not logged",
+  "calls_with_task_id": 0,
+  "prompt_tokens": 41957984,
+  "completion_tokens": 1541442
+ }
+}

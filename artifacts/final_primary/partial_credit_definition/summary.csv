@@ -1,0 +1,2 @@
+correct_candidates_checked,correct_candidates_failing_any_metric,voteloss_winners,tool_correct_winners,with_input_name_diff,with_literal_value_diff,with_generated_ref_diff,literal_value_diff_only,dependency_correct_among_tool_correct
+26236,0,265,73,0,5,68,5,6

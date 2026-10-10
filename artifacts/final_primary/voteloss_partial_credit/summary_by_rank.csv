@@ -1,0 +1,5 @@
+rank_group,n,tool_acc,parameter_acc,dependency_acc,tool_only_ok_pct,param_wrong_only_pct,dep_wrong_only_pct,tool_wrong_pct,same_n_steps_pct,tool_step_match_mean,tool_wrong_one_step_off_pct,norm_margin_median
+Rank 2,151,29.8,0.0,2.6,27.2,2.6,0.0,70.2,53.6,0.604,11.9,0.273
+Rank 3,55,25.5,0.0,1.8,23.6,1.8,0.0,74.5,50.9,0.636,16.4,0.381
+Rank >3,59,23.7,0.0,1.7,22.0,1.7,0.0,76.3,55.9,0.607,16.9,0.231
+All,265,27.5,0.0,2.3,25.3,2.3,0.0,72.5,53.6,0.611,14.0,0.29

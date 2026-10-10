@@ -1,0 +1,11 @@
+{
+  "runs": [
+    {
+      "model": "qwen3.5-9b-nothink",
+      "key": "Five-M",
+      "seed": 20260725,
+      "dir": "runs/qwen3.5-9b/run1/mo_tree_medium",
+      "note": "rolls=1 da=4 cot=12 dc=8 depth=5"
+    }
+  ]
+}

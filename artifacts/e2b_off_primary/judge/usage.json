@@ -1,0 +1,22 @@
+{
+  "usage": {
+    "api_calls": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "total_tokens": 0
+  },
+  "args": {
+    "bundle": [
+      "mini=artifacts/e2b_off_primary/mini",
+      "qwen_b1=artifacts/e2b_off_primary/qwen_b1",
+      "qwen_b2=artifacts/e2b_off_primary/qwen_b2"
+    ],
+    "api": "openrouter",
+    "judge_model": "openai/gpt-4o",
+    "k": 8,
+    "rng_seed": 20260914,
+    "threads": 8,
+    "max_tasks": 0,
+    "out": "artifacts/e2b_off_primary/judge"
+  }
+}

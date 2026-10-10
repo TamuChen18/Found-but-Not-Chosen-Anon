@@ -1,0 +1,4 @@
+reviewer,cases,primary_category_agrees,semantic_equivalence_agrees,confidence_high,confidence_medium,confidence_low
+R1,60,60,60,60,0,0
+R2,60,60,60,49,9,2
+R3,60,60,60,37,23,0

@@ -1,0 +1,26 @@
+{
+ "protocol": "all_noseed_primary",
+ "runs": [
+  {
+   "model": "gpt-4o-mini",
+   "key": "CoT-only-M",
+   "seed": 20260808,
+   "dir": "runs/gpt-4o-mini/no_seed/cot_tree",
+   "note": "n=32 no per-request seed"
+  },
+  {
+   "model": "gpt-4o-mini",
+   "key": "Five-M",
+   "seed": 20260808,
+   "dir": "runs/gpt-4o-mini/no_seed/mo_tree",
+   "note": "rolls=2 da=10 no per-request seed"
+  },
+  {
+   "model": "gpt-4o-mini",
+   "key": "BoN-CoT-M",
+   "seed": 20260808,
+   "dir": "runs/gpt-4o-mini/no_seed/bon",
+   "note": "n=32 no per-request seed"
+  }
+ ]
+}

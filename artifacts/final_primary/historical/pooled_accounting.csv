@@ -1,0 +1,5 @@
+quantity,mean_tokens_per_task
+cot_tree_full_run,242475
+mo_tree_narrow_full_run,171241
+pooled_realized,413716
+pooled_deprecated_8_of_32_approx,231860

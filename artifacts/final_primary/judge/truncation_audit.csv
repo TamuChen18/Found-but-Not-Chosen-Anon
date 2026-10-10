@@ -1,0 +1,5 @@
+pool,tasks,judge_calls,parsed_label,parse_fail_fallback,singleton_valid,empty_valid_fallback,subsampled_gt_k8,finish_reason_counts,max_completion_tokens
+BoN,183,72,72,0,111,0,7,,
+CoT,183,119,119,0,64,0,27,,
+Five,183,169,169,0,14,0,23,,
+all,549,360,360,0,189,0,57,"{""stop"": 360}",61

@@ -1,0 +1,77 @@
+## 1. Prompt-Qwen vs Qwen CoT-tree: Oracle paired CI (recomputed)
+PASS b1: 183 aligned tasks
+  b1: PM 160 vs CoT 162  diff -2 (1/3)  -1.1pp  boot95 [-3.3, +1.1]  McNemar p=0.625
+PASS b1: recomputed CI equals paired_ci.csv
+PASS b2: 183 aligned tasks
+  b2: PM 160 vs CoT 157  diff +3 (6/3)  +1.6pp  boot95 [-1.6, +4.9]  McNemar p=0.508
+PASS b2: recomputed CI equals paired_ci.csv
+
+## 2. Prompt-Qwen pool statistics
+PASS PMBoN: summary identical in eval_vs_b1 and eval_vs_b2
+  PMBoN: oracle 160 selected 127 retained/task 34.000 valid/task 33.514 invalid 1.43% unique_valid/task 4.055 winner_share 0.797 ties 5 tokens/task 252666
+PASS PMBoN_dedup: summary identical in eval_vs_b1 and eval_vs_b2
+  PMBoN_dedup: oracle 160 selected 130 retained/task 11.240 valid/task 11.016 invalid 1.99% unique_valid/task 4.027 winner_share 0.734 ties 11 tokens/task 252666
+
+## 3. Stage loss over 11 pools
+  mini     BoN                  O=139 S=121 gap=18 filter=0 vote=18 tie=0
+PASS mini:BoN filter+vote+tie == gap
+  mini     CoT-tree             O=153 S=131 gap=22 filter=0 vote=22 tie=0
+PASS mini:CoT-tree filter+vote+tie == gap
+  mini     MO-Tree              O=146 S=123 gap=23 filter=0 vote=21 tie=2
+PASS mini:MO-Tree filter+vote+tie == gap
+  qwen_b1  BoN                  O=159 S=129 gap=30 filter=0 vote=28 tie=2
+PASS qwen_b1:BoN filter+vote+tie == gap
+  qwen_b1  CoT-tree             O=162 S=132 gap=30 filter=0 vote=28 tie=2
+PASS qwen_b1:CoT-tree filter+vote+tie == gap
+  qwen_b1  MO-Tree              O=147 S=122 gap=25 filter=0 vote=19 tie=6
+PASS qwen_b1:MO-Tree filter+vote+tie == gap
+  qwen_b2  BoN                  O=162 S=128 gap=34 filter=0 vote=33 tie=1
+PASS qwen_b2:BoN filter+vote+tie == gap
+  qwen_b2  CoT-tree             O=157 S=133 gap=24 filter=0 vote=22 tie=2
+PASS qwen_b2:CoT-tree filter+vote+tie == gap
+  qwen_b2  MO-Tree              O=147 S=122 gap=25 filter=0 vote=18 tie=7
+PASS qwen_b2:MO-Tree filter+vote+tie == gap
+  mini     Prompt-matched BoN   O=154 S=129 gap=25 filter=0 vote=24 tie=1
+PASS mini:Prompt-matched BoN filter+vote+tie == gap
+  qwen_b1  Prompt-matched BoN   O=160 S=127 gap=33 filter=0 vote=32 tie=1
+PASS qwen_b1:Prompt-matched BoN filter+vote+tie == gap
+PASS Qwen Prompt-matched BoN stage loss identical in eval_vs_b1 and eval_vs_b2
+  totals: pools=11 {'gap': 289, 'filter': 0, 'vote': 265, 'tie': 24}
+PASS 11 pools
+PASS sum(gap) == 289
+PASS sum(filter) == 0
+PASS sum(vote) == 265
+PASS sum(tie) == 24
+PASS pooled filter+vote+tie == gap
+PASS vote_rank mini:BoN selected/oracle/vote-loss match stage loss
+PASS vote_rank mini:CoT-tree selected/oracle/vote-loss match stage loss
+PASS vote_rank mini:MO-Tree selected/oracle/vote-loss match stage loss
+PASS vote_rank qwen_b1:BoN selected/oracle/vote-loss match stage loss
+PASS vote_rank qwen_b1:CoT-tree selected/oracle/vote-loss match stage loss
+PASS vote_rank qwen_b1:MO-Tree selected/oracle/vote-loss match stage loss
+PASS vote_rank qwen_b2:BoN selected/oracle/vote-loss match stage loss
+PASS vote_rank qwen_b2:CoT-tree selected/oracle/vote-loss match stage loss
+PASS vote_rank qwen_b2:MO-Tree selected/oracle/vote-loss match stage loss
+PASS vote_rank mini:Prompt-matched BoN selected/oracle/vote-loss match stage loss
+PASS vote_rank qwen_b1:Prompt-matched BoN selected/oracle/vote-loss match stage loss
+PASS vote_rank 11-pool aggregate gap/vote-loss == stage-loss totals
+PASS rank2+rank3+>3 == vote loss
+  11-pool Top-k: gap 289 top2 +169 (58.5%) top3 +226 (78.2%)
+
+## 4. Top-3 verifier diagnostic vs deployable selector
+  selector: {'eligible': 181, 'fixed': 90, 'majority_ok_called': 638, 'broken': 175, 'called': 1105, 'top3_no_gold': 286}
+PASS eligible == 181
+PASS fixed == 90
+PASS majority_ok_called == 638
+PASS broken == 175
+PASS called == 1105
+PASS top3_no_gold == 286
+PASS 181 + 638 + 286 == 1105
+PASS 1647 pool-tasks; verifier called iff >= 2 groups
+PASS no fix possible without gold in Top-3
+PASS diagnostic cases == eligible (181)
+PASS diagnostic and eligible cover the same (run, method, task)
+PASS task-level agreement diagnostic.recovered == selector.verifier_ok (0 mismatches)
+PASS diagnostic correct == deployable fixed == 90
+
+ALL CHECKS PASSED

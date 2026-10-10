@@ -1,0 +1,4 @@
+run,pool,n_tasks,oracle,locked_selected,multiplicity,dedup,first_valid,locked_mode,units_per_task,unique_texts_per_task,dedup_key,ambiguous_node_matches,candidates_without_node,locked_reproduction_mismatches
+mini,BoN,183,139,121,121,119,119,multiplicity,32.0,3.9617486338797816,raw_text,0,0,0
+mini,CoT,183,153,131,130,131,112,dedup,31.994535519125684,31.459016393442624,raw_text,0,0,0
+mini,Five,183,146,123,123,123,104,dedup,13.224043715846994,12.737704918032787,raw_text,0,0,0

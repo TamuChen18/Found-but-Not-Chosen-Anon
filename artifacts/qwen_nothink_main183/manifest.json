@@ -1,0 +1,46 @@
+{
+  "runs": [
+    {
+      "model": "qwen3.5-9b-nothink",
+      "key": "BoN-CoT-M",
+      "seed": 20260725,
+      "dir": "runs/qwen3.5-9b/run1/bon",
+      "note": "n=34"
+    },
+    {
+      "model": "qwen3.5-9b-nothink",
+      "key": "CoT-only-M",
+      "seed": 20260725,
+      "dir": "runs/qwen3.5-9b/run1/cot_tree",
+      "note": "n=34"
+    },
+    {
+      "model": "qwen3.5-9b-nothink",
+      "key": "Five-M",
+      "seed": 20260725,
+      "dir": "runs/qwen3.5-9b/run1/mo_tree",
+      "note": "rolls=1 da=4 cot=8 dc=5 depth=5"
+    },
+    {
+      "model": "qwen3.5-9b-nothink",
+      "key": "BoN-CoT-M",
+      "seed": 20260726,
+      "dir": "runs/qwen3.5-9b/run2/bon",
+      "note": "n=34"
+    },
+    {
+      "model": "qwen3.5-9b-nothink",
+      "key": "CoT-only-M",
+      "seed": 20260726,
+      "dir": "runs/qwen3.5-9b/run2/cot_tree",
+      "note": "n=34"
+    },
+    {
+      "model": "qwen3.5-9b-nothink",
+      "key": "Five-M",
+      "seed": 20260726,
+      "dir": "runs/qwen3.5-9b/run2/mo_tree",
+      "note": "rolls=1 da=4 cot=8 dc=5 depth=5"
+    }
+  ]
+}

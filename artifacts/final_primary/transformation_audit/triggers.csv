@@ -1,0 +1,13 @@
+bundle,pool,candidates,E1,E2a,E2b,E3,E4,E5,em_final-E2a_vs_final_correct_only/final_only,em_none_vs_final_correct_only/final_only,em_final-E1_vs_final_correct_only/final_only
+mini,BoN,5856,0,45,45,0,0,0,,,
+mini,CoT-tree,5757,433,1115,66,0,16,0,0/363,0/490,0/140
+mini,MO-Tree,2331,64,517,58,0,28,0,0/147,0/162,0/17
+qwen_b1,BoN,6222,0,21,21,0,0,0,,,
+qwen_b1,CoT-tree,2050,98,279,42,2,16,0,0/38,0/65,0/36
+qwen_b1,MO-Tree,1336,78,135,3,11,7,0,0/27,0/49,0/33
+qwen_b2,BoN,6222,0,17,17,0,0,0,,,
+qwen_b2,CoT-tree,2030,100,308,42,4,22,0,0/52,0/79,0/41
+qwen_b2,MO-Tree,1364,111,120,8,9,8,0,0/14,0/49,0/40
+mini_seeded_aug,BoN,5856,0,81,81,0,0,0,,,
+mini_seeded_aug,CoT-tree,4207,447,990,66,0,12,0,0/299,0/426,0/146
+mini_seeded_aug,MO-Tree,2335,90,512,48,1,22,0,0/143,0/160,0/18

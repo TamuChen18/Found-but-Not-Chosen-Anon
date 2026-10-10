@@ -1,0 +1,9 @@
+# Additional packages for generating new candidate pools with main.py / baselines (on top of requirements.txt).
+# Qwen3.5-9B was served with vLLM 0.30.0 in a separate environment (see README).
+torch==2.8.0
+sentence-transformers==2.6.1
+transformers==4.57.0
+tqdm==4.66.4
+pyyaml==6.0.1
+colorama==0.4.6
+wandb==0.25.1

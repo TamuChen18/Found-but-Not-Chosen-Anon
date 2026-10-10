@@ -1,0 +1,1613 @@
+run,method,task_id,candidate_id,hard0
+mini,CoT-tree,1,2,True
+mini,CoT-tree,1,5,True
+mini,CoT-tree,1,8,True
+mini,CoT-tree,1,13,True
+mini,CoT-tree,1,26,True
+mini,CoT-tree,1,31,True
+mini,CoT-tree,2,12,True
+mini,CoT-tree,3,20,True
+mini,CoT-tree,4,0,True
+mini,CoT-tree,4,9,True
+mini,CoT-tree,4,17,True
+mini,CoT-tree,5,3,True
+mini,CoT-tree,5,4,True
+mini,CoT-tree,5,15,True
+mini,CoT-tree,5,19,True
+mini,CoT-tree,5,20,True
+mini,CoT-tree,5,28,True
+mini,CoT-tree,6,2,True
+mini,CoT-tree,10,5,True
+mini,CoT-tree,10,9,True
+mini,CoT-tree,10,20,True
+mini,CoT-tree,10,24,True
+mini,CoT-tree,13,6,True
+mini,CoT-tree,13,9,True
+mini,CoT-tree,13,14,True
+mini,CoT-tree,13,15,True
+mini,CoT-tree,15,3,True
+mini,CoT-tree,15,6,True
+mini,CoT-tree,15,12,True
+mini,CoT-tree,15,19,True
+mini,CoT-tree,15,22,True
+mini,CoT-tree,15,26,True
+mini,CoT-tree,16,0,True
+mini,CoT-tree,16,1,True
+mini,CoT-tree,16,2,True
+mini,CoT-tree,16,3,True
+mini,CoT-tree,16,4,True
+mini,CoT-tree,16,5,True
+mini,CoT-tree,16,6,True
+mini,CoT-tree,16,7,True
+mini,CoT-tree,16,8,True
+mini,CoT-tree,16,9,True
+mini,CoT-tree,16,14,True
+mini,CoT-tree,16,16,True
+mini,CoT-tree,16,17,True
+mini,CoT-tree,16,18,True
+mini,CoT-tree,16,19,True
+mini,CoT-tree,16,20,True
+mini,CoT-tree,16,22,True
+mini,CoT-tree,16,23,True
+mini,CoT-tree,16,26,True
+mini,CoT-tree,17,7,True
+mini,CoT-tree,17,12,True
+mini,CoT-tree,17,17,True
+mini,CoT-tree,17,20,True
+mini,CoT-tree,17,25,True
+mini,CoT-tree,17,28,True
+mini,CoT-tree,24,5,True
+mini,CoT-tree,24,14,True
+mini,CoT-tree,25,18,True
+mini,CoT-tree,26,1,True
+mini,CoT-tree,26,5,True
+mini,CoT-tree,26,9,True
+mini,CoT-tree,26,20,True
+mini,CoT-tree,26,26,True
+mini,CoT-tree,26,28,True
+mini,CoT-tree,26,30,True
+mini,CoT-tree,28,6,True
+mini,CoT-tree,28,7,True
+mini,CoT-tree,30,0,True
+mini,CoT-tree,30,1,True
+mini,CoT-tree,30,2,True
+mini,CoT-tree,30,3,True
+mini,CoT-tree,30,4,True
+mini,CoT-tree,30,5,True
+mini,CoT-tree,30,6,True
+mini,CoT-tree,30,7,True
+mini,CoT-tree,30,8,True
+mini,CoT-tree,30,9,True
+mini,CoT-tree,30,11,True
+mini,CoT-tree,30,12,True
+mini,CoT-tree,30,14,True
+mini,CoT-tree,30,15,True
+mini,CoT-tree,30,16,True
+mini,CoT-tree,30,17,True
+mini,CoT-tree,30,18,True
+mini,CoT-tree,30,20,True
+mini,CoT-tree,30,21,True
+mini,CoT-tree,30,22,True
+mini,CoT-tree,30,24,True
+mini,CoT-tree,30,25,True
+mini,CoT-tree,30,26,True
+mini,CoT-tree,30,27,True
+mini,CoT-tree,30,28,True
+mini,CoT-tree,30,29,True
+mini,CoT-tree,30,30,True
+mini,CoT-tree,30,31,True
+mini,CoT-tree,33,10,True
+mini,CoT-tree,34,13,True
+mini,CoT-tree,35,0,True
+mini,CoT-tree,35,4,True
+mini,CoT-tree,35,8,True
+mini,CoT-tree,35,10,True
+mini,CoT-tree,35,15,True
+mini,CoT-tree,35,16,True
+mini,CoT-tree,35,17,True
+mini,CoT-tree,35,26,True
+mini,CoT-tree,35,29,True
+mini,CoT-tree,40,5,True
+mini,CoT-tree,40,9,True
+mini,CoT-tree,40,14,True
+mini,CoT-tree,40,15,True
+mini,CoT-tree,40,16,True
+mini,CoT-tree,40,17,True
+mini,CoT-tree,40,20,True
+mini,CoT-tree,40,22,True
+mini,CoT-tree,42,4,True
+mini,CoT-tree,42,6,True
+mini,CoT-tree,42,11,True
+mini,CoT-tree,42,16,True
+mini,CoT-tree,42,22,True
+mini,CoT-tree,42,29,True
+mini,CoT-tree,43,10,True
+mini,CoT-tree,44,10,True
+mini,CoT-tree,44,14,True
+mini,CoT-tree,44,16,True
+mini,CoT-tree,44,21,True
+mini,CoT-tree,44,27,True
+mini,CoT-tree,44,30,True
+mini,CoT-tree,44,31,True
+mini,CoT-tree,46,0,True
+mini,CoT-tree,46,26,True
+mini,CoT-tree,47,0,True
+mini,CoT-tree,47,3,True
+mini,CoT-tree,47,7,True
+mini,CoT-tree,47,12,True
+mini,CoT-tree,47,14,True
+mini,CoT-tree,47,16,True
+mini,CoT-tree,47,17,True
+mini,CoT-tree,47,18,True
+mini,CoT-tree,47,22,True
+mini,CoT-tree,47,25,True
+mini,CoT-tree,47,26,True
+mini,CoT-tree,47,28,True
+mini,CoT-tree,47,29,True
+mini,CoT-tree,50,1,True
+mini,CoT-tree,50,3,True
+mini,CoT-tree,50,7,True
+mini,CoT-tree,50,8,True
+mini,CoT-tree,50,12,True
+mini,CoT-tree,50,13,True
+mini,CoT-tree,50,16,True
+mini,CoT-tree,50,17,True
+mini,CoT-tree,50,18,True
+mini,CoT-tree,50,19,True
+mini,CoT-tree,50,25,True
+mini,CoT-tree,50,29,True
+mini,CoT-tree,50,30,True
+mini,CoT-tree,50,31,True
+mini,CoT-tree,51,0,True
+mini,CoT-tree,51,1,True
+mini,CoT-tree,51,4,True
+mini,CoT-tree,51,11,True
+mini,CoT-tree,51,12,True
+mini,CoT-tree,51,13,True
+mini,CoT-tree,51,16,True
+mini,CoT-tree,51,22,True
+mini,CoT-tree,51,23,True
+mini,CoT-tree,51,31,True
+mini,CoT-tree,52,25,True
+mini,CoT-tree,54,6,True
+mini,CoT-tree,54,11,True
+mini,CoT-tree,54,20,True
+mini,CoT-tree,58,0,True
+mini,CoT-tree,58,1,True
+mini,CoT-tree,58,3,True
+mini,CoT-tree,58,5,True
+mini,CoT-tree,58,6,True
+mini,CoT-tree,58,12,True
+mini,CoT-tree,58,14,True
+mini,CoT-tree,58,16,True
+mini,CoT-tree,58,18,True
+mini,CoT-tree,58,20,True
+mini,CoT-tree,58,22,True
+mini,CoT-tree,58,24,True
+mini,CoT-tree,58,25,True
+mini,CoT-tree,58,29,True
+mini,CoT-tree,61,2,True
+mini,CoT-tree,61,3,True
+mini,CoT-tree,61,5,True
+mini,CoT-tree,61,14,True
+mini,CoT-tree,61,15,True
+mini,CoT-tree,61,16,True
+mini,CoT-tree,61,19,True
+mini,CoT-tree,61,20,True
+mini,CoT-tree,61,21,True
+mini,CoT-tree,61,22,True
+mini,CoT-tree,61,25,True
+mini,CoT-tree,61,26,True
+mini,CoT-tree,61,27,True
+mini,CoT-tree,61,28,True
+mini,CoT-tree,62,2,True
+mini,CoT-tree,62,4,True
+mini,CoT-tree,62,9,True
+mini,CoT-tree,62,11,True
+mini,CoT-tree,62,16,True
+mini,CoT-tree,62,18,True
+mini,CoT-tree,62,21,True
+mini,CoT-tree,62,26,True
+mini,CoT-tree,63,0,True
+mini,CoT-tree,63,5,True
+mini,CoT-tree,63,17,True
+mini,CoT-tree,63,21,True
+mini,CoT-tree,63,30,True
+mini,CoT-tree,64,1,True
+mini,CoT-tree,64,6,True
+mini,CoT-tree,64,11,True
+mini,CoT-tree,64,17,True
+mini,CoT-tree,64,20,True
+mini,CoT-tree,64,24,True
+mini,CoT-tree,64,26,True
+mini,CoT-tree,64,28,True
+mini,CoT-tree,64,31,True
+mini,CoT-tree,65,1,True
+mini,CoT-tree,65,4,True
+mini,CoT-tree,65,6,True
+mini,CoT-tree,65,7,True
+mini,CoT-tree,65,8,True
+mini,CoT-tree,65,14,True
+mini,CoT-tree,65,15,True
+mini,CoT-tree,65,16,True
+mini,CoT-tree,65,17,True
+mini,CoT-tree,65,21,True
+mini,CoT-tree,65,22,True
+mini,CoT-tree,65,24,True
+mini,CoT-tree,65,26,True
+mini,CoT-tree,65,28,True
+mini,CoT-tree,67,0,True
+mini,CoT-tree,67,3,True
+mini,CoT-tree,67,5,True
+mini,CoT-tree,67,6,True
+mini,CoT-tree,67,7,True
+mini,CoT-tree,67,8,True
+mini,CoT-tree,67,9,True
+mini,CoT-tree,67,10,True
+mini,CoT-tree,67,12,True
+mini,CoT-tree,67,13,True
+mini,CoT-tree,67,14,True
+mini,CoT-tree,67,16,True
+mini,CoT-tree,67,18,True
+mini,CoT-tree,67,20,True
+mini,CoT-tree,67,22,True
+mini,CoT-tree,67,23,True
+mini,CoT-tree,67,27,True
+mini,CoT-tree,67,28,True
+mini,CoT-tree,67,29,True
+mini,CoT-tree,67,30,True
+mini,CoT-tree,68,9,True
+mini,CoT-tree,68,19,True
+mini,CoT-tree,70,15,True
+mini,CoT-tree,75,2,True
+mini,CoT-tree,75,5,True
+mini,CoT-tree,75,7,True
+mini,CoT-tree,75,8,True
+mini,CoT-tree,75,17,True
+mini,CoT-tree,75,18,True
+mini,CoT-tree,75,30,True
+mini,CoT-tree,76,5,True
+mini,CoT-tree,76,8,True
+mini,CoT-tree,77,26,True
+mini,CoT-tree,77,31,True
+mini,CoT-tree,79,9,True
+mini,CoT-tree,79,13,True
+mini,CoT-tree,80,27,True
+mini,CoT-tree,81,9,True
+mini,CoT-tree,81,12,True
+mini,CoT-tree,81,26,True
+mini,CoT-tree,81,30,True
+mini,CoT-tree,82,1,True
+mini,CoT-tree,82,10,True
+mini,CoT-tree,82,14,True
+mini,CoT-tree,82,15,True
+mini,CoT-tree,82,25,True
+mini,CoT-tree,83,0,True
+mini,CoT-tree,83,5,True
+mini,CoT-tree,83,18,True
+mini,CoT-tree,83,19,True
+mini,CoT-tree,83,20,True
+mini,CoT-tree,83,21,True
+mini,CoT-tree,83,24,True
+mini,CoT-tree,83,27,True
+mini,CoT-tree,83,30,True
+mini,CoT-tree,84,4,True
+mini,CoT-tree,84,6,True
+mini,CoT-tree,84,7,True
+mini,CoT-tree,84,8,True
+mini,CoT-tree,84,9,True
+mini,CoT-tree,84,11,True
+mini,CoT-tree,84,12,True
+mini,CoT-tree,84,13,True
+mini,CoT-tree,84,14,True
+mini,CoT-tree,84,18,True
+mini,CoT-tree,84,19,True
+mini,CoT-tree,84,20,True
+mini,CoT-tree,84,22,True
+mini,CoT-tree,84,25,True
+mini,CoT-tree,84,26,True
+mini,CoT-tree,86,13,True
+mini,CoT-tree,88,22,True
+mini,CoT-tree,90,17,True
+mini,CoT-tree,92,1,True
+mini,CoT-tree,92,7,True
+mini,CoT-tree,92,11,True
+mini,CoT-tree,92,15,True
+mini,CoT-tree,94,2,True
+mini,CoT-tree,94,5,True
+mini,CoT-tree,94,6,True
+mini,CoT-tree,94,9,True
+mini,CoT-tree,94,15,True
+mini,CoT-tree,94,16,True
+mini,CoT-tree,94,23,True
+mini,CoT-tree,98,3,True
+mini,CoT-tree,98,9,True
+mini,CoT-tree,98,13,True
+mini,CoT-tree,98,18,True
+mini,CoT-tree,98,21,True
+mini,CoT-tree,98,22,True
+mini,CoT-tree,98,27,True
+mini,CoT-tree,100,1,True
+mini,CoT-tree,100,4,True
+mini,CoT-tree,100,6,True
+mini,CoT-tree,100,8,True
+mini,CoT-tree,100,12,True
+mini,CoT-tree,100,13,True
+mini,CoT-tree,100,16,True
+mini,CoT-tree,100,21,True
+mini,CoT-tree,100,24,True
+mini,CoT-tree,100,30,True
+mini,CoT-tree,102,17,True
+mini,CoT-tree,102,26,True
+mini,CoT-tree,106,4,True
+mini,CoT-tree,106,6,True
+mini,CoT-tree,106,8,True
+mini,CoT-tree,106,13,True
+mini,CoT-tree,106,15,True
+mini,CoT-tree,106,17,True
+mini,CoT-tree,106,29,True
+mini,CoT-tree,106,30,True
+mini,CoT-tree,107,19,True
+mini,CoT-tree,107,27,True
+mini,CoT-tree,108,3,True
+mini,CoT-tree,108,18,True
+mini,CoT-tree,108,28,True
+mini,CoT-tree,109,0,True
+mini,CoT-tree,109,1,True
+mini,CoT-tree,109,6,True
+mini,CoT-tree,109,9,True
+mini,CoT-tree,109,11,True
+mini,CoT-tree,109,14,True
+mini,CoT-tree,109,21,True
+mini,CoT-tree,109,22,True
+mini,CoT-tree,109,23,True
+mini,CoT-tree,109,26,True
+mini,CoT-tree,109,27,True
+mini,CoT-tree,109,29,True
+mini,CoT-tree,111,23,True
+mini,CoT-tree,114,8,True
+mini,CoT-tree,114,27,True
+mini,CoT-tree,117,7,True
+mini,CoT-tree,117,12,True
+mini,CoT-tree,117,13,True
+mini,CoT-tree,119,6,True
+mini,CoT-tree,122,0,True
+mini,CoT-tree,122,1,True
+mini,CoT-tree,122,4,True
+mini,CoT-tree,122,6,True
+mini,CoT-tree,122,7,True
+mini,CoT-tree,122,8,True
+mini,CoT-tree,122,14,True
+mini,CoT-tree,122,15,True
+mini,CoT-tree,122,18,True
+mini,CoT-tree,122,20,True
+mini,CoT-tree,122,21,True
+mini,CoT-tree,122,23,True
+mini,CoT-tree,122,24,True
+mini,CoT-tree,122,27,True
+mini,CoT-tree,122,31,True
+mini,CoT-tree,123,22,True
+mini,CoT-tree,123,27,True
+mini,CoT-tree,123,28,True
+mini,CoT-tree,124,3,True
+mini,CoT-tree,124,7,True
+mini,CoT-tree,124,27,True
+mini,CoT-tree,125,4,True
+mini,CoT-tree,126,16,True
+mini,CoT-tree,128,1,True
+mini,CoT-tree,128,6,True
+mini,CoT-tree,128,14,True
+mini,CoT-tree,128,24,True
+mini,CoT-tree,132,29,True
+mini,CoT-tree,133,1,True
+mini,CoT-tree,133,4,True
+mini,CoT-tree,133,5,True
+mini,CoT-tree,133,6,True
+mini,CoT-tree,133,8,True
+mini,CoT-tree,133,9,True
+mini,CoT-tree,133,11,True
+mini,CoT-tree,133,12,True
+mini,CoT-tree,133,14,True
+mini,CoT-tree,133,15,True
+mini,CoT-tree,133,16,True
+mini,CoT-tree,133,17,True
+mini,CoT-tree,133,18,True
+mini,CoT-tree,133,20,True
+mini,CoT-tree,133,21,True
+mini,CoT-tree,133,22,True
+mini,CoT-tree,133,23,True
+mini,CoT-tree,133,24,True
+mini,CoT-tree,133,25,True
+mini,CoT-tree,133,26,True
+mini,CoT-tree,133,27,True
+mini,CoT-tree,133,28,True
+mini,CoT-tree,133,29,True
+mini,CoT-tree,133,31,True
+mini,CoT-tree,135,24,True
+mini,CoT-tree,136,2,True
+mini,CoT-tree,136,3,True
+mini,CoT-tree,136,4,True
+mini,CoT-tree,136,5,True
+mini,CoT-tree,136,6,True
+mini,CoT-tree,136,11,True
+mini,CoT-tree,136,12,True
+mini,CoT-tree,136,16,True
+mini,CoT-tree,136,20,True
+mini,CoT-tree,136,24,True
+mini,CoT-tree,136,30,True
+mini,CoT-tree,137,26,True
+mini,CoT-tree,140,1,True
+mini,CoT-tree,140,2,True
+mini,CoT-tree,140,5,True
+mini,CoT-tree,140,6,True
+mini,CoT-tree,140,7,True
+mini,CoT-tree,140,8,True
+mini,CoT-tree,140,12,True
+mini,CoT-tree,140,16,True
+mini,CoT-tree,140,17,True
+mini,CoT-tree,140,18,True
+mini,CoT-tree,140,19,True
+mini,CoT-tree,140,22,True
+mini,CoT-tree,140,23,True
+mini,CoT-tree,140,24,True
+mini,CoT-tree,140,26,True
+mini,CoT-tree,140,28,True
+mini,CoT-tree,140,31,True
+mini,CoT-tree,142,2,True
+mini,CoT-tree,142,4,True
+mini,CoT-tree,142,13,True
+mini,CoT-tree,142,25,True
+mini,CoT-tree,142,27,True
+mini,CoT-tree,142,28,True
+mini,CoT-tree,142,29,True
+mini,CoT-tree,144,0,True
+mini,CoT-tree,144,9,True
+mini,CoT-tree,144,15,True
+mini,CoT-tree,145,9,True
+mini,CoT-tree,145,14,True
+mini,CoT-tree,146,4,True
+mini,CoT-tree,146,6,True
+mini,CoT-tree,156,14,True
+mini,CoT-tree,156,25,True
+mini,CoT-tree,156,30,True
+mini,CoT-tree,157,13,True
+mini,CoT-tree,157,17,True
+mini,CoT-tree,163,8,True
+mini,CoT-tree,163,10,True
+mini,CoT-tree,167,12,True
+mini,CoT-tree,167,13,True
+mini,CoT-tree,167,28,True
+mini,CoT-tree,169,1,True
+mini,CoT-tree,169,12,True
+mini,CoT-tree,169,26,True
+mini,CoT-tree,171,2,True
+mini,CoT-tree,177,5,True
+mini,CoT-tree,177,7,True
+mini,CoT-tree,177,19,True
+mini,CoT-tree,179,14,True
+mini,CoT-tree,183,11,True
+mini,CoT-tree,183,15,True
+mini,CoT-tree,183,18,True
+mini,CoT-tree,183,19,True
+mini,MO-Tree,1,5,True
+mini,MO-Tree,2,2,True
+mini,MO-Tree,4,14,True
+mini,MO-Tree,5,1,True
+mini,MO-Tree,6,3,True
+mini,MO-Tree,6,4,True
+mini,MO-Tree,10,1,True
+mini,MO-Tree,16,0,True
+mini,MO-Tree,16,1,True
+mini,MO-Tree,16,2,True
+mini,MO-Tree,16,3,True
+mini,MO-Tree,16,5,True
+mini,MO-Tree,16,8,True
+mini,MO-Tree,16,9,True
+mini,MO-Tree,16,11,True
+mini,MO-Tree,17,6,True
+mini,MO-Tree,20,0,True
+mini,MO-Tree,26,0,True
+mini,MO-Tree,26,3,True
+mini,MO-Tree,26,4,True
+mini,MO-Tree,26,7,True
+mini,MO-Tree,28,2,True
+mini,MO-Tree,28,5,True
+mini,MO-Tree,28,6,True
+mini,MO-Tree,30,1,True
+mini,MO-Tree,30,3,True
+mini,MO-Tree,30,7,True
+mini,MO-Tree,30,8,True
+mini,MO-Tree,30,9,True
+mini,MO-Tree,34,12,True
+mini,MO-Tree,35,2,True
+mini,MO-Tree,35,5,True
+mini,MO-Tree,37,4,True
+mini,MO-Tree,37,5,True
+mini,MO-Tree,37,12,True
+mini,MO-Tree,38,9,True
+mini,MO-Tree,38,10,True
+mini,MO-Tree,39,3,True
+mini,MO-Tree,40,10,True
+mini,MO-Tree,41,12,True
+mini,MO-Tree,47,3,True
+mini,MO-Tree,50,1,True
+mini,MO-Tree,50,3,True
+mini,MO-Tree,50,5,True
+mini,MO-Tree,51,0,True
+mini,MO-Tree,51,2,True
+mini,MO-Tree,51,7,True
+mini,MO-Tree,51,8,True
+mini,MO-Tree,51,9,True
+mini,MO-Tree,51,10,True
+mini,MO-Tree,51,11,True
+mini,MO-Tree,58,1,True
+mini,MO-Tree,58,7,True
+mini,MO-Tree,58,8,True
+mini,MO-Tree,58,9,True
+mini,MO-Tree,58,10,True
+mini,MO-Tree,61,0,True
+mini,MO-Tree,61,1,True
+mini,MO-Tree,61,2,True
+mini,MO-Tree,61,3,True
+mini,MO-Tree,61,5,True
+mini,MO-Tree,61,7,True
+mini,MO-Tree,61,8,True
+mini,MO-Tree,62,9,True
+mini,MO-Tree,62,10,True
+mini,MO-Tree,64,0,True
+mini,MO-Tree,64,2,True
+mini,MO-Tree,64,5,True
+mini,MO-Tree,64,9,True
+mini,MO-Tree,66,2,True
+mini,MO-Tree,67,0,True
+mini,MO-Tree,67,3,True
+mini,MO-Tree,67,6,True
+mini,MO-Tree,67,7,True
+mini,MO-Tree,67,11,True
+mini,MO-Tree,67,13,True
+mini,MO-Tree,67,14,True
+mini,MO-Tree,68,0,True
+mini,MO-Tree,68,2,True
+mini,MO-Tree,68,4,True
+mini,MO-Tree,70,1,True
+mini,MO-Tree,70,11,True
+mini,MO-Tree,75,1,True
+mini,MO-Tree,79,13,True
+mini,MO-Tree,81,9,True
+mini,MO-Tree,81,11,True
+mini,MO-Tree,83,0,True
+mini,MO-Tree,83,2,True
+mini,MO-Tree,83,7,True
+mini,MO-Tree,83,8,True
+mini,MO-Tree,83,11,True
+mini,MO-Tree,83,14,True
+mini,MO-Tree,84,1,True
+mini,MO-Tree,84,2,True
+mini,MO-Tree,84,9,True
+mini,MO-Tree,84,11,True
+mini,MO-Tree,84,12,True
+mini,MO-Tree,84,13,True
+mini,MO-Tree,86,3,True
+mini,MO-Tree,86,4,True
+mini,MO-Tree,90,8,True
+mini,MO-Tree,92,1,True
+mini,MO-Tree,94,8,True
+mini,MO-Tree,96,8,True
+mini,MO-Tree,96,12,True
+mini,MO-Tree,102,5,True
+mini,MO-Tree,106,1,True
+mini,MO-Tree,106,3,True
+mini,MO-Tree,106,5,True
+mini,MO-Tree,106,9,True
+mini,MO-Tree,107,2,True
+mini,MO-Tree,107,3,True
+mini,MO-Tree,107,11,True
+mini,MO-Tree,109,2,True
+mini,MO-Tree,109,3,True
+mini,MO-Tree,109,8,True
+mini,MO-Tree,111,0,True
+mini,MO-Tree,114,0,True
+mini,MO-Tree,114,2,True
+mini,MO-Tree,117,2,True
+mini,MO-Tree,117,3,True
+mini,MO-Tree,117,9,True
+mini,MO-Tree,117,10,True
+mini,MO-Tree,117,12,True
+mini,MO-Tree,118,2,True
+mini,MO-Tree,118,8,True
+mini,MO-Tree,118,9,True
+mini,MO-Tree,122,1,True
+mini,MO-Tree,122,2,True
+mini,MO-Tree,122,9,True
+mini,MO-Tree,123,5,True
+mini,MO-Tree,123,8,True
+mini,MO-Tree,126,3,True
+mini,MO-Tree,128,11,True
+mini,MO-Tree,130,2,True
+mini,MO-Tree,132,7,True
+mini,MO-Tree,133,3,True
+mini,MO-Tree,133,6,True
+mini,MO-Tree,133,8,True
+mini,MO-Tree,133,12,True
+mini,MO-Tree,135,0,True
+mini,MO-Tree,135,1,True
+mini,MO-Tree,136,1,True
+mini,MO-Tree,140,1,True
+mini,MO-Tree,140,3,True
+mini,MO-Tree,140,5,True
+mini,MO-Tree,140,9,True
+mini,MO-Tree,140,11,True
+mini,MO-Tree,143,10,True
+mini,MO-Tree,144,1,True
+mini,MO-Tree,144,3,True
+mini,MO-Tree,145,11,True
+mini,MO-Tree,146,3,True
+mini,MO-Tree,163,6,True
+mini,MO-Tree,163,12,True
+mini,MO-Tree,167,5,True
+mini,MO-Tree,167,13,True
+mini,MO-Tree,167,14,True
+mini,MO-Tree,169,9,True
+mini,MO-Tree,169,10,True
+mini,MO-Tree,180,10,True
+mini,MO-Tree,180,11,True
+mini,Prompt-matched BoN,1,4,True
+mini,Prompt-matched BoN,1,6,True
+mini,Prompt-matched BoN,1,13,True
+mini,Prompt-matched BoN,1,19,True
+mini,Prompt-matched BoN,1,23,True
+mini,Prompt-matched BoN,2,2,True
+mini,Prompt-matched BoN,2,18,True
+mini,Prompt-matched BoN,2,27,True
+mini,Prompt-matched BoN,5,2,True
+mini,Prompt-matched BoN,5,3,True
+mini,Prompt-matched BoN,5,22,True
+mini,Prompt-matched BoN,5,24,True
+mini,Prompt-matched BoN,6,6,True
+mini,Prompt-matched BoN,6,12,True
+mini,Prompt-matched BoN,6,30,True
+mini,Prompt-matched BoN,8,3,True
+mini,Prompt-matched BoN,8,13,True
+mini,Prompt-matched BoN,8,16,True
+mini,Prompt-matched BoN,8,30,True
+mini,Prompt-matched BoN,10,4,True
+mini,Prompt-matched BoN,10,5,True
+mini,Prompt-matched BoN,10,12,True
+mini,Prompt-matched BoN,10,15,True
+mini,Prompt-matched BoN,10,17,True
+mini,Prompt-matched BoN,10,22,True
+mini,Prompt-matched BoN,10,28,True
+mini,Prompt-matched BoN,10,29,True
+mini,Prompt-matched BoN,10,30,True
+mini,Prompt-matched BoN,13,10,True
+mini,Prompt-matched BoN,13,22,True
+mini,Prompt-matched BoN,15,10,True
+mini,Prompt-matched BoN,16,0,True
+mini,Prompt-matched BoN,16,1,True
+mini,Prompt-matched BoN,16,2,True
+mini,Prompt-matched BoN,16,3,True
+mini,Prompt-matched BoN,16,4,True
+mini,Prompt-matched BoN,16,5,True
+mini,Prompt-matched BoN,16,6,True
+mini,Prompt-matched BoN,16,7,True
+mini,Prompt-matched BoN,16,8,True
+mini,Prompt-matched BoN,16,9,True
+mini,Prompt-matched BoN,16,10,True
+mini,Prompt-matched BoN,16,11,True
+mini,Prompt-matched BoN,16,15,True
+mini,Prompt-matched BoN,16,17,True
+mini,Prompt-matched BoN,16,18,True
+mini,Prompt-matched BoN,16,19,True
+mini,Prompt-matched BoN,16,20,True
+mini,Prompt-matched BoN,16,21,True
+mini,Prompt-matched BoN,16,23,True
+mini,Prompt-matched BoN,16,24,True
+mini,Prompt-matched BoN,16,27,True
+mini,Prompt-matched BoN,16,28,True
+mini,Prompt-matched BoN,16,29,True
+mini,Prompt-matched BoN,16,31,True
+mini,Prompt-matched BoN,17,2,True
+mini,Prompt-matched BoN,17,8,True
+mini,Prompt-matched BoN,17,17,True
+mini,Prompt-matched BoN,17,20,True
+mini,Prompt-matched BoN,20,28,True
+mini,Prompt-matched BoN,25,2,True
+mini,Prompt-matched BoN,25,4,True
+mini,Prompt-matched BoN,25,18,True
+mini,Prompt-matched BoN,26,0,True
+mini,Prompt-matched BoN,26,4,True
+mini,Prompt-matched BoN,26,5,True
+mini,Prompt-matched BoN,26,10,True
+mini,Prompt-matched BoN,26,11,True
+mini,Prompt-matched BoN,26,21,True
+mini,Prompt-matched BoN,26,22,True
+mini,Prompt-matched BoN,26,23,True
+mini,Prompt-matched BoN,26,24,True
+mini,Prompt-matched BoN,26,25,True
+mini,Prompt-matched BoN,26,28,True
+mini,Prompt-matched BoN,26,30,True
+mini,Prompt-matched BoN,28,7,True
+mini,Prompt-matched BoN,28,9,True
+mini,Prompt-matched BoN,28,19,True
+mini,Prompt-matched BoN,28,29,True
+mini,Prompt-matched BoN,30,0,True
+mini,Prompt-matched BoN,30,2,True
+mini,Prompt-matched BoN,30,3,True
+mini,Prompt-matched BoN,30,4,True
+mini,Prompt-matched BoN,30,6,True
+mini,Prompt-matched BoN,30,7,True
+mini,Prompt-matched BoN,30,8,True
+mini,Prompt-matched BoN,30,9,True
+mini,Prompt-matched BoN,30,11,True
+mini,Prompt-matched BoN,30,12,True
+mini,Prompt-matched BoN,30,13,True
+mini,Prompt-matched BoN,30,15,True
+mini,Prompt-matched BoN,30,16,True
+mini,Prompt-matched BoN,30,17,True
+mini,Prompt-matched BoN,30,19,True
+mini,Prompt-matched BoN,30,20,True
+mini,Prompt-matched BoN,30,23,True
+mini,Prompt-matched BoN,30,24,True
+mini,Prompt-matched BoN,30,25,True
+mini,Prompt-matched BoN,30,26,True
+mini,Prompt-matched BoN,30,29,True
+mini,Prompt-matched BoN,35,0,True
+mini,Prompt-matched BoN,35,2,True
+mini,Prompt-matched BoN,35,6,True
+mini,Prompt-matched BoN,35,8,True
+mini,Prompt-matched BoN,35,19,True
+mini,Prompt-matched BoN,35,22,True
+mini,Prompt-matched BoN,35,26,True
+mini,Prompt-matched BoN,35,27,True
+mini,Prompt-matched BoN,38,5,True
+mini,Prompt-matched BoN,38,13,True
+mini,Prompt-matched BoN,40,3,True
+mini,Prompt-matched BoN,40,5,True
+mini,Prompt-matched BoN,40,7,True
+mini,Prompt-matched BoN,40,12,True
+mini,Prompt-matched BoN,40,14,True
+mini,Prompt-matched BoN,40,27,True
+mini,Prompt-matched BoN,40,29,True
+mini,Prompt-matched BoN,41,10,True
+mini,Prompt-matched BoN,42,12,True
+mini,Prompt-matched BoN,42,17,True
+mini,Prompt-matched BoN,42,25,True
+mini,Prompt-matched BoN,44,1,True
+mini,Prompt-matched BoN,44,7,True
+mini,Prompt-matched BoN,44,11,True
+mini,Prompt-matched BoN,44,15,True
+mini,Prompt-matched BoN,44,16,True
+mini,Prompt-matched BoN,47,0,True
+mini,Prompt-matched BoN,47,1,True
+mini,Prompt-matched BoN,47,5,True
+mini,Prompt-matched BoN,47,6,True
+mini,Prompt-matched BoN,47,7,True
+mini,Prompt-matched BoN,47,8,True
+mini,Prompt-matched BoN,47,9,True
+mini,Prompt-matched BoN,47,11,True
+mini,Prompt-matched BoN,47,14,True
+mini,Prompt-matched BoN,47,15,True
+mini,Prompt-matched BoN,47,17,True
+mini,Prompt-matched BoN,47,18,True
+mini,Prompt-matched BoN,47,19,True
+mini,Prompt-matched BoN,47,20,True
+mini,Prompt-matched BoN,47,24,True
+mini,Prompt-matched BoN,47,25,True
+mini,Prompt-matched BoN,47,26,True
+mini,Prompt-matched BoN,47,27,True
+mini,Prompt-matched BoN,47,29,True
+mini,Prompt-matched BoN,47,30,True
+mini,Prompt-matched BoN,49,0,True
+mini,Prompt-matched BoN,49,27,True
+mini,Prompt-matched BoN,50,0,True
+mini,Prompt-matched BoN,50,1,True
+mini,Prompt-matched BoN,50,2,True
+mini,Prompt-matched BoN,50,3,True
+mini,Prompt-matched BoN,50,5,True
+mini,Prompt-matched BoN,50,7,True
+mini,Prompt-matched BoN,50,8,True
+mini,Prompt-matched BoN,50,10,True
+mini,Prompt-matched BoN,50,13,True
+mini,Prompt-matched BoN,50,14,True
+mini,Prompt-matched BoN,50,17,True
+mini,Prompt-matched BoN,50,20,True
+mini,Prompt-matched BoN,50,21,True
+mini,Prompt-matched BoN,50,22,True
+mini,Prompt-matched BoN,50,25,True
+mini,Prompt-matched BoN,50,26,True
+mini,Prompt-matched BoN,50,27,True
+mini,Prompt-matched BoN,50,29,True
+mini,Prompt-matched BoN,50,31,True
+mini,Prompt-matched BoN,51,0,True
+mini,Prompt-matched BoN,51,1,True
+mini,Prompt-matched BoN,51,4,True
+mini,Prompt-matched BoN,51,8,True
+mini,Prompt-matched BoN,51,17,True
+mini,Prompt-matched BoN,51,18,True
+mini,Prompt-matched BoN,51,19,True
+mini,Prompt-matched BoN,51,21,True
+mini,Prompt-matched BoN,51,22,True
+mini,Prompt-matched BoN,51,23,True
+mini,Prompt-matched BoN,51,24,True
+mini,Prompt-matched BoN,51,31,True
+mini,Prompt-matched BoN,52,3,True
+mini,Prompt-matched BoN,54,17,True
+mini,Prompt-matched BoN,58,0,True
+mini,Prompt-matched BoN,58,2,True
+mini,Prompt-matched BoN,58,3,True
+mini,Prompt-matched BoN,58,4,True
+mini,Prompt-matched BoN,58,6,True
+mini,Prompt-matched BoN,58,8,True
+mini,Prompt-matched BoN,58,9,True
+mini,Prompt-matched BoN,58,10,True
+mini,Prompt-matched BoN,58,11,True
+mini,Prompt-matched BoN,58,12,True
+mini,Prompt-matched BoN,58,13,True
+mini,Prompt-matched BoN,58,17,True
+mini,Prompt-matched BoN,58,18,True
+mini,Prompt-matched BoN,58,19,True
+mini,Prompt-matched BoN,58,20,True
+mini,Prompt-matched BoN,58,25,True
+mini,Prompt-matched BoN,58,26,True
+mini,Prompt-matched BoN,58,27,True
+mini,Prompt-matched BoN,58,28,True
+mini,Prompt-matched BoN,58,29,True
+mini,Prompt-matched BoN,58,31,True
+mini,Prompt-matched BoN,61,1,True
+mini,Prompt-matched BoN,61,3,True
+mini,Prompt-matched BoN,61,5,True
+mini,Prompt-matched BoN,61,7,True
+mini,Prompt-matched BoN,61,9,True
+mini,Prompt-matched BoN,61,11,True
+mini,Prompt-matched BoN,61,12,True
+mini,Prompt-matched BoN,61,20,True
+mini,Prompt-matched BoN,61,21,True
+mini,Prompt-matched BoN,61,23,True
+mini,Prompt-matched BoN,61,25,True
+mini,Prompt-matched BoN,61,27,True
+mini,Prompt-matched BoN,61,28,True
+mini,Prompt-matched BoN,62,3,True
+mini,Prompt-matched BoN,62,13,True
+mini,Prompt-matched BoN,62,15,True
+mini,Prompt-matched BoN,62,16,True
+mini,Prompt-matched BoN,62,19,True
+mini,Prompt-matched BoN,62,20,True
+mini,Prompt-matched BoN,62,21,True
+mini,Prompt-matched BoN,62,23,True
+mini,Prompt-matched BoN,62,26,True
+mini,Prompt-matched BoN,62,29,True
+mini,Prompt-matched BoN,62,30,True
+mini,Prompt-matched BoN,63,3,True
+mini,Prompt-matched BoN,63,15,True
+mini,Prompt-matched BoN,64,3,True
+mini,Prompt-matched BoN,64,8,True
+mini,Prompt-matched BoN,64,11,True
+mini,Prompt-matched BoN,64,29,True
+mini,Prompt-matched BoN,64,30,True
+mini,Prompt-matched BoN,65,2,True
+mini,Prompt-matched BoN,65,3,True
+mini,Prompt-matched BoN,65,5,True
+mini,Prompt-matched BoN,65,7,True
+mini,Prompt-matched BoN,65,8,True
+mini,Prompt-matched BoN,65,9,True
+mini,Prompt-matched BoN,65,10,True
+mini,Prompt-matched BoN,65,13,True
+mini,Prompt-matched BoN,65,17,True
+mini,Prompt-matched BoN,65,18,True
+mini,Prompt-matched BoN,65,19,True
+mini,Prompt-matched BoN,65,21,True
+mini,Prompt-matched BoN,65,22,True
+mini,Prompt-matched BoN,65,23,True
+mini,Prompt-matched BoN,65,26,True
+mini,Prompt-matched BoN,65,27,True
+mini,Prompt-matched BoN,65,28,True
+mini,Prompt-matched BoN,65,29,True
+mini,Prompt-matched BoN,67,2,True
+mini,Prompt-matched BoN,67,4,True
+mini,Prompt-matched BoN,67,5,True
+mini,Prompt-matched BoN,67,6,True
+mini,Prompt-matched BoN,67,10,True
+mini,Prompt-matched BoN,67,12,True
+mini,Prompt-matched BoN,67,15,True
+mini,Prompt-matched BoN,67,18,True
+mini,Prompt-matched BoN,67,19,True
+mini,Prompt-matched BoN,67,20,True
+mini,Prompt-matched BoN,67,21,True
+mini,Prompt-matched BoN,67,22,True
+mini,Prompt-matched BoN,67,24,True
+mini,Prompt-matched BoN,67,25,True
+mini,Prompt-matched BoN,67,26,True
+mini,Prompt-matched BoN,67,29,True
+mini,Prompt-matched BoN,67,30,True
+mini,Prompt-matched BoN,67,31,True
+mini,Prompt-matched BoN,70,0,True
+mini,Prompt-matched BoN,73,10,True
+mini,Prompt-matched BoN,75,2,True
+mini,Prompt-matched BoN,75,8,True
+mini,Prompt-matched BoN,75,9,True
+mini,Prompt-matched BoN,75,12,True
+mini,Prompt-matched BoN,75,27,True
+mini,Prompt-matched BoN,76,17,True
+mini,Prompt-matched BoN,76,22,True
+mini,Prompt-matched BoN,76,23,True
+mini,Prompt-matched BoN,76,25,True
+mini,Prompt-matched BoN,76,29,True
+mini,Prompt-matched BoN,77,9,True
+mini,Prompt-matched BoN,77,15,True
+mini,Prompt-matched BoN,78,15,True
+mini,Prompt-matched BoN,79,11,True
+mini,Prompt-matched BoN,81,20,True
+mini,Prompt-matched BoN,81,26,True
+mini,Prompt-matched BoN,82,6,True
+mini,Prompt-matched BoN,82,24,True
+mini,Prompt-matched BoN,82,26,True
+mini,Prompt-matched BoN,82,29,True
+mini,Prompt-matched BoN,83,6,True
+mini,Prompt-matched BoN,83,7,True
+mini,Prompt-matched BoN,83,11,True
+mini,Prompt-matched BoN,83,13,True
+mini,Prompt-matched BoN,83,14,True
+mini,Prompt-matched BoN,83,17,True
+mini,Prompt-matched BoN,83,18,True
+mini,Prompt-matched BoN,83,20,True
+mini,Prompt-matched BoN,83,21,True
+mini,Prompt-matched BoN,84,1,True
+mini,Prompt-matched BoN,84,3,True
+mini,Prompt-matched BoN,84,4,True
+mini,Prompt-matched BoN,84,5,True
+mini,Prompt-matched BoN,84,6,True
+mini,Prompt-matched BoN,84,8,True
+mini,Prompt-matched BoN,84,9,True
+mini,Prompt-matched BoN,84,10,True
+mini,Prompt-matched BoN,84,15,True
+mini,Prompt-matched BoN,84,16,True
+mini,Prompt-matched BoN,84,20,True
+mini,Prompt-matched BoN,84,21,True
+mini,Prompt-matched BoN,84,23,True
+mini,Prompt-matched BoN,84,25,True
+mini,Prompt-matched BoN,84,26,True
+mini,Prompt-matched BoN,84,27,True
+mini,Prompt-matched BoN,84,29,True
+mini,Prompt-matched BoN,84,30,True
+mini,Prompt-matched BoN,84,31,True
+mini,Prompt-matched BoN,85,14,True
+mini,Prompt-matched BoN,85,29,True
+mini,Prompt-matched BoN,86,0,True
+mini,Prompt-matched BoN,86,26,True
+mini,Prompt-matched BoN,87,12,True
+mini,Prompt-matched BoN,88,12,True
+mini,Prompt-matched BoN,92,0,True
+mini,Prompt-matched BoN,92,10,True
+mini,Prompt-matched BoN,92,12,True
+mini,Prompt-matched BoN,92,18,True
+mini,Prompt-matched BoN,92,23,True
+mini,Prompt-matched BoN,94,8,True
+mini,Prompt-matched BoN,94,10,True
+mini,Prompt-matched BoN,94,12,True
+mini,Prompt-matched BoN,94,13,True
+mini,Prompt-matched BoN,94,14,True
+mini,Prompt-matched BoN,94,16,True
+mini,Prompt-matched BoN,94,18,True
+mini,Prompt-matched BoN,94,19,True
+mini,Prompt-matched BoN,94,27,True
+mini,Prompt-matched BoN,94,30,True
+mini,Prompt-matched BoN,96,2,True
+mini,Prompt-matched BoN,98,4,True
+mini,Prompt-matched BoN,98,30,True
+mini,Prompt-matched BoN,100,10,True
+mini,Prompt-matched BoN,100,12,True
+mini,Prompt-matched BoN,100,22,True
+mini,Prompt-matched BoN,102,3,True
+mini,Prompt-matched BoN,102,13,True
+mini,Prompt-matched BoN,102,21,True
+mini,Prompt-matched BoN,102,30,True
+mini,Prompt-matched BoN,103,19,True
+mini,Prompt-matched BoN,105,25,True
+mini,Prompt-matched BoN,106,4,True
+mini,Prompt-matched BoN,106,5,True
+mini,Prompt-matched BoN,106,11,True
+mini,Prompt-matched BoN,106,18,True
+mini,Prompt-matched BoN,106,21,True
+mini,Prompt-matched BoN,106,28,True
+mini,Prompt-matched BoN,107,14,True
+mini,Prompt-matched BoN,107,20,True
+mini,Prompt-matched BoN,108,24,True
+mini,Prompt-matched BoN,108,29,True
+mini,Prompt-matched BoN,109,1,True
+mini,Prompt-matched BoN,109,5,True
+mini,Prompt-matched BoN,109,9,True
+mini,Prompt-matched BoN,109,10,True
+mini,Prompt-matched BoN,109,15,True
+mini,Prompt-matched BoN,109,17,True
+mini,Prompt-matched BoN,109,19,True
+mini,Prompt-matched BoN,109,23,True
+mini,Prompt-matched BoN,109,26,True
+mini,Prompt-matched BoN,109,27,True
+mini,Prompt-matched BoN,109,28,True
+mini,Prompt-matched BoN,109,31,True
+mini,Prompt-matched BoN,111,11,True
+mini,Prompt-matched BoN,114,2,True
+mini,Prompt-matched BoN,114,8,True
+mini,Prompt-matched BoN,114,9,True
+mini,Prompt-matched BoN,114,12,True
+mini,Prompt-matched BoN,114,17,True
+mini,Prompt-matched BoN,117,7,True
+mini,Prompt-matched BoN,117,12,True
+mini,Prompt-matched BoN,117,13,True
+mini,Prompt-matched BoN,117,14,True
+mini,Prompt-matched BoN,117,29,True
+mini,Prompt-matched BoN,118,30,True
+mini,Prompt-matched BoN,122,2,True
+mini,Prompt-matched BoN,122,4,True
+mini,Prompt-matched BoN,122,5,True
+mini,Prompt-matched BoN,122,9,True
+mini,Prompt-matched BoN,122,12,True
+mini,Prompt-matched BoN,122,16,True
+mini,Prompt-matched BoN,122,17,True
+mini,Prompt-matched BoN,122,22,True
+mini,Prompt-matched BoN,122,23,True
+mini,Prompt-matched BoN,122,25,True
+mini,Prompt-matched BoN,122,27,True
+mini,Prompt-matched BoN,122,28,True
+mini,Prompt-matched BoN,123,24,True
+mini,Prompt-matched BoN,124,4,True
+mini,Prompt-matched BoN,124,5,True
+mini,Prompt-matched BoN,124,16,True
+mini,Prompt-matched BoN,124,27,True
+mini,Prompt-matched BoN,124,31,True
+mini,Prompt-matched BoN,125,31,True
+mini,Prompt-matched BoN,126,0,True
+mini,Prompt-matched BoN,126,2,True
+mini,Prompt-matched BoN,126,13,True
+mini,Prompt-matched BoN,126,20,True
+mini,Prompt-matched BoN,126,25,True
+mini,Prompt-matched BoN,126,27,True
+mini,Prompt-matched BoN,126,29,True
+mini,Prompt-matched BoN,128,5,True
+mini,Prompt-matched BoN,128,7,True
+mini,Prompt-matched BoN,128,11,True
+mini,Prompt-matched BoN,128,15,True
+mini,Prompt-matched BoN,128,16,True
+mini,Prompt-matched BoN,128,17,True
+mini,Prompt-matched BoN,128,20,True
+mini,Prompt-matched BoN,128,30,True
+mini,Prompt-matched BoN,129,30,True
+mini,Prompt-matched BoN,133,0,True
+mini,Prompt-matched BoN,133,2,True
+mini,Prompt-matched BoN,133,4,True
+mini,Prompt-matched BoN,133,6,True
+mini,Prompt-matched BoN,133,8,True
+mini,Prompt-matched BoN,133,9,True
+mini,Prompt-matched BoN,133,10,True
+mini,Prompt-matched BoN,133,11,True
+mini,Prompt-matched BoN,133,15,True
+mini,Prompt-matched BoN,133,17,True
+mini,Prompt-matched BoN,133,20,True
+mini,Prompt-matched BoN,133,22,True
+mini,Prompt-matched BoN,133,24,True
+mini,Prompt-matched BoN,133,25,True
+mini,Prompt-matched BoN,133,30,True
+mini,Prompt-matched BoN,136,0,True
+mini,Prompt-matched BoN,136,4,True
+mini,Prompt-matched BoN,136,6,True
+mini,Prompt-matched BoN,136,13,True
+mini,Prompt-matched BoN,136,15,True
+mini,Prompt-matched BoN,136,17,True
+mini,Prompt-matched BoN,136,18,True
+mini,Prompt-matched BoN,136,22,True
+mini,Prompt-matched BoN,136,26,True
+mini,Prompt-matched BoN,136,27,True
+mini,Prompt-matched BoN,136,28,True
+mini,Prompt-matched BoN,136,29,True
+mini,Prompt-matched BoN,136,31,True
+mini,Prompt-matched BoN,140,1,True
+mini,Prompt-matched BoN,140,2,True
+mini,Prompt-matched BoN,140,5,True
+mini,Prompt-matched BoN,140,6,True
+mini,Prompt-matched BoN,140,12,True
+mini,Prompt-matched BoN,140,13,True
+mini,Prompt-matched BoN,140,14,True
+mini,Prompt-matched BoN,140,15,True
+mini,Prompt-matched BoN,140,16,True
+mini,Prompt-matched BoN,140,17,True
+mini,Prompt-matched BoN,140,21,True
+mini,Prompt-matched BoN,142,0,True
+mini,Prompt-matched BoN,142,6,True
+mini,Prompt-matched BoN,142,16,True
+mini,Prompt-matched BoN,142,22,True
+mini,Prompt-matched BoN,144,0,True
+mini,Prompt-matched BoN,144,2,True
+mini,Prompt-matched BoN,144,9,True
+mini,Prompt-matched BoN,144,12,True
+mini,Prompt-matched BoN,144,24,True
+mini,Prompt-matched BoN,144,28,True
+mini,Prompt-matched BoN,145,22,True
+mini,Prompt-matched BoN,145,23,True
+mini,Prompt-matched BoN,145,26,True
+mini,Prompt-matched BoN,146,5,True
+mini,Prompt-matched BoN,146,29,True
+mini,Prompt-matched BoN,156,26,True
+mini,Prompt-matched BoN,157,11,True
+mini,Prompt-matched BoN,157,13,True
+mini,Prompt-matched BoN,157,23,True
+mini,Prompt-matched BoN,163,0,True
+mini,Prompt-matched BoN,163,8,True
+mini,Prompt-matched BoN,163,12,True
+mini,Prompt-matched BoN,163,20,True
+mini,Prompt-matched BoN,163,25,True
+mini,Prompt-matched BoN,163,29,True
+mini,Prompt-matched BoN,167,12,True
+mini,Prompt-matched BoN,167,13,True
+mini,Prompt-matched BoN,167,16,True
+mini,Prompt-matched BoN,167,17,True
+mini,Prompt-matched BoN,167,25,True
+mini,Prompt-matched BoN,171,26,True
+mini,Prompt-matched BoN,171,28,True
+mini,Prompt-matched BoN,177,23,True
+mini,Prompt-matched BoN,179,24,True
+mini,Prompt-matched BoN,179,26,True
+mini,Prompt-matched BoN,180,19,True
+mini,Prompt-matched BoN,180,24,True
+mini,Prompt-matched BoN,183,27,True
+qwen_b1,CoT-tree,3,0,True
+qwen_b1,CoT-tree,3,7,True
+qwen_b1,CoT-tree,8,6,True
+qwen_b1,CoT-tree,10,9,True
+qwen_b1,CoT-tree,14,8,True
+qwen_b1,CoT-tree,15,5,True
+qwen_b1,CoT-tree,15,7,True
+qwen_b1,CoT-tree,21,3,True
+qwen_b1,CoT-tree,22,5,True
+qwen_b1,CoT-tree,22,6,True
+qwen_b1,CoT-tree,30,0,True
+qwen_b1,CoT-tree,30,1,True
+qwen_b1,CoT-tree,40,0,True
+qwen_b1,CoT-tree,40,4,True
+qwen_b1,CoT-tree,40,6,True
+qwen_b1,CoT-tree,41,0,True
+qwen_b1,CoT-tree,41,11,True
+qwen_b1,CoT-tree,41,12,True
+qwen_b1,CoT-tree,42,12,True
+qwen_b1,CoT-tree,46,14,True
+qwen_b1,CoT-tree,50,3,True
+qwen_b1,CoT-tree,51,5,True
+qwen_b1,CoT-tree,54,8,True
+qwen_b1,CoT-tree,55,12,True
+qwen_b1,CoT-tree,65,3,True
+qwen_b1,CoT-tree,74,9,True
+qwen_b1,CoT-tree,75,0,True
+qwen_b1,CoT-tree,75,4,True
+qwen_b1,CoT-tree,75,7,True
+qwen_b1,CoT-tree,75,9,True
+qwen_b1,CoT-tree,76,3,True
+qwen_b1,CoT-tree,76,6,True
+qwen_b1,CoT-tree,82,0,True
+qwen_b1,CoT-tree,82,3,True
+qwen_b1,CoT-tree,82,8,True
+qwen_b1,CoT-tree,87,5,True
+qwen_b1,CoT-tree,87,11,True
+qwen_b1,CoT-tree,88,0,True
+qwen_b1,CoT-tree,92,0,True
+qwen_b1,CoT-tree,92,3,True
+qwen_b1,CoT-tree,92,5,True
+qwen_b1,CoT-tree,92,8,True
+qwen_b1,CoT-tree,92,9,True
+qwen_b1,CoT-tree,94,11,True
+qwen_b1,CoT-tree,99,2,True
+qwen_b1,CoT-tree,100,15,True
+qwen_b1,CoT-tree,102,1,True
+qwen_b1,CoT-tree,102,6,True
+qwen_b1,CoT-tree,103,3,True
+qwen_b1,CoT-tree,103,4,True
+qwen_b1,CoT-tree,119,8,True
+qwen_b1,CoT-tree,119,9,True
+qwen_b1,CoT-tree,122,21,True
+qwen_b1,CoT-tree,124,7,True
+qwen_b1,CoT-tree,135,3,True
+qwen_b1,CoT-tree,135,10,True
+qwen_b1,CoT-tree,135,12,True
+qwen_b1,CoT-tree,135,15,True
+qwen_b1,CoT-tree,135,19,True
+qwen_b1,CoT-tree,135,22,True
+qwen_b1,CoT-tree,136,0,True
+qwen_b1,CoT-tree,136,2,True
+qwen_b1,CoT-tree,136,18,True
+qwen_b1,CoT-tree,144,3,True
+qwen_b1,CoT-tree,178,2,True
+qwen_b1,MO-Tree,3,2,True
+qwen_b1,MO-Tree,8,4,True
+qwen_b1,MO-Tree,10,4,True
+qwen_b1,MO-Tree,15,3,True
+qwen_b1,MO-Tree,19,1,True
+qwen_b1,MO-Tree,22,1,True
+qwen_b1,MO-Tree,22,2,True
+qwen_b1,MO-Tree,25,6,True
+qwen_b1,MO-Tree,25,7,True
+qwen_b1,MO-Tree,25,8,True
+qwen_b1,MO-Tree,30,0,True
+qwen_b1,MO-Tree,30,4,True
+qwen_b1,MO-Tree,40,1,True
+qwen_b1,MO-Tree,47,0,True
+qwen_b1,MO-Tree,47,3,True
+qwen_b1,MO-Tree,62,5,True
+qwen_b1,MO-Tree,62,6,True
+qwen_b1,MO-Tree,62,7,True
+qwen_b1,MO-Tree,62,8,True
+qwen_b1,MO-Tree,62,9,True
+qwen_b1,MO-Tree,73,3,True
+qwen_b1,MO-Tree,76,0,True
+qwen_b1,MO-Tree,82,2,True
+qwen_b1,MO-Tree,82,3,True
+qwen_b1,MO-Tree,82,4,True
+qwen_b1,MO-Tree,82,5,True
+qwen_b1,MO-Tree,82,6,True
+qwen_b1,MO-Tree,82,7,True
+qwen_b1,MO-Tree,82,8,True
+qwen_b1,MO-Tree,87,8,True
+qwen_b1,MO-Tree,92,3,True
+qwen_b1,MO-Tree,95,2,True
+qwen_b1,MO-Tree,95,4,True
+qwen_b1,MO-Tree,102,2,True
+qwen_b1,MO-Tree,102,3,True
+qwen_b1,MO-Tree,119,3,True
+qwen_b1,MO-Tree,122,1,True
+qwen_b1,MO-Tree,125,4,True
+qwen_b1,MO-Tree,133,4,True
+qwen_b1,MO-Tree,133,5,True
+qwen_b1,MO-Tree,135,0,True
+qwen_b1,MO-Tree,135,3,True
+qwen_b1,MO-Tree,135,6,True
+qwen_b1,MO-Tree,135,7,True
+qwen_b1,MO-Tree,135,12,True
+qwen_b1,MO-Tree,136,11,True
+qwen_b1,MO-Tree,142,1,True
+qwen_b1,MO-Tree,165,1,True
+qwen_b1,MO-Tree,173,0,True
+qwen_b2,CoT-tree,3,1,True
+qwen_b2,CoT-tree,3,4,True
+qwen_b2,CoT-tree,8,4,True
+qwen_b2,CoT-tree,8,6,True
+qwen_b2,CoT-tree,8,7,True
+qwen_b2,CoT-tree,8,9,True
+qwen_b2,CoT-tree,10,6,True
+qwen_b2,CoT-tree,14,2,True
+qwen_b2,CoT-tree,14,4,True
+qwen_b2,CoT-tree,14,6,True
+qwen_b2,CoT-tree,15,3,True
+qwen_b2,CoT-tree,15,7,True
+qwen_b2,CoT-tree,21,1,True
+qwen_b2,CoT-tree,22,2,True
+qwen_b2,CoT-tree,30,0,True
+qwen_b2,CoT-tree,30,1,True
+qwen_b2,CoT-tree,40,0,True
+qwen_b2,CoT-tree,40,4,True
+qwen_b2,CoT-tree,40,10,True
+qwen_b2,CoT-tree,41,4,True
+qwen_b2,CoT-tree,41,5,True
+qwen_b2,CoT-tree,41,11,True
+qwen_b2,CoT-tree,42,12,True
+qwen_b2,CoT-tree,46,4,True
+qwen_b2,CoT-tree,47,0,True
+qwen_b2,CoT-tree,50,2,True
+qwen_b2,CoT-tree,51,3,True
+qwen_b2,CoT-tree,55,15,True
+qwen_b2,CoT-tree,60,12,True
+qwen_b2,CoT-tree,65,1,True
+qwen_b2,CoT-tree,65,4,True
+qwen_b2,CoT-tree,72,3,True
+qwen_b2,CoT-tree,74,6,True
+qwen_b2,CoT-tree,75,0,True
+qwen_b2,CoT-tree,75,15,True
+qwen_b2,CoT-tree,76,1,True
+qwen_b2,CoT-tree,76,9,True
+qwen_b2,CoT-tree,80,6,True
+qwen_b2,CoT-tree,82,2,True
+qwen_b2,CoT-tree,82,4,True
+qwen_b2,CoT-tree,82,5,True
+qwen_b2,CoT-tree,82,7,True
+qwen_b2,CoT-tree,82,8,True
+qwen_b2,CoT-tree,83,3,True
+qwen_b2,CoT-tree,87,2,True
+qwen_b2,CoT-tree,92,1,True
+qwen_b2,CoT-tree,92,9,True
+qwen_b2,CoT-tree,94,2,True
+qwen_b2,CoT-tree,95,0,True
+qwen_b2,CoT-tree,102,2,True
+qwen_b2,CoT-tree,102,4,True
+qwen_b2,CoT-tree,102,9,True
+qwen_b2,CoT-tree,103,4,True
+qwen_b2,CoT-tree,119,1,True
+qwen_b2,CoT-tree,119,5,True
+qwen_b2,CoT-tree,119,7,True
+qwen_b2,CoT-tree,119,8,True
+qwen_b2,CoT-tree,122,4,True
+qwen_b2,CoT-tree,122,6,True
+qwen_b2,CoT-tree,122,10,True
+qwen_b2,CoT-tree,124,1,True
+qwen_b2,CoT-tree,125,6,True
+qwen_b2,CoT-tree,135,2,True
+qwen_b2,CoT-tree,135,3,True
+qwen_b2,CoT-tree,135,4,True
+qwen_b2,CoT-tree,135,7,True
+qwen_b2,CoT-tree,135,8,True
+qwen_b2,CoT-tree,135,19,True
+qwen_b2,CoT-tree,136,1,True
+qwen_b2,CoT-tree,136,16,True
+qwen_b2,CoT-tree,136,22,True
+qwen_b2,CoT-tree,144,11,True
+qwen_b2,CoT-tree,144,14,True
+qwen_b2,CoT-tree,145,7,True
+qwen_b2,CoT-tree,159,2,True
+qwen_b2,CoT-tree,172,0,True
+qwen_b2,CoT-tree,174,3,True
+qwen_b2,CoT-tree,178,2,True
+qwen_b2,CoT-tree,183,0,True
+qwen_b2,MO-Tree,3,6,True
+qwen_b2,MO-Tree,25,6,True
+qwen_b2,MO-Tree,30,0,True
+qwen_b2,MO-Tree,30,1,True
+qwen_b2,MO-Tree,30,2,True
+qwen_b2,MO-Tree,40,0,True
+qwen_b2,MO-Tree,50,0,True
+qwen_b2,MO-Tree,50,5,True
+qwen_b2,MO-Tree,65,0,True
+qwen_b2,MO-Tree,65,3,True
+qwen_b2,MO-Tree,65,4,True
+qwen_b2,MO-Tree,66,5,True
+qwen_b2,MO-Tree,75,5,True
+qwen_b2,MO-Tree,76,1,True
+qwen_b2,MO-Tree,89,7,True
+qwen_b2,MO-Tree,89,8,True
+qwen_b2,MO-Tree,89,9,True
+qwen_b2,MO-Tree,89,10,True
+qwen_b2,MO-Tree,89,11,True
+qwen_b2,MO-Tree,89,12,True
+qwen_b2,MO-Tree,92,1,True
+qwen_b2,MO-Tree,92,3,True
+qwen_b2,MO-Tree,92,4,True
+qwen_b2,MO-Tree,94,3,True
+qwen_b2,MO-Tree,95,2,True
+qwen_b2,MO-Tree,101,1,True
+qwen_b2,MO-Tree,102,0,True
+qwen_b2,MO-Tree,103,3,True
+qwen_b2,MO-Tree,103,5,True
+qwen_b2,MO-Tree,103,6,True
+qwen_b2,MO-Tree,103,7,True
+qwen_b2,MO-Tree,103,8,True
+qwen_b2,MO-Tree,124,4,True
+qwen_b2,MO-Tree,125,4,True
+qwen_b2,MO-Tree,125,5,True
+qwen_b2,MO-Tree,125,6,True
+qwen_b2,MO-Tree,125,7,True
+qwen_b2,MO-Tree,125,8,True
+qwen_b2,MO-Tree,125,9,True
+qwen_b2,MO-Tree,133,6,True
+qwen_b2,MO-Tree,133,7,True
+qwen_b2,MO-Tree,133,8,True
+qwen_b2,MO-Tree,133,9,True
+qwen_b2,MO-Tree,133,11,True
+qwen_b2,MO-Tree,135,2,True
+qwen_b2,MO-Tree,136,0,True
+qwen_b2,MO-Tree,136,4,True
+qwen_b2,MO-Tree,138,7,True
+qwen_b2,MO-Tree,151,1,True
+qwen,Prompt-matched BoN,3,13,True
+qwen,Prompt-matched BoN,3,18,True
+qwen,Prompt-matched BoN,3,21,True
+qwen,Prompt-matched BoN,3,27,True
+qwen,Prompt-matched BoN,8,19,True
+qwen,Prompt-matched BoN,8,33,True
+qwen,Prompt-matched BoN,14,18,True
+qwen,Prompt-matched BoN,15,4,True
+qwen,Prompt-matched BoN,15,11,True
+qwen,Prompt-matched BoN,15,28,True
+qwen,Prompt-matched BoN,21,18,True
+qwen,Prompt-matched BoN,22,6,True
+qwen,Prompt-matched BoN,22,20,True
+qwen,Prompt-matched BoN,22,22,True
+qwen,Prompt-matched BoN,30,0,True
+qwen,Prompt-matched BoN,30,1,True
+qwen,Prompt-matched BoN,30,2,True
+qwen,Prompt-matched BoN,30,3,True
+qwen,Prompt-matched BoN,30,4,True
+qwen,Prompt-matched BoN,30,5,True
+qwen,Prompt-matched BoN,30,6,True
+qwen,Prompt-matched BoN,30,7,True
+qwen,Prompt-matched BoN,30,8,True
+qwen,Prompt-matched BoN,30,9,True
+qwen,Prompt-matched BoN,30,10,True
+qwen,Prompt-matched BoN,30,11,True
+qwen,Prompt-matched BoN,30,12,True
+qwen,Prompt-matched BoN,30,13,True
+qwen,Prompt-matched BoN,30,15,True
+qwen,Prompt-matched BoN,30,17,True
+qwen,Prompt-matched BoN,30,19,True
+qwen,Prompt-matched BoN,30,20,True
+qwen,Prompt-matched BoN,30,21,True
+qwen,Prompt-matched BoN,30,22,True
+qwen,Prompt-matched BoN,30,23,True
+qwen,Prompt-matched BoN,30,24,True
+qwen,Prompt-matched BoN,30,27,True
+qwen,Prompt-matched BoN,30,28,True
+qwen,Prompt-matched BoN,30,29,True
+qwen,Prompt-matched BoN,30,30,True
+qwen,Prompt-matched BoN,30,31,True
+qwen,Prompt-matched BoN,30,32,True
+qwen,Prompt-matched BoN,30,33,True
+qwen,Prompt-matched BoN,40,2,True
+qwen,Prompt-matched BoN,40,3,True
+qwen,Prompt-matched BoN,40,4,True
+qwen,Prompt-matched BoN,40,5,True
+qwen,Prompt-matched BoN,40,7,True
+qwen,Prompt-matched BoN,40,9,True
+qwen,Prompt-matched BoN,40,12,True
+qwen,Prompt-matched BoN,40,13,True
+qwen,Prompt-matched BoN,40,15,True
+qwen,Prompt-matched BoN,40,16,True
+qwen,Prompt-matched BoN,40,17,True
+qwen,Prompt-matched BoN,40,18,True
+qwen,Prompt-matched BoN,40,21,True
+qwen,Prompt-matched BoN,40,22,True
+qwen,Prompt-matched BoN,40,23,True
+qwen,Prompt-matched BoN,40,24,True
+qwen,Prompt-matched BoN,40,26,True
+qwen,Prompt-matched BoN,40,28,True
+qwen,Prompt-matched BoN,40,31,True
+qwen,Prompt-matched BoN,40,32,True
+qwen,Prompt-matched BoN,41,1,True
+qwen,Prompt-matched BoN,41,10,True
+qwen,Prompt-matched BoN,41,12,True
+qwen,Prompt-matched BoN,41,15,True
+qwen,Prompt-matched BoN,41,16,True
+qwen,Prompt-matched BoN,41,24,True
+qwen,Prompt-matched BoN,41,25,True
+qwen,Prompt-matched BoN,41,31,True
+qwen,Prompt-matched BoN,42,2,True
+qwen,Prompt-matched BoN,42,26,True
+qwen,Prompt-matched BoN,42,31,True
+qwen,Prompt-matched BoN,46,23,True
+qwen,Prompt-matched BoN,50,1,True
+qwen,Prompt-matched BoN,50,5,True
+qwen,Prompt-matched BoN,50,13,True
+qwen,Prompt-matched BoN,50,23,True
+qwen,Prompt-matched BoN,51,3,True
+qwen,Prompt-matched BoN,51,12,True
+qwen,Prompt-matched BoN,51,33,True
+qwen,Prompt-matched BoN,60,33,True
+qwen,Prompt-matched BoN,65,1,True
+qwen,Prompt-matched BoN,65,3,True
+qwen,Prompt-matched BoN,65,5,True
+qwen,Prompt-matched BoN,65,8,True
+qwen,Prompt-matched BoN,65,11,True
+qwen,Prompt-matched BoN,65,20,True
+qwen,Prompt-matched BoN,65,23,True
+qwen,Prompt-matched BoN,65,33,True
+qwen,Prompt-matched BoN,75,0,True
+qwen,Prompt-matched BoN,75,2,True
+qwen,Prompt-matched BoN,75,3,True
+qwen,Prompt-matched BoN,75,4,True
+qwen,Prompt-matched BoN,75,6,True
+qwen,Prompt-matched BoN,75,7,True
+qwen,Prompt-matched BoN,75,8,True
+qwen,Prompt-matched BoN,75,9,True
+qwen,Prompt-matched BoN,75,10,True
+qwen,Prompt-matched BoN,75,11,True
+qwen,Prompt-matched BoN,75,12,True
+qwen,Prompt-matched BoN,75,19,True
+qwen,Prompt-matched BoN,75,22,True
+qwen,Prompt-matched BoN,75,26,True
+qwen,Prompt-matched BoN,75,27,True
+qwen,Prompt-matched BoN,75,30,True
+qwen,Prompt-matched BoN,76,6,True
+qwen,Prompt-matched BoN,76,8,True
+qwen,Prompt-matched BoN,76,9,True
+qwen,Prompt-matched BoN,76,12,True
+qwen,Prompt-matched BoN,76,18,True
+qwen,Prompt-matched BoN,76,20,True
+qwen,Prompt-matched BoN,76,22,True
+qwen,Prompt-matched BoN,76,23,True
+qwen,Prompt-matched BoN,76,24,True
+qwen,Prompt-matched BoN,76,25,True
+qwen,Prompt-matched BoN,76,26,True
+qwen,Prompt-matched BoN,76,28,True
+qwen,Prompt-matched BoN,76,29,True
+qwen,Prompt-matched BoN,76,33,True
+qwen,Prompt-matched BoN,82,0,True
+qwen,Prompt-matched BoN,82,1,True
+qwen,Prompt-matched BoN,82,5,True
+qwen,Prompt-matched BoN,82,6,True
+qwen,Prompt-matched BoN,82,11,True
+qwen,Prompt-matched BoN,82,19,True
+qwen,Prompt-matched BoN,82,20,True
+qwen,Prompt-matched BoN,82,25,True
+qwen,Prompt-matched BoN,82,26,True
+qwen,Prompt-matched BoN,82,27,True
+qwen,Prompt-matched BoN,82,28,True
+qwen,Prompt-matched BoN,82,29,True
+qwen,Prompt-matched BoN,83,2,True
+qwen,Prompt-matched BoN,92,0,True
+qwen,Prompt-matched BoN,92,1,True
+qwen,Prompt-matched BoN,92,3,True
+qwen,Prompt-matched BoN,92,4,True
+qwen,Prompt-matched BoN,92,5,True
+qwen,Prompt-matched BoN,92,6,True
+qwen,Prompt-matched BoN,92,7,True
+qwen,Prompt-matched BoN,92,8,True
+qwen,Prompt-matched BoN,92,10,True
+qwen,Prompt-matched BoN,92,11,True
+qwen,Prompt-matched BoN,92,12,True
+qwen,Prompt-matched BoN,92,13,True
+qwen,Prompt-matched BoN,92,15,True
+qwen,Prompt-matched BoN,92,16,True
+qwen,Prompt-matched BoN,92,17,True
+qwen,Prompt-matched BoN,92,18,True
+qwen,Prompt-matched BoN,92,19,True
+qwen,Prompt-matched BoN,92,22,True
+qwen,Prompt-matched BoN,92,24,True
+qwen,Prompt-matched BoN,92,25,True
+qwen,Prompt-matched BoN,92,26,True
+qwen,Prompt-matched BoN,92,29,True
+qwen,Prompt-matched BoN,92,30,True
+qwen,Prompt-matched BoN,92,32,True
+qwen,Prompt-matched BoN,92,33,True
+qwen,Prompt-matched BoN,94,6,True
+qwen,Prompt-matched BoN,94,15,True
+qwen,Prompt-matched BoN,95,5,True
+qwen,Prompt-matched BoN,99,14,True
+qwen,Prompt-matched BoN,102,5,True
+qwen,Prompt-matched BoN,102,6,True
+qwen,Prompt-matched BoN,102,8,True
+qwen,Prompt-matched BoN,102,12,True
+qwen,Prompt-matched BoN,102,18,True
+qwen,Prompt-matched BoN,102,24,True
+qwen,Prompt-matched BoN,102,25,True
+qwen,Prompt-matched BoN,102,26,True
+qwen,Prompt-matched BoN,102,28,True
+qwen,Prompt-matched BoN,102,29,True
+qwen,Prompt-matched BoN,102,30,True
+qwen,Prompt-matched BoN,102,32,True
+qwen,Prompt-matched BoN,103,25,True
+qwen,Prompt-matched BoN,109,32,True
+qwen,Prompt-matched BoN,112,6,True
+qwen,Prompt-matched BoN,113,28,True
+qwen,Prompt-matched BoN,119,7,True
+qwen,Prompt-matched BoN,119,11,True
+qwen,Prompt-matched BoN,119,24,True
+qwen,Prompt-matched BoN,122,1,True
+qwen,Prompt-matched BoN,122,25,True
+qwen,Prompt-matched BoN,122,29,True
+qwen,Prompt-matched BoN,124,15,True
+qwen,Prompt-matched BoN,124,16,True
+qwen,Prompt-matched BoN,133,19,True
+qwen,Prompt-matched BoN,133,23,True
+qwen,Prompt-matched BoN,135,0,True
+qwen,Prompt-matched BoN,135,2,True
+qwen,Prompt-matched BoN,135,3,True
+qwen,Prompt-matched BoN,135,4,True
+qwen,Prompt-matched BoN,135,5,True
+qwen,Prompt-matched BoN,135,6,True
+qwen,Prompt-matched BoN,135,8,True
+qwen,Prompt-matched BoN,135,9,True
+qwen,Prompt-matched BoN,135,11,True
+qwen,Prompt-matched BoN,135,13,True
+qwen,Prompt-matched BoN,135,14,True
+qwen,Prompt-matched BoN,135,15,True
+qwen,Prompt-matched BoN,135,16,True
+qwen,Prompt-matched BoN,135,22,True
+qwen,Prompt-matched BoN,135,25,True
+qwen,Prompt-matched BoN,135,27,True
+qwen,Prompt-matched BoN,135,28,True
+qwen,Prompt-matched BoN,135,29,True
+qwen,Prompt-matched BoN,135,30,True
+qwen,Prompt-matched BoN,135,31,True
+qwen,Prompt-matched BoN,135,32,True
+qwen,Prompt-matched BoN,136,2,True
+qwen,Prompt-matched BoN,136,3,True
+qwen,Prompt-matched BoN,136,6,True
+qwen,Prompt-matched BoN,136,9,True
+qwen,Prompt-matched BoN,136,11,True
+qwen,Prompt-matched BoN,136,20,True
+qwen,Prompt-matched BoN,136,32,True
+qwen,Prompt-matched BoN,144,17,True
+qwen,Prompt-matched BoN,145,19,True
+qwen,Prompt-matched BoN,173,25,True

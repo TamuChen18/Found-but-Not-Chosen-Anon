@@ -1,0 +1,18 @@
+# secrets
+.env
+
+# written by scripts/prepare_disasterbench.py
+data/train.jsonl
+data/test.jsonl
+src/interfaces/tools/tools_manifest.json
+
+# data package (supplementary material)
+runs/
+logs/
+artifacts/prompt_matched_bon/run/answer_sheets/
+artifacts/prompt_matched_bon_qwen/run/answer_sheets/
+artifacts/**/per_candidate.jsonl
+artifacts/**/*_per_candidate.csv
+
+__pycache__/
+*.pyc

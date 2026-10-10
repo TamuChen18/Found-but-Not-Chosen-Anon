@@ -1,0 +1,41 @@
+[
+ {
+  "pool": "mini_noseed",
+  "candidates": 5856,
+  "normalized_plan_differs": 17,
+  "correctness_differs": 0,
+  "hard0_differs": 4,
+  "oracle_stored": 139,
+  "oracle_raw_reextract": 139,
+  "selected_stored": 121,
+  "selected_raw_reextract": 121,
+  "tasks_oracle_changed": 0,
+  "tasks_selected_changed": 0
+ },
+ {
+  "pool": "qwen_b1",
+  "candidates": 6222,
+  "normalized_plan_differs": 21,
+  "correctness_differs": 0,
+  "hard0_differs": 8,
+  "oracle_stored": 159,
+  "oracle_raw_reextract": 159,
+  "selected_stored": 129,
+  "selected_raw_reextract": 129,
+  "tasks_oracle_changed": 0,
+  "tasks_selected_changed": 0
+ },
+ {
+  "pool": "qwen_b2",
+  "candidates": 6222,
+  "normalized_plan_differs": 11,
+  "correctness_differs": 0,
+  "hard0_differs": 1,
+  "oracle_stored": 162,
+  "oracle_raw_reextract": 162,
+  "selected_stored": 128,
+  "selected_raw_reextract": 128,
+  "tasks_oracle_changed": 0,
+  "tasks_selected_changed": 0
+ }
+]

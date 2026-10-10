@@ -1,0 +1,14 @@
+{
+  "method": "prompt_matched_bon",
+  "model": "local/qwen3.5-9b-nothink",
+  "n": 34,
+  "max_tokens": 2048,
+  "temperature": 0.7,
+  "top_p": 0.95,
+  "seed": null,
+  "send_seed": "0",
+  "enable_thinking": "0",
+  "base_url": "http://127.0.0.1:8000/v1",
+  "prompt": "build_chain_of_thought_prompt(task_desc, False, None)",
+  "ref_calllog": "logs/calllogs_mini_noseed_trees_full/cot.jsonl"
+}

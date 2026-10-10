@@ -1,0 +1,8 @@
+pool,tasks,judge_calls,parsed_label,parse_fail_fallback,singleton_valid,empty_valid_fallback,subsampled_gt_k8,reused_e2b_on_decisions_same_prompt,rerun_after_e2b_off,logged_calls_covering_these_decisions,finish_reason_counts,max_completion_tokens
+qwen_b1:BoN,183,125,125,0,58,0,21,118,7,,,
+qwen_b1:CoT,183,108,108,0,75,0,25,95,13,,,
+qwen_b1:Five,183,137,137,0,46,0,1,135,2,,,
+qwen_b2:BoN,183,139,139,0,44,0,27,133,6,,,
+qwen_b2:CoT,183,106,106,0,77,0,25,89,17,,,
+qwen_b2:Five,183,130,130,0,53,0,1,126,4,,,
+qwen all,1098,745,745,0,353,0,100,696,49,1148,"{""stop"": 1148}",71

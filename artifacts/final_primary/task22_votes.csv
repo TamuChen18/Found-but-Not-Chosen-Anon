@@ -1,0 +1,12 @@
+run,method,valid_votes,groups,correct_votes,miswired_votes,other_wrong_votes,selected_correct
+mini,BoN,32,2,7,25,0,False
+mini,CoT-tree,32,3,28,2,2,True
+mini,MO-Tree,8,3,4,3,1,True
+mini,Prompt-matched BoN,32,3,29,1,2,True
+qwen_b1,BoN,31,1,31,0,0,True
+qwen_b1,CoT-tree,8,2,7,0,1,True
+qwen_b1,MO-Tree,6,2,5,0,1,True
+qwen_b2,BoN,26,2,25,1,0,True
+qwen_b2,CoT-tree,12,3,10,1,1,True
+qwen_b2,MO-Tree,3,2,2,0,1,True
+qwen,Prompt-matched BoN,34,3,32,0,2,True

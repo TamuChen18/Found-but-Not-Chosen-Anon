@@ -1,0 +1,160 @@
+item,paper,reproduced,ok
+tab:main-results GPT-4o-mini BoN,"(139, 121, 18, 0, 18, 0, '238k')","(139, 121, 18, 0, 18, 0, '238k')",True
+tab:main-results GPT-4o-mini CoT-tree,"(153, 131, 22, 0, 22, 0, '242k')","(153, 131, 22, 0, 22, 0, '242k')",True
+tab:main-results GPT-4o-mini MO-Tree,"(146, 123, 23, 0, 21, 2, '239k')","(146, 123, 23, 0, 21, 2, '239k')",True
+tab:main-results GPT-4o-mini Prompt-matched BoN,"(154, 129, 25, 0, 24, 1, '242k')","(154, 129, 25, 0, 24, 1, '242k')",True
+tab:main-results Qwen Control Prompt-matched BoN,"(160, 127, 33, 0, 32, 1, '253k')","(160, 127, 33, 0, 32, 1, '253k')",True
+tab:main-results Qwen Run 1 BoN,"(159, 129, 30, 0, 28, 2, '263k')","(159, 129, 30, 0, 28, 2, '263k')",True
+tab:main-results Qwen Run 1 CoT-tree,"(162, 132, 30, 0, 28, 2, '253k')","(162, 132, 30, 0, 28, 2, '253k')",True
+tab:main-results Qwen Run 1 MO-Tree,"(147, 122, 25, 0, 19, 6, '285k')","(147, 122, 25, 0, 19, 6, '285k')",True
+tab:main-results Qwen Run 2 BoN,"(162, 128, 34, 0, 33, 1, '263k')","(162, 128, 34, 0, 33, 1, '263k')",True
+tab:main-results Qwen Run 2 CoT-tree,"(157, 133, 24, 0, 22, 2, '252k')","(157, 133, 24, 0, 22, 2, '252k')",True
+tab:main-results Qwen Run 2 MO-Tree,"(147, 122, 25, 0, 18, 7, '284k')","(147, 122, 25, 0, 18, 7, '284k')",True
+tab:app-pool-stats GPT-4o-mini BoN,"('32.0', '31.7', '2.32', '.881', 1)","('32.0', '31.7', '2.32', '.881', 1)",True
+tab:app-pool-stats GPT-4o-mini Prompt-matched BoN,"('32.0', '31.1', '4.09', '.770', 3)","('32.0', '31.1', '4.09', '.770', 3)",True
+tab:app-pool-stats GPT-4o-mini CoT-tree,"('31.5', '30.6', '4.22', '.769', 5)","('31.5', '30.6', '4.22', '.769', 5)",True
+tab:app-pool-stats GPT-4o-mini MO-Tree,"('12.7', '11.9', '4.75', '.583', 17)","('12.7', '11.9', '4.75', '.583', 17)",True
+tab:app-pool-stats Qwen Control Prompt-matched BoN,"('34.0', '33.5', '4.05', '.797', 5)","('34.0', '33.5', '4.05', '.797', 5)",True
+tab:app-pool-stats Qwen Run 1 BoN,"('34.0', '28.7', '4.29', '.776', 6)","('34.0', '28.7', '4.29', '.776', 6)",True
+tab:app-pool-stats Qwen Run 1 CoT-tree,"('11.2', '11.0', '3.91', '.733', 14)","('11.2', '11.0', '3.91', '.733', 14)",True
+tab:app-pool-stats Qwen Run 1 MO-Tree,"('7.3', '6.2', '2.67', '.689', 20)","('7.3', '6.2', '2.67', '.689', 20)",True
+tab:app-pool-stats Qwen Run 2 BoN,"('34.0', '28.3', '4.31', '.773', 4)","('34.0', '28.3', '4.31', '.773', 4)",True
+tab:app-pool-stats Qwen Run 2 CoT-tree,"('11.1', '10.8', '4.01', '.740', 8)","('11.1', '10.8', '4.01', '.740', 8)",True
+tab:app-pool-stats Qwen Run 2 MO-Tree,"('7.5', '6.2', '2.48', '.729', 17)","('7.5', '6.2', '2.48', '.729', 17)",True
+tab:app-run-sensitivity GPT-4o-mini CoT-tree,"(153, 131, '242,476', '4.22', '.769')","(153, 131, '242,476', '4.22', '.769')",True
+tab:app-run-sensitivity GPT-4o-mini Prompt-matched,"(154, 129, '242,193', '4.09', '.770')","(154, 129, '242,193', '4.09', '.770')",True
+tab:app-run-sensitivity Qwen CoT-tree R1,"(162, 132, '252,678', '3.91', '.733')","(162, 132, '252,678', '3.91', '.733')",True
+tab:app-run-sensitivity Qwen CoT-tree R2,"(157, 133, '252,445', '4.01', '.740')","(157, 133, '252,445', '4.01', '.740')",True
+tab:app-run-sensitivity Qwen Prompt-matched,"(160, 127, '252,666', '4.05', '.734')","(160, 127, '252,666', '4.05', '.734')",True
+"text: Qwen control under CoT-tree retention (Selected, retained, valid, ties)","(130, '11.24', '11.02', 11)","(130, '11.24', '11.02', 11)",True
+tab:seed-sensitivity BoN fixed seed,"(133, 121, '32.0', '1.60', '.925')","(133, 121, '32.0', '1.60', '.925')",True
+tab:seed-sensitivity BoN no seed,"(139, 121, '32.0', '2.32', '.881')","(139, 121, '32.0', '2.32', '.881')",True
+tab:seed-sensitivity CoT-tree fixed seed,"(144, 118, '23.0', '3.22', '.806')","(144, 118, '23.0', '3.22', '.806')",True
+tab:seed-sensitivity CoT-tree no seed,"(153, 131, '31.5', '4.22', '.769')","(153, 131, '31.5', '4.22', '.769')",True
+tab:seed-sensitivity MO-Tree fixed seed,"(150, 117, '12.8', '4.82', '.555')","(150, 117, '12.8', '4.82', '.555')",True
+tab:seed-sensitivity MO-Tree no seed,"(146, 123, '12.7', '4.75', '.583')","(146, 123, '12.7', '4.75', '.583')",True
+tab:e2b-ablation BoN,"(132, 132, 118, 117)","(132, 132, 118, 117)",True
+tab:e2b-ablation CoT-tree,"(144, 144, 120, 118)","(144, 144, 120, 118)",True
+tab:e2b-ablation MO-Tree,"(150, 150, 117, 117)","(150, 150, 117, 117)",True
+tab:app-normalization BoN,"('2.0', '0.9', 117, 117)","('2.0', '0.9', 117, 117)",True
+tab:app-normalization CoT-tree,"('27.4', '2.9', 104, 118)","('27.4', '2.9', 104, 118)",True
+tab:app-normalization MO-Tree,"('25.1', '6.9', 100, 115)","('25.1', '6.9', 100, 115)",True
+"text: pooled fixed-seed CoT-tree + narrow MO-Tree accounting (realized, deprecated)","(413716, 231860)","(413716, 231860)",True
+tab:app-paired-tests GPT-4o-mini PMBoN-BoN Oracle,"('+15', '+8.2', '+3.8', '+13.1', '.0015')","('+15', '+8.2', '+3.8', '+13.1', '.0015')",True
+tab:app-paired-tests GPT-4o-mini PMBoN-CoT Oracle,"('+1', '+0.5', '-3.3', '+4.4', '1.000')","('+1', '+0.5', '-3.3', '+4.4', '1.000')",True
+tab:app-paired-tests GPT-4o-mini CoT-BoN Oracle,"('+14', '+7.7', '+3.3', '+12.6', '.0026')","('+14', '+7.7', '+3.3', '+12.6', '.0026')",True
+tab:app-paired-tests GPT-4o-mini Five-BoN Oracle,"('+7', '+3.8', '-1.1', '+8.7', '.210')","('+7', '+3.8', '-1.1', '+8.7', '.210')",True
+tab:app-paired-tests GPT-4o-mini PMBoN-BoN Selected,"('+8', '+4.4', '-1.1', '+9.8', '.169')","('+8', '+4.4', '-1.1', '+9.8', '.169')",True
+tab:app-paired-tests GPT-4o-mini PMBoN-CoT Selected,"('-2', '-1.1', '-4.4', '+1.6', '.727')","('-2', '-1.1', '-4.4', '+1.6', '.727')",True
+tab:app-paired-tests GPT-4o-mini CoT-BoN Selected,"('+10', '+5.5', '0.0', '+11.5', '.087')","('+10', '+5.5', '0.0', '+11.5', '.087')",True
+tab:app-paired-tests GPT-4o-mini Five-BoN Selected,"('+2', '+1.1', '-4.9', '+7.1', '.860')","('+2', '+1.1', '-4.9', '+7.1', '.860')",True
+tab:app-paired-tests Qwen Control R1 PMBoN-CoT Oracle,"('-2', '-1.1', '-3.3', '+1.1', '.630')","('-2', '-1.1', '-3.3', '+1.1', '.630')",True
+tab:app-paired-tests Qwen Control R2 PMBoN-CoT Oracle,"('+3', '+1.6', '-1.6', '+4.9', '.508')","('+3', '+1.6', '-1.6', '+4.9', '.508')",True
+tab:app-paired-tests Qwen Control R1 PMBoN-CoT Selected,"('-5', '-2.7', '-6.6', '+0.5', '.230')","('-5', '-2.7', '-6.6', '+0.5', '.230')",True
+tab:app-paired-tests Qwen Control R2 PMBoN-CoT Selected,"('-6', '-3.3', '-7.1', '+0.5', '.150')","('-6', '-3.3', '-7.1', '+0.5', '.150')",True
+tab:app-paired-tests Qwen Run 1 CoT-BoN Oracle,"('+3', '+1.6', '-1.6', '+5.5', '.549')","('+3', '+1.6', '-1.6', '+5.5', '.549')",True
+tab:app-paired-tests Qwen Run 1 Five-BoN Oracle,"('-12', '-6.6', '-10.9', '-2.2', '.008')","('-12', '-6.6', '-10.9', '-2.2', '.008')",True
+tab:app-paired-tests Qwen Run 1 CoT-BoN Selected,"('+3', '+1.6', '-2.2', '+5.5', '.581')","('+3', '+1.6', '-2.2', '+5.5', '.581')",True
+tab:app-paired-tests Qwen Run 1 Five-BoN Selected,"('-7', '-3.8', '-8.7', '+1.1', '.210')","('-7', '-3.8', '-8.7', '+1.1', '.210')",True
+tab:app-paired-tests Qwen Run 2 CoT-BoN Oracle,"('-5', '-2.7', '-7.1', '+1.1', '.302')","('-5', '-2.7', '-7.1', '+1.1', '.302')",True
+tab:app-paired-tests Qwen Run 2 Five-BoN Oracle,"('-15', '-8.2', '-13.1', '-3.8', '.001')","('-15', '-8.2', '-13.1', '-3.8', '.001')",True
+tab:app-paired-tests Qwen Run 2 CoT-BoN Selected,"('+5', '+2.7', '-0.5', '+6.6', '.227')","('+5', '+2.7', '-0.5', '+6.6', '.227')",True
+tab:app-paired-tests Qwen Run 2 Five-BoN Selected,"('-6', '-3.3', '-7.7', '+1.1', '.238')","('-6', '-3.3', '-7.7', '+1.1', '.238')",True
+tab:app-calibration-exclusion BoN,"(135, 117, None, None)","(135, 117, None, None)",True
+tab:app-calibration-exclusion CoT-tree,"(148, 127, '+13 (.004)', '+10 (.087)')","(148, 127, '+13 (.004)', '+10 (.087)')",True
+tab:app-calibration-exclusion MO-Tree,"(142, 119, '+7 (.210)', '+2 (.860)')","(142, 119, '+7 (.210)', '+2 (.860)')",True
+tab:app-qwen-width Narrow,"('285k', '33.6', '7.3', '6.2', '2.67', 147, 122)","('285k', '33.6', '7.3', '6.2', '2.67', 147, 122)",True
+tab:app-qwen-width Medium,"('376k', '42.7', '10.1', '8.6', '2.90', 148, 122)","('376k', '42.7', '10.1', '8.6', '2.90', 148, 122)",True
+tab:app-qwen-width Original,"('438k', '48.6', '11.7', '9.8', '2.95', 150, 121)","('438k', '48.6', '11.7', '9.8', '2.95', 150, 121)",True
+tab:app-topk-selection mini BoN,"(18, 11, 5, 2, 121, 132, 137, 139)","(18, 11, 5, 2, 121, 132, 137, 139)",True
+tab:app-topk-selection mini CoT-tree,"(22, 10, 2, 10, 131, 141, 143, 153)","(22, 10, 2, 10, 131, 141, 143, 153)",True
+tab:app-topk-selection mini MO-Tree,"(21, 13, 3, 5, 123, 138, 141, 146)","(21, 13, 3, 5, 123, 138, 141, 146)",True
+tab:app-topk-selection mini Prompt-matched BoN,"(24, 13, 6, 5, 129, 143, 149, 154)","(24, 13, 6, 5, 129, 143, 149, 154)",True
+tab:app-topk-selection qwen Prompt-matched BoN,"(32, 17, 7, 8, 127, 145, 152, 160)","(32, 17, 7, 8, 127, 145, 152, 160)",True
+tab:app-topk-selection qwen_b1 BoN,"(28, 17, 7, 4, 129, 148, 155, 159)","(28, 17, 7, 4, 129, 148, 155, 159)",True
+tab:app-topk-selection qwen_b1 CoT-tree,"(28, 14, 5, 9, 132, 148, 153, 162)","(28, 14, 5, 9, 132, 148, 153, 162)",True
+tab:app-topk-selection qwen_b1 MO-Tree,"(19, 15, 4, 0, 122, 141, 146, 147)","(19, 15, 4, 0, 122, 141, 146, 147)",True
+tab:app-topk-selection qwen_b2 BoN,"(33, 20, 8, 5, 128, 149, 157, 162)","(33, 20, 8, 5, 128, 149, 157, 162)",True
+tab:app-topk-selection qwen_b2 CoT-tree,"(22, 12, 3, 7, 133, 147, 150, 157)","(22, 12, 3, 7, 133, 147, 150, 157)",True
+tab:app-topk-selection qwen_b2 MO-Tree,"(18, 9, 5, 4, 122, 134, 140, 147)","(18, 9, 5, 4, 122, 134, 140, 147)",True
+tab:app-vote-margins mini BoN,"('.154', '16.3', '18', 0, 1)","('.154', '16.3', '18', 0, 1)",True
+tab:app-vote-margins mini CoT-tree,"('.147', '8.1', '5', 2, 4)","('.147', '8.1', '5', 2, 4)",True
+tab:app-vote-margins mini MO-Tree,"('.219', '2.2', '2', 7, 15)","('.219', '2.2', '2', 7, 15)",True
+tab:app-vote-margins mini Prompt-matched BoN,"('.162', '10.0', '7', 1, 4)","('.162', '10.0', '7', 1, 4)",True
+tab:app-vote-margins qwen Prompt-matched BoN,"('.138', '13.3', '16', 1, 5)","('.138', '13.3', '16', 1, 5)",True
+tab:app-vote-margins qwen_b1 BoN,"('.169', '11.0', '10', 1, 1)","('.169', '11.0', '10', 1, 1)",True
+tab:app-vote-margins qwen_b1 CoT-tree,"('.144', '3.6', '3.5', 4, 9)","('.144', '3.6', '3.5', 4, 9)",True
+tab:app-vote-margins qwen_b1 MO-Tree,"('.229', '2.3', '2', 9, 14)","('.229', '2.3', '2', 9, 14)",True
+tab:app-vote-margins qwen_b2 BoN,"('.176', '10.1', '8.5', 2, 5)","('.176', '10.1', '8.5', 2, 5)",True
+tab:app-vote-margins qwen_b2 CoT-tree,"('.166', '3.6', '3', 6, 10)","('.166', '3.6', '3', 6, 10)",True
+tab:app-vote-margins qwen_b2 MO-Tree,"('.212', '2.6', '3', 6, 9)","('.212', '2.6', '3', 6, 9)",True
+"fig1(1) Oracle CoT-tree vs prompt-matched (GPT 153/154; Qwen R1 162, R2 157, control 160)","(153, 154, 162, 157, 160)","(153, 154, 162, 157, 160)",True
+fig1(2) Oracle-positive pool-tasks before / after structural validation,"(1686, 1686)","(1686, 1686)",True
+fig1(3) gap = filter + vote + tie (11 pools),"(289, 0, 265, '91.7', 24, '8.3')","(289, 0, 265, '91.7', 24, '8.3')",True
+fig1(4) pooled Top-2 / Top-3 recovery of the gap (%),"('58.5', '78.2')","('58.5', '78.2')",True
+fig1(5) pools with vote-loss median > all-task median; pooled medians,"(11, '5', '2')","(11, '5', '2')",True
+tab:app-voting-sensitivity mini BoN,"(121, 121, 121, 119, 119, 121)","(121, 121, 121, 119, 119, 121)",True
+tab:app-voting-sensitivity mini CoT-tree,"(131, 129, 130, 131, 112, 131)","(131, 129, 130, 131, 112, 131)",True
+tab:app-voting-sensitivity mini MO-Tree,"(123, 122, 123, 123, 104, 125)","(123, 122, 123, 123, 104, 125)",True
+tab:app-voting-sensitivity qwen_b1 BoN,"(129, 129, 129, 128, 121, 131)","(129, 129, 129, 128, 121, 131)",True
+tab:app-voting-sensitivity qwen_b1 CoT-tree,"(132, 132, 127, 132, 122, 134)","(132, 132, 127, 132, 122, 134)",True
+tab:app-voting-sensitivity qwen_b1 MO-Tree,"(122, 122, 127, 122, 114, 128)","(122, 122, 127, 122, 114, 128)",True
+tab:app-voting-sensitivity qwen_b2 BoN,"(128, 128, 128, 130, 119, 129)","(128, 128, 128, 130, 119, 129)",True
+tab:app-voting-sensitivity qwen_b2 CoT-tree,"(133, 133, 128, 133, 118, 135)","(133, 133, 128, 133, 118, 135)",True
+tab:app-voting-sensitivity qwen_b2 MO-Tree,"(122, 121, 122, 122, 110, 129)","(122, 121, 122, 122, 110, 129)",True
+tab:app-judge mini BoN,"(121, 123, 121, 139)","(121, 123, 121, 139)",True
+tab:app-judge mini CoT-tree,"(131, 112, 131, 153)","(131, 112, 131, 153)",True
+tab:app-judge mini MO-Tree,"(123, 112, 125, 146)","(123, 112, 125, 146)",True
+tab:app-judge qwen_b1 BoN,"(129, 110, 131, 159)","(129, 110, 131, 159)",True
+tab:app-judge qwen_b1 CoT-tree,"(132, 114, 134, 162)","(132, 114, 134, 162)",True
+tab:app-judge qwen_b1 MO-Tree,"(122, 128, 128, 147)","(122, 128, 128, 147)",True
+tab:app-judge qwen_b2 BoN,"(128, 106, 129, 162)","(128, 106, 129, 162)",True
+tab:app-judge qwen_b2 CoT-tree,"(133, 115, 135, 157)","(133, 115, 135, 157)",True
+tab:app-judge qwen_b2 MO-Tree,"(122, 121, 129, 147)","(122, 121, 129, 147)",True
+tab:app-targeted-verifier mini BoN,"(121, 123, 11, 9, 2, '.820')","(121, 123, 11, 9, 2, '.820')",True
+tab:app-targeted-verifier mini CoT-tree,"(131, 113, 3, 21, -18, '<.001')","(131, 113, 3, 21, -18, '<.001')",True
+tab:app-targeted-verifier mini MO-Tree,"(123, 108, 12, 27, -15, '.024')","(123, 108, 12, 27, -15, '.024')",True
+tab:app-targeted-verifier qwen_b1 BoN,"(129, 116, 9, 22, -13, '.029')","(129, 116, 9, 22, -13, '.029')",True
+tab:app-targeted-verifier qwen_b1 CoT-tree,"(132, 117, 11, 26, -15, '.020')","(132, 117, 11, 26, -15, '.020')",True
+tab:app-targeted-verifier qwen_b1 MO-Tree,"(122, 121, 12, 13, -1, '1.000')","(122, 121, 12, 13, -1, '1.000')",True
+tab:app-targeted-verifier qwen_b2 BoN,"(128, 118, 13, 23, -10, '.130')","(128, 118, 13, 23, -10, '.130')",True
+tab:app-targeted-verifier qwen_b2 CoT-tree,"(133, 122, 8, 19, -11, '.052')","(133, 122, 8, 19, -11, '.052')",True
+tab:app-targeted-verifier qwen_b2 MO-Tree,"(122, 118, 11, 15, -4, '.560')","(122, 118, 11, 15, -4, '.560')",True
+"text: deployable Top-3 over 9 pools (majority, verifier, fixed, broken, contested calls)","(1141, 1056, 90, 175, 1105)","(1141, 1056, 90, 175, 1105)",True
+tab:app-verifier-changed-decisions fixes (90),"(90, '0.258', '0.556', '3', '84.4', '15.6', '27.8')","(90, '0.258', '0.556', '3', '84.4', '15.6', '27.8')",True
+tab:app-verifier-changed-decisions false overrides (175),"(175, '0.500', '0.700', '4', '64.6', '35.4', '52.6')","(175, '0.500', '0.700', '4', '64.6', '35.4', '52.6')",True
+text: false overrides preserving the reference tool sequence (%),20.6,20.6,True
+text: majority-correct contested cases with normalized margin > 0.3 (%),76,76,True
+"tab:app-verifier-margin-bins [0.0, 0.1)","(51, 22, '43.1', 21, -1)","(51, 22, '43.1', 21, -1)",True
+"tab:app-verifier-margin-bins [0.1, 0.2)","(39, 9, '23.1', 16, 7)","(39, 9, '23.1', 16, 7)",True
+"tab:app-verifier-margin-bins [0.2, 0.3)","(60, 18, '30.0', 15, -3)","(60, 18, '30.0', 15, -3)",True
+"tab:app-verifier-margin-bins [0.3, 0.5)","(94, 28, '29.8', 20, -8)","(94, 28, '29.8', 20, -8)",True
+"tab:app-verifier-margin-bins [0.5, 1.0]","(394, 98, '24.9', 18, -80)","(394, 98, '24.9', 18, -80)",True
+tab:app-margin-gated-verifier t=0,"(92, 49, 10, 9, 1, 1142, '1.000')","(92, 49, 10, 9, 1, 1142, '1.000')",True
+tab:app-margin-gated-verifier t=0.05,"(114, 65, 13, 13, 0, 1141, '1.000')","(114, 65, 13, 13, 0, 1141, '1.000')",True
+tab:app-margin-gated-verifier t=0.1,"(190, 118, 22, 24, -2, 1139, '.880')","(190, 118, 22, 24, -2, 1139, '.880')",True
+tab:app-margin-gated-verifier t=0.15,"(243, 147, 31, 27, 4, 1145, '.690')","(243, 147, 31, 27, 4, 1145, '.690')",True
+tab:app-margin-gated-verifier t=0.2,"(321, 178, 37, 34, 3, 1144, '.810')","(321, 178, 37, 34, 3, 1144, '.810')",True
+tab:app-margin-gated-verifier t=0.3,"(437, 231, 53, 51, 2, 1143, '.920')","(437, 231, 53, 51, 2, 1143, '.920')",True
+tab:app-margin-gated-verifier t=0.4,"(542, 271, 66, 63, 3, 1144, '.860')","(542, 271, 66, 63, 3, 1144, '.860')",True
+tab:app-margin-gated-verifier t=0.5,"(652, 321, 76, 88, -12, 1129, '.390')","(652, 321, 76, 88, -12, 1129, '.390')",True
+tab:app-margin-gated-verifier t=inf,"(1105, 455, 90, 175, -85, 1056, '<.001')","(1105, 455, 90, 175, -85, 1056, '<.001')",True
+tab:app-error-audit Tool,"(17, 18, 35)","(17, 18, 35)",True
+tab:app-error-audit Dependency,"(13, 9, 22)","(13, 9, 22)",True
+tab:app-error-audit SemanticEquivalent,"(0, 3, 3)","(0, 3, 3)",True
+tab:app-vote-loss-partial-rank Rank 2,"(151, '29.8', '0.0', '2.6')","(151, '29.8', '0.0', '2.6')",True
+tab:app-vote-loss-partial-rank Rank 3,"(55, '25.5', '0.0', '1.8')","(55, '25.5', '0.0', '1.8')",True
+tab:app-vote-loss-partial-rank Rank >3,"(59, '23.7', '0.0', '1.7')","(59, '23.7', '0.0', '1.7')",True
+tab:app-vote-loss-partial-rank All,"(265, '27.5', '0.0', '2.3')","(265, '27.5', '0.0', '2.3')",True
+tab:app-vote-loss-partial-margin low-margin,"(133, '18.8', '0.0', '3.0')","(133, '18.8', '0.0', '3.0')",True
+tab:app-vote-loss-partial-margin high-margin,"(132, '36.4', '0.0', '1.5')","(132, '36.4', '0.0', '1.5')",True
+text: vote-loss winners: wrong tools / tools only ok / params only wrong (%),"('72.5', '25.3', '2.3')","('72.5', '25.3', '2.3')",True
+tab:app-modal-agreement mini,"('3/4', '4/6', '3/6')","('3/4', '4/6', '3/6')",True
+tab:app-modal-agreement qwen_b1,"('14/15', '5/5', '6/7')","('14/15', '5/5', '6/7')",True
+tab:app-modal-agreement qwen_b2,"('13/15', '4/6', '3/5')","('13/15', '4/6', '3/5')",True
+tab:app-task22 BoN,"(7, 25, 'False')","(7, 25, 'False')",True
+tab:app-task22 Prompt-matched BoN,"(29, 1, 'True')","(29, 1, 'True')",True
+tab:app-task22 CoT-tree,"(28, 2, 'True')","(28, 2, 'True')",True
+tab:app-task22 MO-Tree,"(4, 3, 'True')","(4, 3, 'True')",True
+"text: normalization EM flips over 11 pools (candidates, incorrect->correct, correct->incorrect, Oracle)","(45246, 1612, 0, 1686)","(45246, 1612, 0, 1686)",True
+text: backend audit (GPT n>1 single-choice; Qwen n>1 full; tie-break calls; thinking no-JSON),"((5082, 5082), (4607, 4607), (4598, 4598), (0, 216, 187), (672, 1360))","((5082, 5082), (4607, 4607), (4598, 4598), (0, 216, 187), (672, 1360))",True

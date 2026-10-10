@@ -1,0 +1,5 @@
+loss_type,count,pct
+Filter loss,0,0.0
+Vote loss,265,91.7
+Tie loss,24,8.3
+Total,289,100.0

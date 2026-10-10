@@ -1,0 +1,13 @@
+run,method,tasks,candidates,raw_correct,normalized_correct,incorrect_to_correct,correct_to_incorrect,incorrect_to_correct_hard0,tasks_with_flip,oracle_raw,oracle_normalized
+mini,BoN,183,5856,3729,3729,0,0,0,0,139,139
+mini,CoT-tree,183,5757,3092,3582,490,0,490,88,145,153
+mini,MO-Tree,183,2331,872,1034,162,0,162,66,140,146
+mini,Prompt-matched BoN,183,5856,3147,3645,498,0,498,88,148,154
+qwen_b1,BoN,183,6222,3467,3467,0,0,0,0,159,159
+qwen_b1,CoT-tree,183,2050,988,1053,65,0,65,36,159,162
+qwen_b1,MO-Tree,183,1336,560,609,49,0,49,27,142,147
+qwen_b2,BoN,183,6222,3412,3412,0,0,0,0,162,162
+qwen_b2,CoT-tree,183,2030,936,1015,79,0,79,44,154,157
+qwen_b2,MO-Tree,183,1364,589,638,49,0,49,23,142,147
+qwen,Prompt-matched BoN,183,6222,3832,4052,220,0,220,37,159,160
+all,11 pools,2013,45246,24624,26236,1612,0,1612,409,1649,1686

@@ -1,0 +1,4 @@
+group,n,median_abs_margin,median_norm_margin,norm_margin_gt_0.3_pct,median_winner_share,median_num_valid_groups,mean_num_valid_groups,chose_rank1_pct,chose_rank2_pct,chose_rank3_pct,two_option_pct,chosen_more_steps_than_majority_pct,chosen_fewer_steps_than_majority_pct,n_chosen_wrong,chosen_wrong_more_steps_than_gold_pct,chosen_wrong_tool_acc,chosen_wrong_param_acc,chosen_wrong_dep_acc
+broken,175,7,0.5,70.9,0.7,4,4.7,0.0,64.6,35.4,24.6,52.6,5.7,175,52.6,20.6,1.1,4.0
+fixed,90,3.0,0.258,41.1,0.556,3.0,4.98,0.0,84.4,15.6,26.7,27.8,34.4,0,,,,
+majority-correct contested (638),638,7.0,0.586,76.2,0.75,3.0,3.92,72.6,17.7,9.7,39.8,52.6,5.7,175,52.6,20.6,1.1,4.0

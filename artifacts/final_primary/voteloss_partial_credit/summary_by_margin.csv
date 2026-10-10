@@ -1,0 +1,4 @@
+margin_group,n,tool_acc,parameter_acc,dependency_acc,tool_only_ok_pct,param_wrong_only_pct,dep_wrong_only_pct,tool_wrong_pct,same_n_steps_pct,tool_step_match_mean,tool_wrong_one_step_off_pct,norm_margin_median
+low-margin,133,18.8,0.0,3.0,15.8,3.0,0.0,81.2,50.4,0.545,12.8,0.16
+high-margin,132,36.4,0.0,1.5,34.8,1.5,0.0,63.6,56.8,0.678,15.2,0.483
+All,265,27.5,0.0,2.3,25.3,2.3,0.0,72.5,53.6,0.611,14.0,0.29

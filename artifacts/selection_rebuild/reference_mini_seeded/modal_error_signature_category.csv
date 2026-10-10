@@ -1,0 +1,9 @@
+run,method,category,n
+mini_seeded,BoN,Dependency,3
+mini_seeded,BoN,Tool,11
+mini_seeded,CoT-tree,Dependency,10
+mini_seeded,CoT-tree,Order-only,1
+mini_seeded,CoT-tree,Tool,15
+mini_seeded,MO-Tree,Dependency,9
+mini_seeded,MO-Tree,Parameter,2
+mini_seeded,MO-Tree,Tool,18

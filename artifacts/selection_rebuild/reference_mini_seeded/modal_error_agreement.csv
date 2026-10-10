@@ -1,0 +1,5 @@
+run,methods,n_vote_loss,overlap_tasks,exact_same_winner,exact_same_winner_pct,exact_same_winner_boot95,same_signature,same_signature_pct,same_signature_boot95,shares_atomic_difference,shares_atomic_difference_pct,shares_atomic_difference_boot95,same_signature_category,same_signature_category_pct,same_signature_category_boot95,overlap_task_ids
+mini_seeded,BoN & CoT-tree,"{""BoN"": 14, ""CoT-tree"": 26}",6,1,16.666666666666668,"[0.0, 50.0]",1,16.666666666666668,"[0.0, 50.0]",4,66.66666666666667,"[33.3, 100.0]",5,83.33333333333333,"[50.0, 100.0]",55 63 96 114 123 142
+mini_seeded,BoN & MO-Tree,"{""BoN"": 14, ""MO-Tree"": 29}",3,1,33.333333333333336,"[0.0, 100.0]",1,33.333333333333336,"[0.0, 100.0]",1,33.333333333333336,"[0.0, 100.0]",3,100.0,"[100.0, 100.0]",22 113 114
+mini_seeded,CoT-tree & MO-Tree,"{""CoT-tree"": 26, ""MO-Tree"": 29}",8,3,37.5,"[12.5, 75.0]",3,37.5,"[12.5, 75.0]",6,75.0,"[50.0, 100.0]",6,75.0,"[37.5, 100.0]",42 47 73 85 100 110 114 128
+mini_seeded,BoN & CoT-tree & MO-Tree,"{""BoN"": 14, ""CoT-tree"": 26, ""MO-Tree"": 29}",1,0,0.0,"[0.0, 0.0]",0,0.0,"[0.0, 0.0]",0,0.0,"[0.0, 0.0]",1,100.0,"[100.0, 100.0]",114

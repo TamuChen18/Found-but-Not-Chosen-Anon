@@ -1,0 +1,4 @@
+pool,tied_tasks,tied_with_a_correct_top_group,min_candidate_id_tiebreak_correct,oracle_tiebreak_extra_tasks_ceiling,filter_majority
+BoN,6,2,0,2,129
+CoT,14,7,5,2,132
+Five,20,12,6,6,122

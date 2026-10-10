@@ -1,0 +1,16 @@
+{
+  "usage": {
+    "api_calls": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "total_tokens": 0
+  },
+  "cache_entries_before": 1105,
+  "cache_entries_after": 1105,
+  "args": {
+    "model": "openai/gpt-4o",
+    "rng_seed": 20261004,
+    "threads": 8,
+    "out": "artifacts/final_primary/top3_selector"
+  }
+}

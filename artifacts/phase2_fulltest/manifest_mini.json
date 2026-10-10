@@ -1,0 +1,37 @@
+{
+  "protocol": "fulltest_confirmation_v1",
+  "runs": [
+    {
+      "model": "gpt-4o-mini",
+      "key": "BoN-CoT-M",
+      "seed": 20260808,
+      "dir": "runs/gpt-4o-mini/fixed_seed/bon",
+      "n_sheets": 183,
+      "note": "n=32 repaired_manifest"
+    },
+    {
+      "model": "gpt-4o-mini",
+      "key": "CoT-only-M",
+      "seed": 20260808,
+      "dir": "runs/gpt-4o-mini/fixed_seed/cot_tree",
+      "n_sheets": 183,
+      "note": "n=32 repaired_manifest"
+    },
+    {
+      "model": "gpt-4o-mini",
+      "key": "Five-H24",
+      "seed": 20260808,
+      "dir": "runs/gpt-4o-mini/fixed_seed/mo_tree_narrow",
+      "n_sheets": 183,
+      "note": "r_star=0.75 lock=H24b repaired_manifest"
+    },
+    {
+      "model": "gpt-4o-mini",
+      "key": "Five-M",
+      "seed": 20260808,
+      "dir": "runs/gpt-4o-mini/fixed_seed/mo_tree",
+      "n_sheets": 183,
+      "note": "rolls=2 da=10 repaired_manifest"
+    }
+  ]
+}

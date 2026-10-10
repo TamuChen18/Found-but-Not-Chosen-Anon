@@ -1,0 +1,2014 @@
+model_run,procedure,pool,task_id,is_vote_loss,num_distinct_valid_workflow_groups
+GPT-4o-mini,BoN,GPT BoN,1,0,2
+GPT-4o-mini,BoN,GPT BoN,2,0,1
+GPT-4o-mini,BoN,GPT BoN,3,0,3
+GPT-4o-mini,BoN,GPT BoN,4,0,1
+GPT-4o-mini,BoN,GPT BoN,5,0,1
+GPT-4o-mini,BoN,GPT BoN,6,0,1
+GPT-4o-mini,BoN,GPT BoN,7,0,1
+GPT-4o-mini,BoN,GPT BoN,8,0,1
+GPT-4o-mini,BoN,GPT BoN,9,0,3
+GPT-4o-mini,BoN,GPT BoN,10,0,1
+GPT-4o-mini,BoN,GPT BoN,11,0,1
+GPT-4o-mini,BoN,GPT BoN,12,0,1
+GPT-4o-mini,BoN,GPT BoN,13,0,1
+GPT-4o-mini,BoN,GPT BoN,14,0,2
+GPT-4o-mini,BoN,GPT BoN,15,0,1
+GPT-4o-mini,BoN,GPT BoN,16,0,1
+GPT-4o-mini,BoN,GPT BoN,17,0,3
+GPT-4o-mini,BoN,GPT BoN,18,0,1
+GPT-4o-mini,BoN,GPT BoN,19,1,2
+GPT-4o-mini,BoN,GPT BoN,20,0,1
+GPT-4o-mini,BoN,GPT BoN,21,0,1
+GPT-4o-mini,BoN,GPT BoN,22,1,2
+GPT-4o-mini,BoN,GPT BoN,23,0,1
+GPT-4o-mini,BoN,GPT BoN,24,0,2
+GPT-4o-mini,BoN,GPT BoN,25,0,1
+GPT-4o-mini,BoN,GPT BoN,26,0,1
+GPT-4o-mini,BoN,GPT BoN,27,1,3
+GPT-4o-mini,BoN,GPT BoN,28,0,1
+GPT-4o-mini,BoN,GPT BoN,29,0,1
+GPT-4o-mini,BoN,GPT BoN,30,0,2
+GPT-4o-mini,BoN,GPT BoN,31,0,1
+GPT-4o-mini,BoN,GPT BoN,32,0,1
+GPT-4o-mini,BoN,GPT BoN,33,0,1
+GPT-4o-mini,BoN,GPT BoN,34,0,1
+GPT-4o-mini,BoN,GPT BoN,35,0,1
+GPT-4o-mini,BoN,GPT BoN,36,0,12
+GPT-4o-mini,BoN,GPT BoN,37,0,3
+GPT-4o-mini,BoN,GPT BoN,38,0,3
+GPT-4o-mini,BoN,GPT BoN,39,0,1
+GPT-4o-mini,BoN,GPT BoN,40,0,1
+GPT-4o-mini,BoN,GPT BoN,41,0,2
+GPT-4o-mini,BoN,GPT BoN,42,0,2
+GPT-4o-mini,BoN,GPT BoN,43,0,1
+GPT-4o-mini,BoN,GPT BoN,44,0,1
+GPT-4o-mini,BoN,GPT BoN,45,0,1
+GPT-4o-mini,BoN,GPT BoN,46,0,4
+GPT-4o-mini,BoN,GPT BoN,47,1,2
+GPT-4o-mini,BoN,GPT BoN,48,0,6
+GPT-4o-mini,BoN,GPT BoN,49,0,5
+GPT-4o-mini,BoN,GPT BoN,50,0,1
+GPT-4o-mini,BoN,GPT BoN,51,0,1
+GPT-4o-mini,BoN,GPT BoN,52,0,1
+GPT-4o-mini,BoN,GPT BoN,53,0,5
+GPT-4o-mini,BoN,GPT BoN,54,0,3
+GPT-4o-mini,BoN,GPT BoN,55,1,3
+GPT-4o-mini,BoN,GPT BoN,56,0,1
+GPT-4o-mini,BoN,GPT BoN,57,0,1
+GPT-4o-mini,BoN,GPT BoN,58,0,1
+GPT-4o-mini,BoN,GPT BoN,59,0,1
+GPT-4o-mini,BoN,GPT BoN,60,0,1
+GPT-4o-mini,BoN,GPT BoN,61,1,2
+GPT-4o-mini,BoN,GPT BoN,62,0,1
+GPT-4o-mini,BoN,GPT BoN,63,1,2
+GPT-4o-mini,BoN,GPT BoN,64,0,1
+GPT-4o-mini,BoN,GPT BoN,65,0,1
+GPT-4o-mini,BoN,GPT BoN,66,0,1
+GPT-4o-mini,BoN,GPT BoN,67,0,1
+GPT-4o-mini,BoN,GPT BoN,68,0,2
+GPT-4o-mini,BoN,GPT BoN,69,0,24
+GPT-4o-mini,BoN,GPT BoN,70,1,4
+GPT-4o-mini,BoN,GPT BoN,71,0,2
+GPT-4o-mini,BoN,GPT BoN,72,0,1
+GPT-4o-mini,BoN,GPT BoN,73,0,2
+GPT-4o-mini,BoN,GPT BoN,74,0,2
+GPT-4o-mini,BoN,GPT BoN,75,0,1
+GPT-4o-mini,BoN,GPT BoN,76,0,2
+GPT-4o-mini,BoN,GPT BoN,77,0,10
+GPT-4o-mini,BoN,GPT BoN,78,0,6
+GPT-4o-mini,BoN,GPT BoN,79,0,1
+GPT-4o-mini,BoN,GPT BoN,80,0,1
+GPT-4o-mini,BoN,GPT BoN,81,0,1
+GPT-4o-mini,BoN,GPT BoN,82,0,1
+GPT-4o-mini,BoN,GPT BoN,83,0,5
+GPT-4o-mini,BoN,GPT BoN,84,0,3
+GPT-4o-mini,BoN,GPT BoN,85,0,1
+GPT-4o-mini,BoN,GPT BoN,86,0,1
+GPT-4o-mini,BoN,GPT BoN,87,0,1
+GPT-4o-mini,BoN,GPT BoN,88,0,4
+GPT-4o-mini,BoN,GPT BoN,89,0,1
+GPT-4o-mini,BoN,GPT BoN,90,0,1
+GPT-4o-mini,BoN,GPT BoN,91,0,1
+GPT-4o-mini,BoN,GPT BoN,92,0,1
+GPT-4o-mini,BoN,GPT BoN,93,0,1
+GPT-4o-mini,BoN,GPT BoN,94,0,1
+GPT-4o-mini,BoN,GPT BoN,95,0,1
+GPT-4o-mini,BoN,GPT BoN,96,0,8
+GPT-4o-mini,BoN,GPT BoN,97,0,4
+GPT-4o-mini,BoN,GPT BoN,98,0,1
+GPT-4o-mini,BoN,GPT BoN,99,0,1
+GPT-4o-mini,BoN,GPT BoN,100,0,2
+GPT-4o-mini,BoN,GPT BoN,101,0,1
+GPT-4o-mini,BoN,GPT BoN,102,0,2
+GPT-4o-mini,BoN,GPT BoN,103,0,1
+GPT-4o-mini,BoN,GPT BoN,104,0,4
+GPT-4o-mini,BoN,GPT BoN,105,0,1
+GPT-4o-mini,BoN,GPT BoN,106,0,1
+GPT-4o-mini,BoN,GPT BoN,107,0,1
+GPT-4o-mini,BoN,GPT BoN,108,0,1
+GPT-4o-mini,BoN,GPT BoN,109,0,1
+GPT-4o-mini,BoN,GPT BoN,110,0,1
+GPT-4o-mini,BoN,GPT BoN,111,1,5
+GPT-4o-mini,BoN,GPT BoN,112,0,1
+GPT-4o-mini,BoN,GPT BoN,113,0,3
+GPT-4o-mini,BoN,GPT BoN,114,1,6
+GPT-4o-mini,BoN,GPT BoN,115,0,5
+GPT-4o-mini,BoN,GPT BoN,116,0,1
+GPT-4o-mini,BoN,GPT BoN,117,0,14
+GPT-4o-mini,BoN,GPT BoN,118,0,1
+GPT-4o-mini,BoN,GPT BoN,119,0,3
+GPT-4o-mini,BoN,GPT BoN,120,0,2
+GPT-4o-mini,BoN,GPT BoN,121,0,8
+GPT-4o-mini,BoN,GPT BoN,122,1,4
+GPT-4o-mini,BoN,GPT BoN,123,1,3
+GPT-4o-mini,BoN,GPT BoN,124,0,1
+GPT-4o-mini,BoN,GPT BoN,125,0,1
+GPT-4o-mini,BoN,GPT BoN,126,0,1
+GPT-4o-mini,BoN,GPT BoN,127,0,1
+GPT-4o-mini,BoN,GPT BoN,128,1,2
+GPT-4o-mini,BoN,GPT BoN,129,0,2
+GPT-4o-mini,BoN,GPT BoN,130,0,1
+GPT-4o-mini,BoN,GPT BoN,131,0,3
+GPT-4o-mini,BoN,GPT BoN,132,0,1
+GPT-4o-mini,BoN,GPT BoN,133,0,1
+GPT-4o-mini,BoN,GPT BoN,134,0,4
+GPT-4o-mini,BoN,GPT BoN,135,0,7
+GPT-4o-mini,BoN,GPT BoN,136,1,3
+GPT-4o-mini,BoN,GPT BoN,137,0,2
+GPT-4o-mini,BoN,GPT BoN,138,0,1
+GPT-4o-mini,BoN,GPT BoN,139,0,1
+GPT-4o-mini,BoN,GPT BoN,140,0,2
+GPT-4o-mini,BoN,GPT BoN,141,0,11
+GPT-4o-mini,BoN,GPT BoN,142,0,4
+GPT-4o-mini,BoN,GPT BoN,143,0,1
+GPT-4o-mini,BoN,GPT BoN,144,1,3
+GPT-4o-mini,BoN,GPT BoN,145,1,3
+GPT-4o-mini,BoN,GPT BoN,146,0,1
+GPT-4o-mini,BoN,GPT BoN,147,0,1
+GPT-4o-mini,BoN,GPT BoN,148,0,2
+GPT-4o-mini,BoN,GPT BoN,149,0,1
+GPT-4o-mini,BoN,GPT BoN,150,0,1
+GPT-4o-mini,BoN,GPT BoN,151,0,1
+GPT-4o-mini,BoN,GPT BoN,152,0,5
+GPT-4o-mini,BoN,GPT BoN,153,1,6
+GPT-4o-mini,BoN,GPT BoN,154,0,1
+GPT-4o-mini,BoN,GPT BoN,155,0,1
+GPT-4o-mini,BoN,GPT BoN,156,0,1
+GPT-4o-mini,BoN,GPT BoN,157,0,1
+GPT-4o-mini,BoN,GPT BoN,158,0,1
+GPT-4o-mini,BoN,GPT BoN,159,0,1
+GPT-4o-mini,BoN,GPT BoN,160,0,1
+GPT-4o-mini,BoN,GPT BoN,161,0,11
+GPT-4o-mini,BoN,GPT BoN,162,0,15
+GPT-4o-mini,BoN,GPT BoN,163,0,1
+GPT-4o-mini,BoN,GPT BoN,164,0,1
+GPT-4o-mini,BoN,GPT BoN,165,0,1
+GPT-4o-mini,BoN,GPT BoN,166,0,2
+GPT-4o-mini,BoN,GPT BoN,167,0,2
+GPT-4o-mini,BoN,GPT BoN,168,0,1
+GPT-4o-mini,BoN,GPT BoN,169,0,1
+GPT-4o-mini,BoN,GPT BoN,170,0,1
+GPT-4o-mini,BoN,GPT BoN,171,0,1
+GPT-4o-mini,BoN,GPT BoN,172,0,1
+GPT-4o-mini,BoN,GPT BoN,173,0,1
+GPT-4o-mini,BoN,GPT BoN,174,0,1
+GPT-4o-mini,BoN,GPT BoN,175,0,1
+GPT-4o-mini,BoN,GPT BoN,176,0,1
+GPT-4o-mini,BoN,GPT BoN,177,0,1
+GPT-4o-mini,BoN,GPT BoN,178,0,1
+GPT-4o-mini,BoN,GPT BoN,179,1,3
+GPT-4o-mini,BoN,GPT BoN,180,0,1
+GPT-4o-mini,BoN,GPT BoN,181,0,1
+GPT-4o-mini,BoN,GPT BoN,182,0,1
+GPT-4o-mini,BoN,GPT BoN,183,0,5
+GPT-4o-mini,CoT-tree,GPT CoT,1,0,5
+GPT-4o-mini,CoT-tree,GPT CoT,2,0,1
+GPT-4o-mini,CoT-tree,GPT CoT,3,1,10
+GPT-4o-mini,CoT-tree,GPT CoT,4,0,4
+GPT-4o-mini,CoT-tree,GPT CoT,5,0,1
+GPT-4o-mini,CoT-tree,GPT CoT,6,0,1
+GPT-4o-mini,CoT-tree,GPT CoT,7,0,2
+GPT-4o-mini,CoT-tree,GPT CoT,8,0,3
+GPT-4o-mini,CoT-tree,GPT CoT,9,0,10
+GPT-4o-mini,CoT-tree,GPT CoT,10,0,4
+GPT-4o-mini,CoT-tree,GPT CoT,11,0,1
+GPT-4o-mini,CoT-tree,GPT CoT,12,1,3
+GPT-4o-mini,CoT-tree,GPT CoT,13,0,1
+GPT-4o-mini,CoT-tree,GPT CoT,14,0,4
+GPT-4o-mini,CoT-tree,GPT CoT,15,0,2
+GPT-4o-mini,CoT-tree,GPT CoT,16,0,2
+GPT-4o-mini,CoT-tree,GPT CoT,17,0,12
+GPT-4o-mini,CoT-tree,GPT CoT,18,0,2
+GPT-4o-mini,CoT-tree,GPT CoT,19,0,2
+GPT-4o-mini,CoT-tree,GPT CoT,20,0,1
+GPT-4o-mini,CoT-tree,GPT CoT,21,0,1
+GPT-4o-mini,CoT-tree,GPT CoT,22,0,3
+GPT-4o-mini,CoT-tree,GPT CoT,23,0,1
+GPT-4o-mini,CoT-tree,GPT CoT,24,0,21
+GPT-4o-mini,CoT-tree,GPT CoT,25,0,1
+GPT-4o-mini,CoT-tree,GPT CoT,26,0,1
+GPT-4o-mini,CoT-tree,GPT CoT,27,0,3
+GPT-4o-mini,CoT-tree,GPT CoT,28,0,2
+GPT-4o-mini,CoT-tree,GPT CoT,29,0,2
+GPT-4o-mini,CoT-tree,GPT CoT,30,0,4
+GPT-4o-mini,CoT-tree,GPT CoT,31,0,1
+GPT-4o-mini,CoT-tree,GPT CoT,32,0,4
+GPT-4o-mini,CoT-tree,GPT CoT,33,0,1
+GPT-4o-mini,CoT-tree,GPT CoT,34,0,1
+GPT-4o-mini,CoT-tree,GPT CoT,35,0,5
+GPT-4o-mini,CoT-tree,GPT CoT,36,0,9
+GPT-4o-mini,CoT-tree,GPT CoT,37,0,15
+GPT-4o-mini,CoT-tree,GPT CoT,38,0,19
+GPT-4o-mini,CoT-tree,GPT CoT,39,0,2
+GPT-4o-mini,CoT-tree,GPT CoT,40,0,1
+GPT-4o-mini,CoT-tree,GPT CoT,41,1,10
+GPT-4o-mini,CoT-tree,GPT CoT,42,0,2
+GPT-4o-mini,CoT-tree,GPT CoT,43,0,1
+GPT-4o-mini,CoT-tree,GPT CoT,44,0,6
+GPT-4o-mini,CoT-tree,GPT CoT,45,0,1
+GPT-4o-mini,CoT-tree,GPT CoT,46,0,8
+GPT-4o-mini,CoT-tree,GPT CoT,47,0,3
+GPT-4o-mini,CoT-tree,GPT CoT,48,0,16
+GPT-4o-mini,CoT-tree,GPT CoT,49,0,6
+GPT-4o-mini,CoT-tree,GPT CoT,50,0,3
+GPT-4o-mini,CoT-tree,GPT CoT,51,0,2
+GPT-4o-mini,CoT-tree,GPT CoT,52,1,5
+GPT-4o-mini,CoT-tree,GPT CoT,53,0,14
+GPT-4o-mini,CoT-tree,GPT CoT,54,1,5
+GPT-4o-mini,CoT-tree,GPT CoT,55,1,5
+GPT-4o-mini,CoT-tree,GPT CoT,56,0,3
+GPT-4o-mini,CoT-tree,GPT CoT,57,0,1
+GPT-4o-mini,CoT-tree,GPT CoT,58,0,3
+GPT-4o-mini,CoT-tree,GPT CoT,59,0,1
+GPT-4o-mini,CoT-tree,GPT CoT,60,0,1
+GPT-4o-mini,CoT-tree,GPT CoT,61,0,3
+GPT-4o-mini,CoT-tree,GPT CoT,62,0,3
+GPT-4o-mini,CoT-tree,GPT CoT,63,0,6
+GPT-4o-mini,CoT-tree,GPT CoT,64,0,3
+GPT-4o-mini,CoT-tree,GPT CoT,65,0,1
+GPT-4o-mini,CoT-tree,GPT CoT,66,0,1
+GPT-4o-mini,CoT-tree,GPT CoT,67,0,1
+GPT-4o-mini,CoT-tree,GPT CoT,68,0,6
+GPT-4o-mini,CoT-tree,GPT CoT,69,0,19
+GPT-4o-mini,CoT-tree,GPT CoT,70,0,1
+GPT-4o-mini,CoT-tree,GPT CoT,71,1,8
+GPT-4o-mini,CoT-tree,GPT CoT,72,0,1
+GPT-4o-mini,CoT-tree,GPT CoT,73,0,3
+GPT-4o-mini,CoT-tree,GPT CoT,74,0,5
+GPT-4o-mini,CoT-tree,GPT CoT,75,0,2
+GPT-4o-mini,CoT-tree,GPT CoT,76,0,4
+GPT-4o-mini,CoT-tree,GPT CoT,77,1,18
+GPT-4o-mini,CoT-tree,GPT CoT,78,0,8
+GPT-4o-mini,CoT-tree,GPT CoT,79,1,8
+GPT-4o-mini,CoT-tree,GPT CoT,80,0,1
+GPT-4o-mini,CoT-tree,GPT CoT,81,0,1
+GPT-4o-mini,CoT-tree,GPT CoT,82,0,1
+GPT-4o-mini,CoT-tree,GPT CoT,83,0,9
+GPT-4o-mini,CoT-tree,GPT CoT,84,0,4
+GPT-4o-mini,CoT-tree,GPT CoT,85,0,6
+GPT-4o-mini,CoT-tree,GPT CoT,86,0,1
+GPT-4o-mini,CoT-tree,GPT CoT,87,0,1
+GPT-4o-mini,CoT-tree,GPT CoT,88,0,5
+GPT-4o-mini,CoT-tree,GPT CoT,89,0,1
+GPT-4o-mini,CoT-tree,GPT CoT,90,0,9
+GPT-4o-mini,CoT-tree,GPT CoT,91,0,6
+GPT-4o-mini,CoT-tree,GPT CoT,92,0,1
+GPT-4o-mini,CoT-tree,GPT CoT,93,1,4
+GPT-4o-mini,CoT-tree,GPT CoT,94,0,4
+GPT-4o-mini,CoT-tree,GPT CoT,95,0,3
+GPT-4o-mini,CoT-tree,GPT CoT,96,1,11
+GPT-4o-mini,CoT-tree,GPT CoT,97,0,3
+GPT-4o-mini,CoT-tree,GPT CoT,98,0,2
+GPT-4o-mini,CoT-tree,GPT CoT,99,0,1
+GPT-4o-mini,CoT-tree,GPT CoT,100,0,4
+GPT-4o-mini,CoT-tree,GPT CoT,101,0,1
+GPT-4o-mini,CoT-tree,GPT CoT,102,1,8
+GPT-4o-mini,CoT-tree,GPT CoT,103,0,1
+GPT-4o-mini,CoT-tree,GPT CoT,104,0,6
+GPT-4o-mini,CoT-tree,GPT CoT,105,0,1
+GPT-4o-mini,CoT-tree,GPT CoT,106,0,2
+GPT-4o-mini,CoT-tree,GPT CoT,107,0,2
+GPT-4o-mini,CoT-tree,GPT CoT,108,0,1
+GPT-4o-mini,CoT-tree,GPT CoT,109,0,2
+GPT-4o-mini,CoT-tree,GPT CoT,110,1,2
+GPT-4o-mini,CoT-tree,GPT CoT,111,1,5
+GPT-4o-mini,CoT-tree,GPT CoT,112,0,1
+GPT-4o-mini,CoT-tree,GPT CoT,113,0,12
+GPT-4o-mini,CoT-tree,GPT CoT,114,0,11
+GPT-4o-mini,CoT-tree,GPT CoT,115,0,7
+GPT-4o-mini,CoT-tree,GPT CoT,116,0,6
+GPT-4o-mini,CoT-tree,GPT CoT,117,0,6
+GPT-4o-mini,CoT-tree,GPT CoT,118,0,1
+GPT-4o-mini,CoT-tree,GPT CoT,119,1,14
+GPT-4o-mini,CoT-tree,GPT CoT,120,0,3
+GPT-4o-mini,CoT-tree,GPT CoT,121,0,13
+GPT-4o-mini,CoT-tree,GPT CoT,122,0,10
+GPT-4o-mini,CoT-tree,GPT CoT,123,1,3
+GPT-4o-mini,CoT-tree,GPT CoT,124,0,7
+GPT-4o-mini,CoT-tree,GPT CoT,125,0,1
+GPT-4o-mini,CoT-tree,GPT CoT,126,0,4
+GPT-4o-mini,CoT-tree,GPT CoT,127,0,5
+GPT-4o-mini,CoT-tree,GPT CoT,128,1,6
+GPT-4o-mini,CoT-tree,GPT CoT,129,0,7
+GPT-4o-mini,CoT-tree,GPT CoT,130,0,3
+GPT-4o-mini,CoT-tree,GPT CoT,131,0,12
+GPT-4o-mini,CoT-tree,GPT CoT,132,1,6
+GPT-4o-mini,CoT-tree,GPT CoT,133,0,2
+GPT-4o-mini,CoT-tree,GPT CoT,134,0,11
+GPT-4o-mini,CoT-tree,GPT CoT,135,1,15
+GPT-4o-mini,CoT-tree,GPT CoT,136,0,3
+GPT-4o-mini,CoT-tree,GPT CoT,137,1,8
+GPT-4o-mini,CoT-tree,GPT CoT,138,0,2
+GPT-4o-mini,CoT-tree,GPT CoT,139,0,2
+GPT-4o-mini,CoT-tree,GPT CoT,140,0,5
+GPT-4o-mini,CoT-tree,GPT CoT,141,0,13
+GPT-4o-mini,CoT-tree,GPT CoT,142,0,9
+GPT-4o-mini,CoT-tree,GPT CoT,143,0,1
+GPT-4o-mini,CoT-tree,GPT CoT,144,0,9
+GPT-4o-mini,CoT-tree,GPT CoT,145,0,5
+GPT-4o-mini,CoT-tree,GPT CoT,146,0,1
+GPT-4o-mini,CoT-tree,GPT CoT,147,0,1
+GPT-4o-mini,CoT-tree,GPT CoT,148,0,1
+GPT-4o-mini,CoT-tree,GPT CoT,149,0,1
+GPT-4o-mini,CoT-tree,GPT CoT,150,0,1
+GPT-4o-mini,CoT-tree,GPT CoT,151,0,2
+GPT-4o-mini,CoT-tree,GPT CoT,152,0,2
+GPT-4o-mini,CoT-tree,GPT CoT,153,0,3
+GPT-4o-mini,CoT-tree,GPT CoT,154,0,1
+GPT-4o-mini,CoT-tree,GPT CoT,155,0,1
+GPT-4o-mini,CoT-tree,GPT CoT,156,0,1
+GPT-4o-mini,CoT-tree,GPT CoT,157,0,2
+GPT-4o-mini,CoT-tree,GPT CoT,158,0,1
+GPT-4o-mini,CoT-tree,GPT CoT,159,0,1
+GPT-4o-mini,CoT-tree,GPT CoT,160,0,1
+GPT-4o-mini,CoT-tree,GPT CoT,161,0,6
+GPT-4o-mini,CoT-tree,GPT CoT,162,1,13
+GPT-4o-mini,CoT-tree,GPT CoT,163,0,1
+GPT-4o-mini,CoT-tree,GPT CoT,164,0,1
+GPT-4o-mini,CoT-tree,GPT CoT,165,0,1
+GPT-4o-mini,CoT-tree,GPT CoT,166,0,1
+GPT-4o-mini,CoT-tree,GPT CoT,167,0,4
+GPT-4o-mini,CoT-tree,GPT CoT,168,0,1
+GPT-4o-mini,CoT-tree,GPT CoT,169,0,4
+GPT-4o-mini,CoT-tree,GPT CoT,170,0,1
+GPT-4o-mini,CoT-tree,GPT CoT,171,1,3
+GPT-4o-mini,CoT-tree,GPT CoT,172,0,4
+GPT-4o-mini,CoT-tree,GPT CoT,173,0,2
+GPT-4o-mini,CoT-tree,GPT CoT,174,0,1
+GPT-4o-mini,CoT-tree,GPT CoT,175,0,1
+GPT-4o-mini,CoT-tree,GPT CoT,176,0,1
+GPT-4o-mini,CoT-tree,GPT CoT,177,0,2
+GPT-4o-mini,CoT-tree,GPT CoT,178,0,1
+GPT-4o-mini,CoT-tree,GPT CoT,179,0,2
+GPT-4o-mini,CoT-tree,GPT CoT,180,0,1
+GPT-4o-mini,CoT-tree,GPT CoT,181,0,2
+GPT-4o-mini,CoT-tree,GPT CoT,182,0,1
+GPT-4o-mini,CoT-tree,GPT CoT,183,0,1
+GPT-4o-mini,MO-Tree,GPT MO,1,0,6
+GPT-4o-mini,MO-Tree,GPT MO,2,0,2
+GPT-4o-mini,MO-Tree,GPT MO,3,0,8
+GPT-4o-mini,MO-Tree,GPT MO,4,0,3
+GPT-4o-mini,MO-Tree,GPT MO,5,0,3
+GPT-4o-mini,MO-Tree,GPT MO,6,0,6
+GPT-4o-mini,MO-Tree,GPT MO,7,0,6
+GPT-4o-mini,MO-Tree,GPT MO,8,0,4
+GPT-4o-mini,MO-Tree,GPT MO,9,0,7
+GPT-4o-mini,MO-Tree,GPT MO,10,0,3
+GPT-4o-mini,MO-Tree,GPT MO,11,0,1
+GPT-4o-mini,MO-Tree,GPT MO,12,0,2
+GPT-4o-mini,MO-Tree,GPT MO,13,0,3
+GPT-4o-mini,MO-Tree,GPT MO,14,0,9
+GPT-4o-mini,MO-Tree,GPT MO,15,0,2
+GPT-4o-mini,MO-Tree,GPT MO,16,0,5
+GPT-4o-mini,MO-Tree,GPT MO,17,0,9
+GPT-4o-mini,MO-Tree,GPT MO,18,1,6
+GPT-4o-mini,MO-Tree,GPT MO,19,1,3
+GPT-4o-mini,MO-Tree,GPT MO,20,0,2
+GPT-4o-mini,MO-Tree,GPT MO,21,0,7
+GPT-4o-mini,MO-Tree,GPT MO,22,0,3
+GPT-4o-mini,MO-Tree,GPT MO,23,0,2
+GPT-4o-mini,MO-Tree,GPT MO,24,0,4
+GPT-4o-mini,MO-Tree,GPT MO,25,0,2
+GPT-4o-mini,MO-Tree,GPT MO,26,0,5
+GPT-4o-mini,MO-Tree,GPT MO,27,0,4
+GPT-4o-mini,MO-Tree,GPT MO,28,0,6
+GPT-4o-mini,MO-Tree,GPT MO,29,0,2
+GPT-4o-mini,MO-Tree,GPT MO,30,0,6
+GPT-4o-mini,MO-Tree,GPT MO,31,0,2
+GPT-4o-mini,MO-Tree,GPT MO,32,0,6
+GPT-4o-mini,MO-Tree,GPT MO,33,0,3
+GPT-4o-mini,MO-Tree,GPT MO,34,0,4
+GPT-4o-mini,MO-Tree,GPT MO,35,0,5
+GPT-4o-mini,MO-Tree,GPT MO,36,0,9
+GPT-4o-mini,MO-Tree,GPT MO,37,0,9
+GPT-4o-mini,MO-Tree,GPT MO,38,0,5
+GPT-4o-mini,MO-Tree,GPT MO,39,1,5
+GPT-4o-mini,MO-Tree,GPT MO,40,0,2
+GPT-4o-mini,MO-Tree,GPT MO,41,0,5
+GPT-4o-mini,MO-Tree,GPT MO,42,0,9
+GPT-4o-mini,MO-Tree,GPT MO,43,0,1
+GPT-4o-mini,MO-Tree,GPT MO,44,1,11
+GPT-4o-mini,MO-Tree,GPT MO,45,1,5
+GPT-4o-mini,MO-Tree,GPT MO,46,1,8
+GPT-4o-mini,MO-Tree,GPT MO,47,1,7
+GPT-4o-mini,MO-Tree,GPT MO,48,0,10
+GPT-4o-mini,MO-Tree,GPT MO,49,0,9
+GPT-4o-mini,MO-Tree,GPT MO,50,0,9
+GPT-4o-mini,MO-Tree,GPT MO,51,0,2
+GPT-4o-mini,MO-Tree,GPT MO,52,0,8
+GPT-4o-mini,MO-Tree,GPT MO,53,0,8
+GPT-4o-mini,MO-Tree,GPT MO,54,0,10
+GPT-4o-mini,MO-Tree,GPT MO,55,0,4
+GPT-4o-mini,MO-Tree,GPT MO,56,0,5
+GPT-4o-mini,MO-Tree,GPT MO,57,1,3
+GPT-4o-mini,MO-Tree,GPT MO,58,0,3
+GPT-4o-mini,MO-Tree,GPT MO,59,0,4
+GPT-4o-mini,MO-Tree,GPT MO,60,0,5
+GPT-4o-mini,MO-Tree,GPT MO,61,0,3
+GPT-4o-mini,MO-Tree,GPT MO,62,0,4
+GPT-4o-mini,MO-Tree,GPT MO,63,1,4
+GPT-4o-mini,MO-Tree,GPT MO,64,0,2
+GPT-4o-mini,MO-Tree,GPT MO,65,0,5
+GPT-4o-mini,MO-Tree,GPT MO,66,0,3
+GPT-4o-mini,MO-Tree,GPT MO,67,0,4
+GPT-4o-mini,MO-Tree,GPT MO,68,0,2
+GPT-4o-mini,MO-Tree,GPT MO,69,0,9
+GPT-4o-mini,MO-Tree,GPT MO,70,0,4
+GPT-4o-mini,MO-Tree,GPT MO,71,1,6
+GPT-4o-mini,MO-Tree,GPT MO,72,0,1
+GPT-4o-mini,MO-Tree,GPT MO,73,0,4
+GPT-4o-mini,MO-Tree,GPT MO,74,0,2
+GPT-4o-mini,MO-Tree,GPT MO,75,0,7
+GPT-4o-mini,MO-Tree,GPT MO,76,0,1
+GPT-4o-mini,MO-Tree,GPT MO,77,0,9
+GPT-4o-mini,MO-Tree,GPT MO,78,0,10
+GPT-4o-mini,MO-Tree,GPT MO,79,1,5
+GPT-4o-mini,MO-Tree,GPT MO,80,0,3
+GPT-4o-mini,MO-Tree,GPT MO,81,0,3
+GPT-4o-mini,MO-Tree,GPT MO,82,0,4
+GPT-4o-mini,MO-Tree,GPT MO,83,0,3
+GPT-4o-mini,MO-Tree,GPT MO,84,0,6
+GPT-4o-mini,MO-Tree,GPT MO,85,0,8
+GPT-4o-mini,MO-Tree,GPT MO,86,0,2
+GPT-4o-mini,MO-Tree,GPT MO,87,0,4
+GPT-4o-mini,MO-Tree,GPT MO,88,0,2
+GPT-4o-mini,MO-Tree,GPT MO,89,0,1
+GPT-4o-mini,MO-Tree,GPT MO,90,0,3
+GPT-4o-mini,MO-Tree,GPT MO,91,0,5
+GPT-4o-mini,MO-Tree,GPT MO,92,0,5
+GPT-4o-mini,MO-Tree,GPT MO,93,1,4
+GPT-4o-mini,MO-Tree,GPT MO,94,0,4
+GPT-4o-mini,MO-Tree,GPT MO,95,0,2
+GPT-4o-mini,MO-Tree,GPT MO,96,0,7
+GPT-4o-mini,MO-Tree,GPT MO,97,0,6
+GPT-4o-mini,MO-Tree,GPT MO,98,0,3
+GPT-4o-mini,MO-Tree,GPT MO,99,0,2
+GPT-4o-mini,MO-Tree,GPT MO,100,0,10
+GPT-4o-mini,MO-Tree,GPT MO,101,0,1
+GPT-4o-mini,MO-Tree,GPT MO,102,0,8
+GPT-4o-mini,MO-Tree,GPT MO,103,0,2
+GPT-4o-mini,MO-Tree,GPT MO,104,0,7
+GPT-4o-mini,MO-Tree,GPT MO,105,0,4
+GPT-4o-mini,MO-Tree,GPT MO,106,0,1
+GPT-4o-mini,MO-Tree,GPT MO,107,0,5
+GPT-4o-mini,MO-Tree,GPT MO,108,0,1
+GPT-4o-mini,MO-Tree,GPT MO,109,0,4
+GPT-4o-mini,MO-Tree,GPT MO,110,0,1
+GPT-4o-mini,MO-Tree,GPT MO,111,1,6
+GPT-4o-mini,MO-Tree,GPT MO,112,0,2
+GPT-4o-mini,MO-Tree,GPT MO,113,0,5
+GPT-4o-mini,MO-Tree,GPT MO,114,0,7
+GPT-4o-mini,MO-Tree,GPT MO,115,0,8
+GPT-4o-mini,MO-Tree,GPT MO,116,0,7
+GPT-4o-mini,MO-Tree,GPT MO,117,0,4
+GPT-4o-mini,MO-Tree,GPT MO,118,0,4
+GPT-4o-mini,MO-Tree,GPT MO,119,0,10
+GPT-4o-mini,MO-Tree,GPT MO,120,0,4
+GPT-4o-mini,MO-Tree,GPT MO,121,0,13
+GPT-4o-mini,MO-Tree,GPT MO,122,0,4
+GPT-4o-mini,MO-Tree,GPT MO,123,1,7
+GPT-4o-mini,MO-Tree,GPT MO,124,0,8
+GPT-4o-mini,MO-Tree,GPT MO,125,0,2
+GPT-4o-mini,MO-Tree,GPT MO,126,0,5
+GPT-4o-mini,MO-Tree,GPT MO,127,0,5
+GPT-4o-mini,MO-Tree,GPT MO,128,0,8
+GPT-4o-mini,MO-Tree,GPT MO,129,0,9
+GPT-4o-mini,MO-Tree,GPT MO,130,0,3
+GPT-4o-mini,MO-Tree,GPT MO,131,0,6
+GPT-4o-mini,MO-Tree,GPT MO,132,1,8
+GPT-4o-mini,MO-Tree,GPT MO,133,0,3
+GPT-4o-mini,MO-Tree,GPT MO,134,0,9
+GPT-4o-mini,MO-Tree,GPT MO,135,0,14
+GPT-4o-mini,MO-Tree,GPT MO,136,0,10
+GPT-4o-mini,MO-Tree,GPT MO,137,0,9
+GPT-4o-mini,MO-Tree,GPT MO,138,0,6
+GPT-4o-mini,MO-Tree,GPT MO,139,0,3
+GPT-4o-mini,MO-Tree,GPT MO,140,0,5
+GPT-4o-mini,MO-Tree,GPT MO,141,0,14
+GPT-4o-mini,MO-Tree,GPT MO,142,1,13
+GPT-4o-mini,MO-Tree,GPT MO,143,0,4
+GPT-4o-mini,MO-Tree,GPT MO,144,0,8
+GPT-4o-mini,MO-Tree,GPT MO,145,0,4
+GPT-4o-mini,MO-Tree,GPT MO,146,0,1
+GPT-4o-mini,MO-Tree,GPT MO,147,1,4
+GPT-4o-mini,MO-Tree,GPT MO,148,0,6
+GPT-4o-mini,MO-Tree,GPT MO,149,0,3
+GPT-4o-mini,MO-Tree,GPT MO,150,0,3
+GPT-4o-mini,MO-Tree,GPT MO,151,0,7
+GPT-4o-mini,MO-Tree,GPT MO,152,0,2
+GPT-4o-mini,MO-Tree,GPT MO,153,1,5
+GPT-4o-mini,MO-Tree,GPT MO,154,0,1
+GPT-4o-mini,MO-Tree,GPT MO,155,0,4
+GPT-4o-mini,MO-Tree,GPT MO,156,0,1
+GPT-4o-mini,MO-Tree,GPT MO,157,0,1
+GPT-4o-mini,MO-Tree,GPT MO,158,1,2
+GPT-4o-mini,MO-Tree,GPT MO,159,0,2
+GPT-4o-mini,MO-Tree,GPT MO,160,0,2
+GPT-4o-mini,MO-Tree,GPT MO,161,0,5
+GPT-4o-mini,MO-Tree,GPT MO,162,0,4
+GPT-4o-mini,MO-Tree,GPT MO,163,0,4
+GPT-4o-mini,MO-Tree,GPT MO,164,0,3
+GPT-4o-mini,MO-Tree,GPT MO,165,1,3
+GPT-4o-mini,MO-Tree,GPT MO,166,0,2
+GPT-4o-mini,MO-Tree,GPT MO,167,0,3
+GPT-4o-mini,MO-Tree,GPT MO,168,0,6
+GPT-4o-mini,MO-Tree,GPT MO,169,0,2
+GPT-4o-mini,MO-Tree,GPT MO,170,0,2
+GPT-4o-mini,MO-Tree,GPT MO,171,0,2
+GPT-4o-mini,MO-Tree,GPT MO,172,0,4
+GPT-4o-mini,MO-Tree,GPT MO,173,0,2
+GPT-4o-mini,MO-Tree,GPT MO,174,0,4
+GPT-4o-mini,MO-Tree,GPT MO,175,0,2
+GPT-4o-mini,MO-Tree,GPT MO,176,0,2
+GPT-4o-mini,MO-Tree,GPT MO,177,0,4
+GPT-4o-mini,MO-Tree,GPT MO,178,0,4
+GPT-4o-mini,MO-Tree,GPT MO,179,0,2
+GPT-4o-mini,MO-Tree,GPT MO,180,0,1
+GPT-4o-mini,MO-Tree,GPT MO,181,1,3
+GPT-4o-mini,MO-Tree,GPT MO,182,0,4
+GPT-4o-mini,MO-Tree,GPT MO,183,0,8
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,1,0,6
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,2,0,2
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,3,0,11
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,4,0,4
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,5,0,1
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,6,0,1
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,7,0,2
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,8,0,2
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,9,0,7
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,10,0,3
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,11,0,1
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,12,1,3
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,13,0,1
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,14,0,3
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,15,0,3
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,16,0,1
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,17,0,13
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,18,0,2
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,19,0,1
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,20,0,1
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,21,0,2
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,22,0,3
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,23,0,1
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,24,0,15
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,25,0,1
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,26,0,3
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,27,0,2
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,28,0,5
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,29,0,2
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,30,0,7
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,31,0,1
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,32,0,3
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,33,0,1
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,34,0,2
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,35,0,4
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,36,0,8
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,37,0,14
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,38,0,15
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,39,0,1
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,40,0,2
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,41,0,9
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,42,1,4
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,43,0,1
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,44,0,6
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,45,1,2
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,46,0,7
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,47,0,3
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,48,0,13
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,49,1,9
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,50,0,2
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,51,0,2
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,52,1,4
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,53,0,13
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,54,1,5
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,55,1,7
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,56,0,2
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,57,0,1
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,58,0,4
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,59,0,2
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,60,0,1
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,61,0,2
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,62,0,2
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,63,1,4
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,64,0,1
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,65,0,2
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,66,0,1
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,67,0,3
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,68,0,4
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,69,0,20
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,70,0,2
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,71,1,7
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,72,0,1
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,73,0,3
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,74,0,4
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,75,0,2
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,76,0,4
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,77,1,17
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,78,1,11
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,79,1,9
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,80,0,1
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,81,0,1
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,82,0,1
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,83,0,8
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,84,0,2
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,85,1,8
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,86,0,1
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,87,0,1
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,88,1,4
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,89,0,1
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,90,0,10
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,91,0,6
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,92,0,1
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,93,1,4
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,94,0,6
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,95,0,3
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,96,0,9
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,97,0,3
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,98,0,2
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,99,0,1
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,100,0,7
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,101,0,2
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,102,1,7
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,103,0,1
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,104,0,4
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,105,0,1
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,106,0,2
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,107,0,1
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,108,0,1
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,109,0,1
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,110,1,2
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,111,1,5
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,112,0,1
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,113,0,9
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,114,0,10
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,115,1,11
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,116,0,1
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,117,0,7
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,118,0,1
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,119,0,12
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,120,0,4
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,121,0,19
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,122,0,10
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,123,1,5
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,124,0,4
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,125,0,3
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,126,0,4
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,127,0,5
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,128,0,6
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,129,1,6
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,130,0,1
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,131,0,9
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,132,0,4
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,133,0,2
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,134,0,10
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,135,1,15
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,136,0,4
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,137,0,6
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,138,0,4
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,139,0,2
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,140,0,3
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,141,0,13
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,142,1,7
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,143,0,1
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,144,0,8
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,145,0,2
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,146,0,1
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,147,0,1
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,148,0,1
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,149,0,1
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,150,0,1
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,151,0,3
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,152,0,2
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,153,0,3
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,154,0,1
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,155,0,1
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,156,0,1
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,157,0,2
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,158,0,1
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,159,0,1
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,160,0,2
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,161,0,4
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,162,0,11
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,163,0,1
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,164,0,2
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,165,0,1
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,166,0,2
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,167,0,4
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,168,0,1
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,169,0,5
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,170,0,1
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,171,1,4
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,172,0,2
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,173,0,2
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,174,0,1
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,175,0,2
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,176,0,1
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,177,0,1
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,178,0,1
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,179,0,2
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,180,0,1
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,181,0,3
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,182,0,1
+GPT-4o-mini,Prompt-matched BoN,GPT Prompt,183,0,1
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,1,0,3
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,2,0,1
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,3,0,7
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,4,0,3
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,5,0,1
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,6,0,1
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,7,1,7
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,8,0,2
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,9,0,8
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,10,0,3
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,11,0,1
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,12,0,4
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,13,0,1
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,14,0,1
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,15,1,2
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,16,0,4
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,17,0,10
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,18,0,3
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,19,0,2
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,20,0,1
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,21,0,5
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,22,0,1
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,23,0,1
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,24,0,1
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,25,0,1
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,26,0,2
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,27,1,3
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,28,0,3
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,29,0,1
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,30,0,5
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,31,0,3
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,32,0,5
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,33,0,1
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,34,0,2
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,35,1,8
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,36,0,8
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,37,1,15
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,38,1,7
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,39,0,6
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,40,0,2
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,41,1,9
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,42,1,3
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,43,0,2
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,44,0,6
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,45,0,3
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,46,1,4
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,47,0,7
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,48,0,9
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,49,0,21
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,50,0,2
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,51,0,5
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,52,0,4
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,53,0,12
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,54,1,6
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,55,0,5
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,56,0,2
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,57,0,5
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,58,0,1
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,59,0,1
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,60,0,1
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,61,0,2
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,62,0,6
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,63,0,3
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,64,0,1
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,65,0,1
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,66,0,2
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,67,0,4
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,68,0,1
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,69,0,7
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,70,0,2
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,71,1,2
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,72,0,1
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,73,0,8
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,74,0,6
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,75,0,3
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,76,0,6
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,77,0,7
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,78,0,21
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,79,0,7
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,80,0,4
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,81,0,2
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,82,0,3
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,83,0,6
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,84,0,8
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,85,1,10
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,86,0,3
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,87,0,1
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,88,0,4
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,89,0,1
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,90,0,1
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,91,1,4
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,92,0,7
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,93,1,5
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,94,0,9
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,95,0,1
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,96,0,2
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,97,0,14
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,98,1,7
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,99,0,1
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,100,1,9
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,101,0,2
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,102,0,3
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,103,0,1
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,104,0,6
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,105,0,1
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,106,0,2
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,107,0,1
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,108,0,1
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,109,0,1
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,110,0,1
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,111,0,1
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,112,0,2
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,113,1,5
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,114,0,7
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,115,1,10
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,116,1,11
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,117,0,3
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,118,0,1
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,119,1,8
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,120,0,6
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,121,0,5
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,122,1,7
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,123,0,7
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,124,0,6
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,125,0,1
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,126,0,5
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,127,0,22
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,128,1,8
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,129,1,3
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,130,0,3
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,131,0,12
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,132,0,5
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,133,1,2
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,134,0,13
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,135,0,6
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,136,0,8
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,137,0,6
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,138,0,6
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,139,1,16
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,140,0,2
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,141,0,22
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,142,0,9
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,143,0,1
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,144,0,10
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,145,0,2
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,146,0,1
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,147,0,1
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,148,0,1
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,149,0,1
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,150,0,1
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,151,0,1
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,152,0,1
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,153,1,4
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,154,0,1
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,155,0,2
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,156,0,2
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,157,0,2
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,158,0,1
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,159,0,1
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,160,0,1
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,161,0,4
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,162,1,11
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,163,0,2
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,164,0,1
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,165,0,1
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,166,0,4
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,167,0,8
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,168,0,1
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,169,0,3
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,170,0,1
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,171,1,4
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,172,0,1
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,173,0,1
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,174,0,4
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,175,0,2
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,176,0,2
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,177,0,3
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,178,0,1
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,179,0,1
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,180,0,1
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,181,0,1
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,182,0,1
+Qwen3.5-9B Run 1,BoN,Qwen R1 BoN,183,0,1
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,1,0,3
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,2,0,1
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,3,1,4
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,4,0,3
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,5,0,1
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,6,0,1
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,7,1,3
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,8,0,1
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,9,1,13
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,10,1,5
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,11,0,1
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,12,0,4
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,13,0,1
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,14,0,1
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,15,0,2
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,16,0,2
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,17,0,14
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,18,1,2
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,19,0,2
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,20,0,1
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,21,0,1
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,22,0,2
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,23,0,1
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,24,0,1
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,25,0,1
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,26,0,1
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,27,1,3
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,28,0,2
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,29,0,1
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,30,0,2
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,31,0,1
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,32,0,9
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,33,0,1
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,34,0,1
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,35,0,5
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,36,0,17
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,37,0,17
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,38,0,6
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,39,1,5
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,40,0,2
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,41,0,10
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,42,0,6
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,43,0,2
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,44,0,4
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,45,0,2
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,46,1,4
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,47,1,8
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,48,0,16
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,49,0,12
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,50,0,3
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,51,0,2
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,52,0,2
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,53,0,8
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,54,1,6
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,55,0,8
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,56,0,1
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,57,0,3
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,58,0,1
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,59,0,1
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,60,0,1
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,61,0,1
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,62,1,8
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,63,0,3
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,64,0,1
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,65,0,2
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,66,0,3
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,67,0,1
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,68,0,1
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,69,0,4
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,70,0,1
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,71,1,2
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,72,0,1
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,73,1,5
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,74,0,3
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,75,0,1
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,76,0,7
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,77,0,9
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,78,1,20
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,79,0,8
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,80,0,2
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,81,0,1
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,82,0,2
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,83,0,3
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,84,0,3
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,85,1,9
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,86,0,12
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,87,0,1
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,88,0,4
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,89,0,1
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,90,0,2
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,91,1,2
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,92,0,3
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,93,0,3
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,94,0,6
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,95,0,1
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,96,0,1
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,97,0,9
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,98,0,8
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,99,0,1
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,100,1,9
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,101,0,3
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,102,0,3
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,103,0,1
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,104,0,10
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,105,0,1
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,106,0,1
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,107,0,1
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,108,0,1
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,109,0,1
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,110,0,1
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,111,0,1
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,112,0,2
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,113,1,5
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,114,0,8
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,115,1,7
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,116,1,3
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,117,0,1
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,118,0,2
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,119,1,5
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,120,0,2
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,121,0,4
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,122,1,5
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,123,0,4
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,124,0,1
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,125,0,1
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,126,0,2
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,127,0,15
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,128,0,4
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,129,1,3
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,130,0,1
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,131,1,15
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,132,0,3
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,133,0,2
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,134,1,25
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,135,0,7
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,136,0,10
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,137,0,5
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,138,0,4
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,139,1,23
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,140,0,2
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,141,0,14
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,142,1,9
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,143,0,1
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,144,1,13
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,145,0,1
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,146,0,1
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,147,0,2
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,148,0,1
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,149,0,1
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,150,0,1
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,151,0,1
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,152,0,1
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,153,0,3
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,154,0,1
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,155,0,1
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,156,0,6
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,157,0,1
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,158,0,1
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,159,0,1
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,160,0,1
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,161,0,3
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,162,0,12
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,163,0,3
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,164,0,1
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,165,0,1
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,166,0,1
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,167,0,9
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,168,0,1
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,169,0,1
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,170,0,1
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,171,0,1
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,172,0,3
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,173,0,2
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,174,0,2
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,175,0,1
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,176,0,2
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,177,0,1
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,178,0,1
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,179,0,1
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,180,0,1
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,181,0,1
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,182,0,1
+Qwen3.5-9B Run 1,CoT-tree,Qwen R1 CoT,183,0,1
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,1,0,4
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,2,0,1
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,3,1,3
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,4,0,4
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,5,0,2
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,6,0,3
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,7,0,2
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,8,0,3
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,9,0,6
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,10,1,4
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,11,0,2
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,12,0,5
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,13,0,2
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,14,0,2
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,15,0,3
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,16,0,5
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,17,0,2
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,18,0,4
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,19,0,1
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,20,0,1
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,21,0,1
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,22,0,2
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,23,0,3
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,24,0,1
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,25,0,1
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,26,0,1
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,27,0,4
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,28,0,1
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,29,0,1
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,30,0,1
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,31,0,3
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,32,0,4
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,33,0,3
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,34,0,2
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,35,0,3
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,36,0,5
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,37,0,5
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,38,0,4
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,39,0,4
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,40,0,3
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,41,1,4
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,42,0,2
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,43,0,1
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,44,0,5
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,45,0,1
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,46,0,5
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,47,0,2
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,48,0,4
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,49,0,5
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,50,1,2
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,51,0,1
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,52,0,2
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,53,0,7
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,54,0,2
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,55,0,1
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,56,0,1
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,57,0,2
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,58,0,1
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,59,0,2
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,60,0,1
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,61,0,2
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,62,0,5
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,63,1,3
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,64,0,1
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,65,0,2
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,66,0,1
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,67,0,3
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,68,0,2
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,69,0,4
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,70,0,2
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,71,1,3
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,72,0,1
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,73,1,3
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,74,1,7
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,75,1,6
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,76,1,4
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,77,0,4
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,78,0,5
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,79,0,2
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,80,0,1
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,81,0,2
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,82,0,1
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,83,0,3
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,84,0,5
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,85,0,4
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,86,0,4
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,87,0,3
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,88,0,2
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,89,0,1
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,90,0,1
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,91,0,4
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,92,0,2
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,93,0,4
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,94,0,2
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,95,0,1
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,96,0,3
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,97,0,4
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,98,0,3
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,99,0,3
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,100,0,3
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,101,0,1
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,102,0,2
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,103,0,3
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,104,0,3
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,105,0,2
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,106,0,3
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,107,0,2
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,108,1,2
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,109,0,1
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,110,0,2
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,111,0,2
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,112,0,2
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,113,1,4
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,114,0,3
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,115,0,2
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,116,0,2
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,117,0,4
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,118,0,3
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,119,1,3
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,120,0,2
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,121,1,3
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,122,1,2
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,123,0,2
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,124,0,1
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,125,0,3
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,126,0,3
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,127,0,4
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,128,0,1
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,129,0,3
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,130,0,1
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,131,0,4
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,132,0,5
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,133,0,3
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,134,0,7
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,135,0,3
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,136,1,8
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,137,0,4
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,138,0,5
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,139,0,4
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,140,0,2
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,141,0,5
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,142,0,5
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,143,0,3
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,144,0,3
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,145,0,1
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,146,0,2
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,147,0,1
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,148,0,2
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,149,0,1
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,150,0,1
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,151,0,2
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,152,0,1
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,153,0,2
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,154,1,2
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,155,1,3
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,156,0,2
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,157,0,2
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,158,0,2
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,159,0,3
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,160,0,2
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,161,0,2
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,162,0,9
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,163,0,2
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,164,0,1
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,165,0,1
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,166,0,1
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,167,0,3
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,168,0,2
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,169,0,2
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,170,0,1
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,171,0,4
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,172,0,4
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,173,0,3
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,174,0,3
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,175,1,2
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,176,0,2
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,177,0,1
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,178,0,1
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,179,0,1
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,180,0,1
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,181,0,1
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,182,0,1
+Qwen3.5-9B Run 1,MO-Tree,Qwen R1 MO,183,0,1
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,1,0,1
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,2,0,1
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,3,0,8
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,4,0,6
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,5,0,2
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,6,0,1
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,7,1,5
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,8,0,2
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,9,1,12
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,10,1,4
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,11,0,1
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,12,1,4
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,13,0,1
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,14,0,2
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,15,1,2
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,16,0,4
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,17,0,11
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,18,0,2
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,19,0,2
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,20,0,1
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,21,0,3
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,22,0,2
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,23,0,1
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,24,0,2
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,25,0,2
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,26,0,1
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,27,1,5
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,28,0,2
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,29,0,1
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,30,0,4
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,31,0,2
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,32,0,5
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,33,0,2
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,34,0,2
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,35,1,6
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,36,0,8
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,37,1,17
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,38,1,6
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,39,0,4
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,40,0,3
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,41,1,5
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,42,1,5
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,43,0,2
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,44,0,5
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,45,0,3
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,46,1,5
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,47,0,8
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,48,0,11
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,49,0,17
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,50,0,2
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,51,0,6
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,52,0,3
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,53,1,14
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,54,1,3
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,55,0,7
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,56,0,2
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,57,0,3
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,58,0,3
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,59,0,1
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,60,0,1
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,61,0,2
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,62,0,9
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,63,0,1
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,64,0,1
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,65,0,1
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,66,0,4
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,67,0,2
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,68,0,2
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,69,0,9
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,70,0,2
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,71,1,2
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,72,0,1
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,73,0,5
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,74,1,4
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,75,0,2
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,76,0,7
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,77,0,5
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,78,0,15
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,79,0,8
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,80,0,3
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,81,0,2
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,82,0,2
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,83,0,4
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,84,0,11
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,85,0,7
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,86,0,2
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,87,0,1
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,88,0,5
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,89,0,1
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,90,0,2
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,91,1,4
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,92,0,7
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,93,1,7
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,94,0,9
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,95,0,1
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,96,0,3
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,97,0,13
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,98,1,6
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,99,0,1
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,100,1,9
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,101,0,3
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,102,0,6
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,103,0,1
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,104,0,2
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,105,0,1
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,106,0,2
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,107,0,1
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,108,0,1
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,109,0,1
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,110,0,1
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,111,0,2
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,112,0,2
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,113,1,3
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,114,0,9
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,115,1,9
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,116,1,7
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,117,0,4
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,118,0,1
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,119,1,7
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,120,1,5
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,121,0,4
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,122,1,6
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,123,0,11
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,124,0,5
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,125,0,1
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,126,0,2
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,127,0,21
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,128,1,9
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,129,1,3
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,130,0,3
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,131,0,11
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,132,1,5
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,133,0,3
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,134,0,16
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,135,0,8
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,136,0,12
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,137,0,6
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,138,0,6
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,139,1,15
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,140,0,2
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,141,0,21
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,142,0,12
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,143,0,1
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,144,0,10
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,145,0,3
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,146,0,2
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,147,0,1
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,148,0,2
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,149,0,1
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,150,0,1
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,151,0,1
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,152,0,4
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,153,1,6
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,154,0,1
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,155,0,1
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,156,0,4
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,157,0,2
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,158,0,1
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,159,0,1
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,160,0,2
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,161,0,2
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,162,1,9
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,163,0,3
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,164,0,1
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,165,0,1
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,166,0,2
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,167,0,9
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,168,0,1
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,169,0,2
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,170,0,2
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,171,0,4
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,172,0,3
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,173,0,1
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,174,0,3
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,175,0,1
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,176,1,2
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,177,0,2
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,178,0,2
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,179,0,1
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,180,0,1
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,181,0,2
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,182,0,2
+Qwen3.5-9B Run 2,BoN,Qwen R2 BoN,183,0,1
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,1,0,2
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,2,0,1
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,3,1,4
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,4,0,2
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,5,0,1
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,6,0,1
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,7,1,2
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,8,0,1
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,9,0,11
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,10,1,4
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,11,0,1
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,12,1,3
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,13,0,1
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,14,0,2
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,15,0,2
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,16,0,1
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,17,0,8
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,18,1,2
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,19,0,1
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,20,0,1
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,21,0,1
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,22,0,3
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,23,0,1
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,24,0,2
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,25,0,1
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,26,0,1
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,27,1,4
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,28,0,1
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,29,0,1
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,30,0,2
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,31,0,1
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,32,0,12
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,33,0,1
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,34,0,1
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,35,0,4
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,36,0,12
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,37,0,16
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,38,0,7
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,39,0,5
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,40,0,2
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,41,0,8
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,42,1,4
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,43,0,2
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,44,0,6
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,45,0,2
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,46,1,4
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,47,0,5
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,48,0,18
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,49,0,13
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,50,0,3
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,51,0,2
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,52,0,2
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,53,0,8
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,54,1,7
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,55,0,10
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,56,0,1
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,57,0,2
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,58,0,1
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,59,0,1
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,60,0,1
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,61,0,1
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,62,1,11
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,63,0,2
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,64,0,1
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,65,0,2
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,66,0,3
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,67,0,1
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,68,0,1
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,69,0,6
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,70,0,1
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,71,1,2
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,72,0,1
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,73,0,5
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,74,0,2
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,75,0,2
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,76,0,15
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,77,0,9
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,78,1,21
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,79,0,6
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,80,0,2
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,81,0,1
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,82,0,2
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,83,0,2
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,84,0,7
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,85,1,10
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,86,0,8
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,87,0,1
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,88,0,3
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,89,0,1
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,90,0,1
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,91,1,2
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,92,0,5
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,93,0,4
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,94,0,5
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,95,0,1
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,96,0,1
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,97,0,8
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,98,0,6
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,99,0,1
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,100,1,9
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,101,0,4
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,102,0,4
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,103,0,1
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,104,0,12
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,105,0,1
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,106,0,1
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,107,0,1
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,108,0,1
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,109,0,1
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,110,0,1
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,111,0,1
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,112,0,2
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,113,1,5
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,114,0,9
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,115,1,9
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,116,1,6
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,117,0,1
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,118,0,1
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,119,0,4
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,120,0,3
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,121,0,4
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,122,1,4
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,123,0,4
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,124,0,1
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,125,0,1
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,126,0,3
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,127,0,18
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,128,0,5
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,129,0,2
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,130,0,1
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,131,1,18
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,132,0,2
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,133,0,2
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,134,1,22
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,135,0,7
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,136,0,14
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,137,0,5
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,138,0,4
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,139,0,27
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,140,0,2
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,141,0,16
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,142,0,7
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,143,0,1
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,144,0,12
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,145,0,1
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,146,0,1
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,147,0,1
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,148,0,1
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,149,0,1
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,150,0,1
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,151,0,1
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,152,0,1
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,153,0,3
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,154,0,1
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,155,0,1
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,156,0,10
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,157,0,1
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,158,0,1
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,159,0,1
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,160,0,2
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,161,0,2
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,162,1,19
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,163,0,1
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,164,0,1
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,165,0,1
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,166,0,1
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,167,0,8
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,168,0,1
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,169,0,1
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,170,0,1
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,171,0,1
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,172,0,3
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,173,0,1
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,174,0,2
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,175,0,1
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,176,0,2
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,177,0,1
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,178,0,2
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,179,0,1
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,180,0,1
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,181,0,2
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,182,0,1
+Qwen3.5-9B Run 2,CoT-tree,Qwen R2 CoT,183,0,1
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,1,0,1
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,2,0,2
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,3,1,4
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,4,0,5
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,5,0,2
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,6,0,2
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,7,0,1
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,8,0,2
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,9,0,7
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,10,0,2
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,11,0,2
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,12,1,2
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,13,0,1
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,14,0,1
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,15,0,2
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,16,0,2
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,17,0,2
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,18,0,2
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,19,0,2
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,20,0,1
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,21,0,1
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,22,0,2
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,23,0,2
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,24,0,1
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,25,0,2
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,26,0,3
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,27,0,3
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,28,0,4
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,29,0,1
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,30,0,1
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,31,0,2
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,32,0,4
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,33,0,1
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,34,0,1
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,35,0,3
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,36,0,2
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,37,0,4
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,38,0,4
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,39,0,6
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,40,0,1
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,41,1,3
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,42,0,3
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,43,0,3
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,44,0,1
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,45,0,2
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,46,1,4
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,47,1,5
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,48,0,3
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,49,0,8
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,50,0,2
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,51,0,1
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,52,0,3
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,53,0,3
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,54,0,2
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,55,0,3
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,56,0,2
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,57,0,3
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,58,0,3
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,59,0,1
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,60,0,2
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,61,0,3
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,62,0,7
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,63,0,2
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,64,0,1
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,65,0,1
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,66,0,1
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,67,0,3
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,68,0,1
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,69,0,9
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,70,0,3
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,71,0,2
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,72,0,1
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,73,0,3
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,74,0,2
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,75,0,1
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,76,1,5
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,77,0,4
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,78,0,6
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,79,0,3
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,80,0,1
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,81,0,2
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,82,0,2
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,83,1,3
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,84,0,5
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,85,0,3
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,86,0,3
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,87,0,1
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,88,0,3
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,89,0,2
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,90,0,1
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,91,0,3
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,92,0,1
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,93,0,5
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,94,0,3
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,95,0,1
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,96,0,2
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,97,1,5
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,98,0,3
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,99,0,3
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,100,0,2
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,101,0,1
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,102,1,3
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,103,0,2
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,104,0,3
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,105,0,1
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,106,0,2
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,107,0,3
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,108,0,2
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,109,0,2
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,110,0,3
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,111,0,2
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,112,0,3
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,113,1,2
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,114,0,3
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,115,0,2
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,116,0,5
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,117,0,1
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,118,0,2
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,119,0,1
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,120,0,2
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,121,0,7
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,122,1,3
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,123,1,4
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,124,0,1
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,125,0,2
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,126,0,2
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,127,0,7
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,128,0,2
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,129,0,3
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,130,0,3
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,131,0,4
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,132,0,3
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,133,0,2
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,134,0,2
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,135,0,2
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,136,0,3
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,137,0,4
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,138,1,6
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,139,0,5
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,140,0,1
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,141,0,4
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,142,0,6
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,143,0,1
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,144,0,3
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,145,0,1
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,146,0,3
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,147,0,2
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,148,0,2
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,149,0,1
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,150,0,3
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,151,0,1
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,152,0,1
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,153,1,3
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,154,0,3
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,155,0,2
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,156,0,1
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,157,0,1
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,158,0,1
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,159,0,1
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,160,0,2
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,161,0,1
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,162,0,3
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,163,1,2
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,164,0,1
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,165,0,1
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,166,0,1
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,167,0,2
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,168,0,2
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,169,0,3
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,170,0,1
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,171,0,1
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,172,0,1
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,173,0,2
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,174,0,1
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,175,1,4
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,176,0,2
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,177,0,1
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,178,1,2
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,179,0,1
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,180,0,1
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,181,1,2
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,182,0,1
+Qwen3.5-9B Run 2,MO-Tree,Qwen R2 MO,183,0,2
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,1,0,2
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,2,0,1
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,3,1,7
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,4,0,2
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,5,0,1
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,6,0,1
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,7,1,3
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,8,0,1
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,9,1,8
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,10,0,3
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,11,0,1
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,12,0,4
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,13,0,1
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,14,0,2
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,15,0,2
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,16,0,2
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,17,0,16
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,18,1,2
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,19,0,2
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,20,0,1
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,21,0,1
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,22,0,3
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,23,0,1
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,24,0,2
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,25,0,1
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,26,0,1
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,27,1,3
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,28,0,2
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,29,0,1
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,30,0,3
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,31,0,1
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,32,0,12
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,33,0,2
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,34,0,1
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,35,1,5
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,36,0,17
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,37,0,21
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,38,1,9
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,39,1,4
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,40,0,2
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,41,0,6
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,42,1,5
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,43,0,1
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,44,0,6
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,45,0,2
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,46,1,7
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,47,1,5
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,48,0,21
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,49,0,17
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,50,0,2
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,51,0,2
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,52,0,2
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,53,0,9
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,54,1,5
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,55,0,8
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,56,0,1
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,57,0,4
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,58,0,1
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,59,0,1
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,60,0,1
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,61,0,1
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,62,1,4
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,63,0,1
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,64,0,1
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,65,0,2
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,66,0,4
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,67,0,1
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,68,0,2
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,69,0,6
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,70,0,1
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,71,1,2
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,72,0,1
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,73,1,8
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,74,0,1
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,75,0,1
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,76,0,10
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,77,0,7
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,78,1,22
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,79,0,7
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,80,0,2
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,81,0,1
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,82,0,3
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,83,0,4
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,84,0,3
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,85,0,10
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,86,0,8
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,87,0,1
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,88,0,5
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,89,0,1
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,90,0,1
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,91,1,2
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,92,0,4
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,93,0,4
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,94,1,5
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,95,0,1
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,96,0,2
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,97,1,11
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,98,0,8
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,99,0,1
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,100,1,8
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,101,0,2
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,102,0,2
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,103,0,1
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,104,0,12
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,105,0,1
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,106,0,1
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,107,0,1
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,108,0,1
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,109,0,1
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,110,0,1
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,111,0,1
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,112,0,2
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,113,0,4
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,114,0,12
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,115,1,8
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,116,1,4
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,117,0,2
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,118,0,1
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,119,1,5
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,120,0,4
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,121,0,3
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,122,1,4
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,123,0,4
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,124,0,2
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,125,0,2
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,126,0,2
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,127,0,16
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,128,0,4
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,129,1,3
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,130,0,2
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,131,0,13
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,132,0,3
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,133,0,2
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,134,1,25
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,135,0,6
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,136,0,15
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,137,0,5
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,138,0,4
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,139,1,17
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,140,0,1
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,141,0,17
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,142,1,8
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,143,0,1
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,144,0,9
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,145,0,2
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,146,0,2
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,147,0,1
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,148,0,2
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,149,0,1
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,150,0,1
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,151,0,1
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,152,0,1
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,153,1,5
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,154,0,1
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,155,0,1
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,156,1,8
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,157,0,1
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,158,0,1
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,159,0,2
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,160,0,1
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,161,0,3
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,162,1,20
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,163,0,2
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,164,0,1
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,165,0,1
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,166,0,1
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,167,0,3
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,168,0,1
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,169,0,1
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,170,0,1
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,171,0,1
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,172,0,1
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,173,0,1
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,174,0,2
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,175,0,1
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,176,1,2
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,177,0,1
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,178,0,1
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,179,0,1
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,180,0,1
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,181,0,2
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,182,0,1
+Qwen3.5-9B,Prompt-matched BoN,Qwen Prompt,183,0,1

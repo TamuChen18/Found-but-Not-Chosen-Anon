@@ -1,0 +1,10 @@
+run,method,oracle,primary,primary_rule,unfiltered_majority,occurrence,unique_text,first_valid,oracle_tiebreak,gpt4o_judge,judge_fixes,judge_breaks,judge_calls,judge_subsampled_tasks,vote_loss,tie_loss
+mini,BoN,139,121,occurrence,121,121,119,119,121,123,11,9,72,7,18,0
+mini,CoT-tree,153,131,unique-text,129,130,131,112,131,112,7,26,119,27,22,0
+mini,MO-Tree,146,123,unique-text,122,123,123,104,125,112,10,21,169,23,21,2
+qwen_b1,BoN,159,129,occurrence,129,129,128,121,131,110,7,26,125,21,28,2
+qwen_b1,CoT-tree,162,132,unique-text,132,127,132,122,134,114,11,29,108,25,28,2
+qwen_b1,MO-Tree,147,122,unique-text,122,127,122,114,128,128,14,8,137,1,19,6
+qwen_b2,BoN,162,128,occurrence,128,128,130,119,129,106,10,32,139,27,33,1
+qwen_b2,CoT-tree,157,133,unique-text,133,128,133,118,135,115,7,25,106,25,22,2
+qwen_b2,MO-Tree,147,122,unique-text,121,122,122,110,129,121,11,12,130,1,18,7

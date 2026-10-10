@@ -1,0 +1,12 @@
+{
+  "method": "prompt_matched_bon",
+  "model": "openai/gpt-4o-mini",
+  "n": 32,
+  "max_tokens": 2048,
+  "temperature": 0.7,
+  "top_p": 0.95,
+  "seed": null,
+  "send_seed": "0",
+  "prompt": "build_chain_of_thought_prompt(task_desc, False, None)",
+  "ref_calllog": "logs/calllogs_mini_noseed_trees_full/cot.jsonl"
+}

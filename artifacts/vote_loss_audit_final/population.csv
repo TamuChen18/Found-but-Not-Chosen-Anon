@@ -1,0 +1,7 @@
+model,method,non_tie_vote_losses,sampled,sampling
+GPT-4o-mini,BoN,18,10,random.Random('20260929:mini:BoN')
+GPT-4o-mini,CoT-tree,22,10,random.Random('20260929:mini:CoT')
+GPT-4o-mini,MO-Tree,21,10,random.Random('20260929:mini:Five')
+Qwen3.5-9B non-thinking (batch 20260725),BoN,28,10,random.Random('20260929:qwen_b1:BoN')
+Qwen3.5-9B non-thinking (batch 20260725),CoT-tree,28,10,random.Random('20260929:qwen_b1:CoT')
+Qwen3.5-9B non-thinking (batch 20260725),MO-Tree,19,10,random.Random('20260929:qwen_b1:Five')

@@ -1,0 +1,266 @@
+pool,run,procedure,task_id,best_correct_rank,rank_group,winner_votes,best_correct_votes,valid_votes,vote_margin,norm_vote_margin,tool_accuracy,parameter_accuracy,dependency_accuracy,selected_n_steps,gold_n_steps,same_n_steps,tool_step_match,margin_group
+GPT_BoN,mini,BoN,19,2,Rank 2,31,1,32,30,0.9375,0,0,0,2,3,0,0.6667,high-margin
+GPT_BoN,mini,BoN,22,2,Rank 2,25,7,32,18,0.5625,1,0,0,3,3,1,1.0,high-margin
+GPT_BoN,mini,BoN,27,3,Rank 3,17,3,32,14,0.4375,0,0,0,3,4,0,0.75,high-margin
+GPT_BoN,mini,BoN,47,2,Rank 2,18,14,32,4,0.125,1,0,0,3,3,1,1.0,low-margin
+GPT_BoN,mini,BoN,55,3,Rank 3,15,3,32,12,0.375,0,0,0,2,3,0,0.0,high-margin
+GPT_BoN,mini,BoN,61,2,Rank 2,30,2,32,28,0.875,1,0,0,2,2,1,1.0,high-margin
+GPT_BoN,mini,BoN,63,2,Rank 2,23,9,32,14,0.4375,1,0,0,2,2,1,1.0,high-margin
+GPT_BoN,mini,BoN,70,3,Rank 3,15,3,24,12,0.5,0,0,0,3,2,0,0.6667,high-margin
+GPT_BoN,mini,BoN,111,5,Rank >3,10,1,32,9,0.2812,0,0,0,3,2,0,0.6667,low-margin
+GPT_BoN,mini,BoN,114,3,Rank 3,10,8,32,2,0.0625,0,0,0,5,4,0,0.8,low-margin
+GPT_BoN,mini,BoN,122,4,Rank >3,23,1,28,22,0.7857,0,0,0,4,4,1,0.25,high-margin
+GPT_BoN,mini,BoN,123,3,Rank 3,22,2,32,20,0.625,0,0,0,4,4,1,0.75,high-margin
+GPT_BoN,mini,BoN,128,2,Rank 2,29,3,32,26,0.8125,1,0,0,4,4,1,1.0,high-margin
+GPT_BoN,mini,BoN,136,2,Rank 2,27,4,32,23,0.7188,1,0,0,4,4,1,1.0,high-margin
+GPT_BoN,mini,BoN,144,2,Rank 2,29,2,32,27,0.8438,0,0,0,6,9,0,0.2222,high-margin
+GPT_BoN,mini,BoN,145,2,Rank 2,22,6,32,16,0.5,1,0,0,4,4,1,1.0,high-margin
+GPT_BoN,mini,BoN,153,2,Rank 2,15,7,30,8,0.2667,0,0,0,2,1,0,0.5,low-margin
+GPT_BoN,mini,BoN,179,2,Rank 2,20,11,32,9,0.2812,1,0,0,3,3,1,1.0,low-margin
+GPT_CoT,mini,CoT-tree,3,8,Rank >3,8,1,32,7,0.2188,0,0,0,3,3,1,0.6667,low-margin
+GPT_CoT,mini,CoT-tree,12,3,Rank 3,29,1,32,28,0.875,0,0,0,2,3,0,0.3333,high-margin
+GPT_CoT,mini,CoT-tree,41,9,Rank >3,5,1,19,4,0.2105,0,0,0,3,3,1,0.3333,low-margin
+GPT_CoT,mini,CoT-tree,52,3,Rank 3,19,5,32,14,0.4375,1,0,0,3,3,1,1.0,high-margin
+GPT_CoT,mini,CoT-tree,54,5,Rank >3,9,4,32,5,0.1562,0,0,0,3,5,0,0.6,low-margin
+GPT_CoT,mini,CoT-tree,55,2,Rank 2,11,8,32,3,0.0938,0,0,0,2,3,0,0.0,low-margin
+GPT_CoT,mini,CoT-tree,71,2,Rank 2,6,3,18,3,0.1667,0,0,0,2,2,1,0.5,low-margin
+GPT_CoT,mini,CoT-tree,77,7,Rank >3,5,2,32,3,0.0938,1,0,0,2,2,1,1.0,low-margin
+GPT_CoT,mini,CoT-tree,79,2,Rank 2,10,9,32,1,0.0312,0,0,0,3,4,0,0.75,low-margin
+GPT_CoT,mini,CoT-tree,93,2,Rank 2,15,13,32,2,0.0625,1,0,0,2,2,1,1.0,low-margin
+GPT_CoT,mini,CoT-tree,96,2,Rank 2,8,7,31,1,0.0323,0,0,0,3,2,0,0.6667,low-margin
+GPT_CoT,mini,CoT-tree,102,6,Rank >3,9,3,32,6,0.1875,1,0,1,2,2,1,1.0,low-margin
+GPT_CoT,mini,CoT-tree,110,2,Rank 2,25,7,32,18,0.5625,1,0,0,2,2,1,1.0,high-margin
+GPT_CoT,mini,CoT-tree,111,2,Rank 2,19,6,32,13,0.4062,0,0,0,3,2,0,0.6667,high-margin
+GPT_CoT,mini,CoT-tree,119,6,Rank >3,3,1,20,2,0.1,0,0,0,4,4,1,0.5,low-margin
+GPT_CoT,mini,CoT-tree,123,2,Rank 2,17,10,30,7,0.2333,0,0,0,4,4,1,0.75,low-margin
+GPT_CoT,mini,CoT-tree,128,2,Rank 2,15,7,32,8,0.25,1,0,0,4,4,1,1.0,low-margin
+GPT_CoT,mini,CoT-tree,132,6,Rank >3,14,1,32,13,0.4062,1,0,0,3,3,1,1.0,high-margin
+GPT_CoT,mini,CoT-tree,135,7,Rank >3,7,2,31,5,0.1613,0,0,0,5,4,0,0.0,low-margin
+GPT_CoT,mini,CoT-tree,137,8,Rank >3,13,1,32,12,0.375,1,0,0,4,4,1,1.0,high-margin
+GPT_CoT,mini,CoT-tree,162,10,Rank >3,10,1,29,9,0.3103,0,0,0,1,3,0,0.3333,high-margin
+GPT_CoT,mini,CoT-tree,171,2,Rank 2,21,6,32,15,0.4688,0,0,0,3,2,0,0.3333,high-margin
+GPT_MO,mini,MO-Tree,18,4,Rank >3,4,2,15,2,0.1333,0,0,0,3,3,1,0.6667,low-margin
+GPT_MO,mini,MO-Tree,19,3,Rank 3,5,1,8,4,0.5,0,0,0,2,3,0,0.6667,high-margin
+GPT_MO,mini,MO-Tree,39,2,Rank 2,5,4,15,1,0.0667,0,0,0,3,3,1,0.6667,low-margin
+GPT_MO,mini,MO-Tree,44,4,Rank >3,4,1,15,3,0.2,0,0,0,3,3,1,0.6667,low-margin
+GPT_MO,mini,MO-Tree,45,3,Rank 3,5,3,14,2,0.1429,0,0,0,3,3,1,0.6667,low-margin
+GPT_MO,mini,MO-Tree,46,4,Rank >3,3,1,13,2,0.1538,0,0,0,2,3,0,0.6667,low-margin
+GPT_MO,mini,MO-Tree,47,2,Rank 2,4,2,11,2,0.1818,0,0,0,2,3,0,0.0,low-margin
+GPT_MO,mini,MO-Tree,57,2,Rank 2,6,2,9,4,0.4444,0,0,0,2,2,1,0.5,high-margin
+GPT_MO,mini,MO-Tree,63,2,Rank 2,5,3,10,2,0.2,1,0,0,2,2,1,1.0,low-margin
+GPT_MO,mini,MO-Tree,71,2,Rank 2,6,5,15,1,0.0667,1,0,0,2,2,1,1.0,low-margin
+GPT_MO,mini,MO-Tree,79,3,Rank 3,7,2,14,5,0.3571,0,0,0,2,4,0,0.25,high-margin
+GPT_MO,mini,MO-Tree,93,2,Rank 2,7,4,14,3,0.2143,1,0,0,2,2,1,1.0,low-margin
+GPT_MO,mini,MO-Tree,111,2,Rank 2,5,4,14,1,0.0714,0,0,0,3,2,0,0.6667,low-margin
+GPT_MO,mini,MO-Tree,123,2,Rank 2,7,3,17,4,0.2353,0,0,0,4,4,1,0.75,low-margin
+GPT_MO,mini,MO-Tree,132,5,Rank >3,3,1,13,2,0.1538,0,0,0,2,3,0,0.0,low-margin
+GPT_MO,mini,MO-Tree,142,9,Rank >3,2,1,16,1,0.0625,0,0,0,3,6,0,0.1667,low-margin
+GPT_MO,mini,MO-Tree,147,2,Rank 2,7,5,14,2,0.1429,0,0,0,2,1,0,0.5,low-margin
+GPT_MO,mini,MO-Tree,153,2,Rank 2,3,2,8,1,0.125,0,0,0,2,1,0,0.5,low-margin
+GPT_MO,mini,MO-Tree,158,2,Rank 2,5,3,8,2,0.25,0,0,0,2,1,0,0.5,low-margin
+GPT_MO,mini,MO-Tree,165,2,Rank 2,4,3,8,1,0.125,0,0,0,2,1,0,0.5,low-margin
+GPT_MO,mini,MO-Tree,181,2,Rank 2,3,2,7,1,0.1429,0,0,0,2,1,0,0.0,low-margin
+GPT_Prompt,mini,Prompt-matched BoN,12,3,Rank 3,27,1,32,26,0.8125,0,0,0,2,3,0,0.3333,high-margin
+GPT_Prompt,mini,Prompt-matched BoN,42,3,Rank 3,5,3,12,2,0.1667,1,0,0,3,3,1,1.0,low-margin
+GPT_Prompt,mini,Prompt-matched BoN,45,2,Rank 2,31,1,32,30,0.9375,0,0,0,3,3,1,0.6667,high-margin
+GPT_Prompt,mini,Prompt-matched BoN,49,3,Rank 3,13,3,32,10,0.3125,0,0,0,3,3,1,0.6667,high-margin
+GPT_Prompt,mini,Prompt-matched BoN,52,3,Rank 3,21,4,32,17,0.5312,1,0,0,3,3,1,1.0,high-margin
+GPT_Prompt,mini,Prompt-matched BoN,54,5,Rank >3,12,1,31,11,0.3548,0,0,0,3,5,0,0.6,high-margin
+GPT_Prompt,mini,Prompt-matched BoN,55,3,Rank 3,12,7,32,5,0.1562,0,0,0,2,3,0,0.0,low-margin
+GPT_Prompt,mini,Prompt-matched BoN,63,2,Rank 2,15,12,32,3,0.0938,1,0,0,2,2,1,1.0,low-margin
+GPT_Prompt,mini,Prompt-matched BoN,71,2,Rank 2,6,4,20,2,0.1,0,0,0,2,2,1,0.5,low-margin
+GPT_Prompt,mini,Prompt-matched BoN,77,2,Rank 2,6,4,32,2,0.0625,0,0,0,3,2,0,0.6667,low-margin
+GPT_Prompt,mini,Prompt-matched BoN,78,8,Rank >3,9,1,32,8,0.25,0,0,0,2,4,0,0.25,low-margin
+GPT_Prompt,mini,Prompt-matched BoN,79,2,Rank 2,13,6,32,7,0.2188,0,0,0,3,4,0,0.75,low-margin
+GPT_Prompt,mini,Prompt-matched BoN,85,2,Rank 2,12,6,32,6,0.1875,0,0,0,2,2,1,0.0,low-margin
+GPT_Prompt,mini,Prompt-matched BoN,88,2,Rank 2,16,9,32,7,0.2188,0,0,0,3,2,0,0.3333,low-margin
+GPT_Prompt,mini,Prompt-matched BoN,93,2,Rank 2,19,11,32,8,0.25,1,0,0,2,2,1,1.0,low-margin
+GPT_Prompt,mini,Prompt-matched BoN,102,3,Rank 3,8,7,32,1,0.0312,1,0,1,2,2,1,1.0,low-margin
+GPT_Prompt,mini,Prompt-matched BoN,110,2,Rank 2,28,4,32,24,0.75,1,0,0,2,2,1,1.0,high-margin
+GPT_Prompt,mini,Prompt-matched BoN,111,2,Rank 2,18,7,32,11,0.3438,0,0,0,3,2,0,0.6667,high-margin
+GPT_Prompt,mini,Prompt-matched BoN,115,8,Rank >3,10,1,31,9,0.2903,0,0,0,3,4,0,0.5,low-margin
+GPT_Prompt,mini,Prompt-matched BoN,123,2,Rank 2,16,5,27,11,0.4074,0,0,0,4,4,1,0.75,high-margin
+GPT_Prompt,mini,Prompt-matched BoN,129,6,Rank >3,14,1,31,13,0.4194,1,0,0,4,4,1,1.0,high-margin
+GPT_Prompt,mini,Prompt-matched BoN,135,12,Rank >3,10,1,31,9,0.2903,0,0,0,4,4,1,0.75,low-margin
+GPT_Prompt,mini,Prompt-matched BoN,142,2,Rank 2,14,9,32,5,0.1562,0,0,0,4,6,0,0.5,low-margin
+GPT_Prompt,mini,Prompt-matched BoN,171,2,Rank 2,22,8,32,14,0.4375,0,0,0,3,2,0,0.3333,high-margin
+Qwen_R1_BoN,qwen_b1,BoN,7,3,Rank 3,16,3,27,13,0.4815,0,0,0,3,4,0,0.75,high-margin
+Qwen_R1_BoN,qwen_b1,BoN,15,2,Rank 2,21,9,30,12,0.4,0,0,0,2,3,0,0.0,high-margin
+Qwen_R1_BoN,qwen_b1,BoN,27,3,Rank 3,20,3,27,17,0.6296,0,0,0,3,4,0,0.75,high-margin
+Qwen_R1_BoN,qwen_b1,BoN,35,2,Rank 2,10,6,30,4,0.1333,0,0,0,4,3,0,0.25,low-margin
+Qwen_R1_BoN,qwen_b1,BoN,37,2,Rank 2,5,4,24,1,0.0417,0,0,0,4,3,0,0.25,low-margin
+Qwen_R1_BoN,qwen_b1,BoN,38,3,Rank 3,13,2,26,11,0.4231,0,0,0,3,3,1,0.6667,high-margin
+Qwen_R1_BoN,qwen_b1,BoN,41,2,Rank 2,13,6,28,7,0.25,0,0,0,3,3,1,0.3333,low-margin
+Qwen_R1_BoN,qwen_b1,BoN,42,2,Rank 2,19,9,30,10,0.3333,1,0,0,3,3,1,1.0,high-margin
+Qwen_R1_BoN,qwen_b1,BoN,46,2,Rank 2,25,4,32,21,0.6562,0,0,0,3,3,1,0.6667,high-margin
+Qwen_R1_BoN,qwen_b1,BoN,54,2,Rank 2,16,3,24,13,0.5417,0,0,0,3,5,0,0.6,high-margin
+Qwen_R1_BoN,qwen_b1,BoN,71,2,Rank 2,23,5,28,18,0.6429,1,0,0,2,2,1,1.0,high-margin
+Qwen_R1_BoN,qwen_b1,BoN,85,5,Rank >3,13,1,28,12,0.4286,0,0,0,2,2,1,0.5,high-margin
+Qwen_R1_BoN,qwen_b1,BoN,91,2,Rank 2,21,5,28,16,0.5714,0,0,0,2,1,0,0.0,high-margin
+Qwen_R1_BoN,qwen_b1,BoN,93,5,Rank >3,17,1,31,16,0.5161,1,0,0,2,2,1,1.0,high-margin
+Qwen_R1_BoN,qwen_b1,BoN,98,3,Rank 3,13,2,23,11,0.4783,1,0,0,2,2,1,1.0,high-margin
+Qwen_R1_BoN,qwen_b1,BoN,100,2,Rank 2,9,6,24,3,0.125,0,0,0,2,4,0,0.5,low-margin
+Qwen_R1_BoN,qwen_b1,BoN,113,2,Rank 2,20,7,31,13,0.4194,0,0,0,4,4,1,0.5,high-margin
+Qwen_R1_BoN,qwen_b1,BoN,115,7,Rank >3,16,1,33,15,0.4545,0,0,0,4,4,1,0.75,high-margin
+Qwen_R1_BoN,qwen_b1,BoN,116,8,Rank >3,16,1,29,15,0.5172,0,0,0,3,4,0,0.75,high-margin
+Qwen_R1_BoN,qwen_b1,BoN,119,2,Rank 2,11,7,26,4,0.1538,1,0,0,4,4,1,1.0,low-margin
+Qwen_R1_BoN,qwen_b1,BoN,122,2,Rank 2,19,9,33,10,0.303,0,0,0,4,4,1,0.5,high-margin
+Qwen_R1_BoN,qwen_b1,BoN,128,2,Rank 2,16,10,33,6,0.1818,1,0,0,4,4,1,1.0,low-margin
+Qwen_R1_BoN,qwen_b1,BoN,129,3,Rank 3,17,3,26,14,0.5385,1,0,0,4,4,1,1.0,high-margin
+Qwen_R1_BoN,qwen_b1,BoN,133,2,Rank 2,19,13,32,6,0.1875,0,0,0,4,4,1,0.5,low-margin
+Qwen_R1_BoN,qwen_b1,BoN,139,2,Rank 2,8,4,26,4,0.1538,0,0,0,3,3,1,0.6667,low-margin
+Qwen_R1_BoN,qwen_b1,BoN,153,2,Rank 2,23,7,32,16,0.5,0,0,0,2,1,0,0.5,high-margin
+Qwen_R1_BoN,qwen_b1,BoN,162,3,Rank 3,10,2,29,8,0.2759,0,0,0,1,3,0,0.3333,low-margin
+Qwen_R1_BoN,qwen_b1,BoN,171,3,Rank 3,16,4,31,12,0.3871,0,0,0,3,2,0,0.3333,high-margin
+Qwen_R1_CoT,qwen_b1,CoT-tree,3,2,Rank 2,8,2,12,6,0.5,1,0,0,3,3,1,1.0,high-margin
+Qwen_R1_CoT,qwen_b1,CoT-tree,7,3,Rank 3,7,2,13,5,0.3846,0,0,0,3,4,0,0.75,high-margin
+Qwen_R1_CoT,qwen_b1,CoT-tree,9,5,Rank >3,4,1,18,3,0.1667,0,0,0,3,3,1,0.3333,low-margin
+Qwen_R1_CoT,qwen_b1,CoT-tree,10,5,Rank >3,6,1,13,5,0.3846,1,0,0,3,3,1,1.0,high-margin
+Qwen_R1_CoT,qwen_b1,CoT-tree,18,2,Rank 2,8,4,12,4,0.3333,0,0,0,3,3,1,0.6667,high-margin
+Qwen_R1_CoT,qwen_b1,CoT-tree,27,3,Rank 3,12,4,21,8,0.381,0,0,0,3,4,0,0.75,high-margin
+Qwen_R1_CoT,qwen_b1,CoT-tree,39,3,Rank 3,5,1,11,4,0.3636,0,0,0,3,3,1,0.6667,high-margin
+Qwen_R1_CoT,qwen_b1,CoT-tree,46,2,Rank 2,9,5,16,4,0.25,0,0,0,3,3,1,0.6667,low-margin
+Qwen_R1_CoT,qwen_b1,CoT-tree,47,2,Rank 2,4,2,12,2,0.1667,1,0,0,3,3,1,1.0,low-margin
+Qwen_R1_CoT,qwen_b1,CoT-tree,54,2,Rank 2,9,2,15,7,0.4667,0,0,0,3,5,0,0.6,high-margin
+Qwen_R1_CoT,qwen_b1,CoT-tree,62,8,Rank >3,4,1,13,3,0.2308,0,0,0,3,2,0,0.6667,low-margin
+Qwen_R1_CoT,qwen_b1,CoT-tree,71,2,Rank 2,9,1,10,8,0.8,1,0,0,2,2,1,1.0,high-margin
+Qwen_R1_CoT,qwen_b1,CoT-tree,73,4,Rank >3,5,1,10,4,0.4,1,0,0,2,2,1,1.0,high-margin
+Qwen_R1_CoT,qwen_b1,CoT-tree,78,8,Rank >3,4,1,23,3,0.1304,0,0,0,3,4,0,0.25,low-margin
+Qwen_R1_CoT,qwen_b1,CoT-tree,85,2,Rank 2,4,1,12,3,0.25,0,0,0,2,2,1,0.5,low-margin
+Qwen_R1_CoT,qwen_b1,CoT-tree,91,2,Rank 2,5,1,6,4,0.6667,0,0,0,2,1,0,0.0,high-margin
+Qwen_R1_CoT,qwen_b1,CoT-tree,100,2,Rank 2,4,3,17,1,0.0588,0,0,0,2,4,0,0.5,low-margin
+Qwen_R1_CoT,qwen_b1,CoT-tree,113,2,Rank 2,8,6,19,2,0.1053,0,0,0,4,4,1,0.5,low-margin
+Qwen_R1_CoT,qwen_b1,CoT-tree,115,5,Rank >3,6,1,14,5,0.3571,0,0,0,4,4,1,0.75,high-margin
+Qwen_R1_CoT,qwen_b1,CoT-tree,116,2,Rank 2,4,2,8,2,0.25,0,0,0,3,4,0,0.75,low-margin
+Qwen_R1_CoT,qwen_b1,CoT-tree,119,2,Rank 2,5,2,10,3,0.3,1,0,0,4,4,1,1.0,high-margin
+Qwen_R1_CoT,qwen_b1,CoT-tree,122,2,Rank 2,12,6,22,6,0.2727,0,0,0,4,4,1,0.5,low-margin
+Qwen_R1_CoT,qwen_b1,CoT-tree,129,3,Rank 3,3,1,6,2,0.3333,1,0,0,4,4,1,1.0,high-margin
+Qwen_R1_CoT,qwen_b1,CoT-tree,131,4,Rank >3,2,1,17,1,0.0588,0,0,0,5,4,0,0.8,low-margin
+Qwen_R1_CoT,qwen_b1,CoT-tree,134,10,Rank >3,2,1,27,1,0.037,0,0,0,5,4,0,0.6,low-margin
+Qwen_R1_CoT,qwen_b1,CoT-tree,139,3,Rank 3,3,1,25,2,0.08,0,0,0,4,3,0,0.5,low-margin
+Qwen_R1_CoT,qwen_b1,CoT-tree,142,9,Rank >3,4,1,14,3,0.2143,0,0,0,5,6,0,0.5,low-margin
+Qwen_R1_CoT,qwen_b1,CoT-tree,144,2,Rank 2,3,2,17,1,0.0588,0,0,0,5,9,0,0.4444,low-margin
+Qwen_R1_MO,qwen_b1,MO-Tree,3,3,Rank 3,3,1,5,2,0.4,1,0,0,3,3,1,1.0,high-margin
+Qwen_R1_MO,qwen_b1,MO-Tree,10,2,Rank 2,3,2,8,1,0.125,1,0,0,3,3,1,1.0,low-margin
+Qwen_R1_MO,qwen_b1,MO-Tree,41,2,Rank 2,7,1,10,6,0.6,0,0,0,3,3,1,0.3333,high-margin
+Qwen_R1_MO,qwen_b1,MO-Tree,50,2,Rank 2,3,1,4,2,0.5,1,0,0,3,3,1,1.0,high-margin
+Qwen_R1_MO,qwen_b1,MO-Tree,63,2,Rank 2,6,5,13,1,0.0769,1,0,0,2,2,1,1.0,low-margin
+Qwen_R1_MO,qwen_b1,MO-Tree,71,2,Rank 2,8,1,10,7,0.7,1,0,0,2,2,1,1.0,high-margin
+Qwen_R1_MO,qwen_b1,MO-Tree,73,3,Rank 3,2,1,4,1,0.25,1,0,0,2,2,1,1.0,low-margin
+Qwen_R1_MO,qwen_b1,MO-Tree,74,3,Rank 3,4,1,11,3,0.2727,0,0,0,2,2,1,0.0,low-margin
+Qwen_R1_MO,qwen_b1,MO-Tree,75,2,Rank 2,2,1,7,1,0.1429,1,0,1,2,2,1,1.0,low-margin
+Qwen_R1_MO,qwen_b1,MO-Tree,76,2,Rank 2,3,1,6,2,0.3333,0,0,0,3,2,0,0.3333,high-margin
+Qwen_R1_MO,qwen_b1,MO-Tree,108,2,Rank 2,4,3,7,1,0.1429,0,0,0,3,2,0,0.0,low-margin
+Qwen_R1_MO,qwen_b1,MO-Tree,113,3,Rank 3,2,1,6,1,0.1667,0,0,0,4,4,1,0.5,low-margin
+Qwen_R1_MO,qwen_b1,MO-Tree,119,2,Rank 2,3,1,5,2,0.4,1,0,0,4,4,1,1.0,high-margin
+Qwen_R1_MO,qwen_b1,MO-Tree,121,2,Rank 2,5,2,9,3,0.3333,0,0,0,3,4,0,0.5,high-margin
+Qwen_R1_MO,qwen_b1,MO-Tree,122,2,Rank 2,3,2,5,1,0.2,0,0,0,4,4,1,0.5,low-margin
+Qwen_R1_MO,qwen_b1,MO-Tree,136,2,Rank 2,3,2,11,1,0.0909,1,0,1,4,4,1,1.0,low-margin
+Qwen_R1_MO,qwen_b1,MO-Tree,154,2,Rank 2,6,1,7,5,0.7143,0,0,0,2,1,0,0.5,high-margin
+Qwen_R1_MO,qwen_b1,MO-Tree,155,2,Rank 2,5,3,9,2,0.2222,0,0,0,2,1,0,0.5,low-margin
+Qwen_R1_MO,qwen_b1,MO-Tree,175,2,Rank 2,2,1,3,1,0.3333,0,0,0,2,1,0,0.5,high-margin
+Qwen_R2_BoN,qwen_b2,BoN,7,2,Rank 2,16,8,30,8,0.2667,0,0,0,3,4,0,0.75,low-margin
+Qwen_R2_BoN,qwen_b2,BoN,9,2,Rank 2,6,5,28,1,0.0357,0,0,0,3,3,1,0.3333,low-margin
+Qwen_R2_BoN,qwen_b2,BoN,10,4,Rank >3,11,1,27,10,0.3704,1,0,0,3,3,1,1.0,high-margin
+Qwen_R2_BoN,qwen_b2,BoN,12,3,Rank 3,11,7,28,4,0.1429,0,0,0,2,3,0,0.3333,low-margin
+Qwen_R2_BoN,qwen_b2,BoN,15,2,Rank 2,22,7,29,15,0.5172,0,0,0,2,3,0,0.0,high-margin
+Qwen_R2_BoN,qwen_b2,BoN,27,3,Rank 3,18,3,26,15,0.5769,0,0,0,3,4,0,0.75,high-margin
+Qwen_R2_BoN,qwen_b2,BoN,35,2,Rank 2,11,10,28,1,0.0357,0,0,0,4,3,0,0.25,low-margin
+Qwen_R2_BoN,qwen_b2,BoN,37,3,Rank 3,6,2,25,4,0.16,0,0,0,4,3,0,0.25,low-margin
+Qwen_R2_BoN,qwen_b2,BoN,38,3,Rank 3,18,1,25,17,0.68,0,0,0,3,3,1,0.6667,high-margin
+Qwen_R2_BoN,qwen_b2,BoN,41,2,Rank 2,13,7,27,6,0.2222,0,0,0,3,3,1,0.3333,low-margin
+Qwen_R2_BoN,qwen_b2,BoN,42,2,Rank 2,15,11,30,4,0.1333,1,0,0,3,3,1,1.0,low-margin
+Qwen_R2_BoN,qwen_b2,BoN,46,2,Rank 2,22,3,28,19,0.6786,0,0,0,3,3,1,0.6667,high-margin
+Qwen_R2_BoN,qwen_b2,BoN,53,14,Rank >3,3,1,22,2,0.0909,0,0,0,3,3,1,0.3333,low-margin
+Qwen_R2_BoN,qwen_b2,BoN,54,2,Rank 2,17,3,21,14,0.6667,0,0,0,3,5,0,0.6,high-margin
+Qwen_R2_BoN,qwen_b2,BoN,71,2,Rank 2,24,5,29,19,0.6552,1,0,0,2,2,1,1.0,high-margin
+Qwen_R2_BoN,qwen_b2,BoN,74,2,Rank 2,16,10,28,6,0.2143,0,0,0,3,2,0,0.0,low-margin
+Qwen_R2_BoN,qwen_b2,BoN,91,2,Rank 2,20,6,28,14,0.5,0,0,0,2,1,0,0.0,high-margin
+Qwen_R2_BoN,qwen_b2,BoN,93,4,Rank >3,19,1,32,18,0.5625,1,0,0,2,2,1,1.0,high-margin
+Qwen_R2_BoN,qwen_b2,BoN,98,4,Rank >3,17,1,25,16,0.64,1,0,0,2,2,1,1.0,high-margin
+Qwen_R2_BoN,qwen_b2,BoN,100,3,Rank 3,7,3,23,4,0.1739,0,0,0,2,4,0,0.5,low-margin
+Qwen_R2_BoN,qwen_b2,BoN,113,2,Rank 2,13,11,28,2,0.0714,0,0,0,4,4,1,0.5,low-margin
+Qwen_R2_BoN,qwen_b2,BoN,115,9,Rank >3,13,1,30,12,0.4,0,0,0,4,4,1,0.75,high-margin
+Qwen_R2_BoN,qwen_b2,BoN,116,2,Rank 2,17,3,29,14,0.4828,0,0,0,3,4,0,0.75,high-margin
+Qwen_R2_BoN,qwen_b2,BoN,119,2,Rank 2,15,5,26,10,0.3846,1,0,0,4,4,1,1.0,high-margin
+Qwen_R2_BoN,qwen_b2,BoN,120,3,Rank 3,20,1,28,19,0.6786,0,0,0,2,3,0,0.3333,high-margin
+Qwen_R2_BoN,qwen_b2,BoN,122,2,Rank 2,22,4,30,18,0.6,0,0,0,4,4,1,0.5,high-margin
+Qwen_R2_BoN,qwen_b2,BoN,128,2,Rank 2,11,9,28,2,0.0714,1,0,0,4,4,1,1.0,low-margin
+Qwen_R2_BoN,qwen_b2,BoN,129,2,Rank 2,17,8,28,9,0.3214,1,0,0,4,4,1,1.0,high-margin
+Qwen_R2_BoN,qwen_b2,BoN,132,3,Rank 3,25,1,29,24,0.8276,1,0,0,3,3,1,1.0,high-margin
+Qwen_R2_BoN,qwen_b2,BoN,139,2,Rank 2,7,2,22,5,0.2273,0,0,0,3,3,1,0.6667,low-margin
+Qwen_R2_BoN,qwen_b2,BoN,153,2,Rank 2,19,5,29,14,0.4828,0,0,0,2,1,0,0.5,high-margin
+Qwen_R2_BoN,qwen_b2,BoN,162,3,Rank 3,7,3,22,4,0.1818,0,0,0,1,3,0,0.3333,low-margin
+Qwen_R2_BoN,qwen_b2,BoN,176,2,Rank 2,15,12,27,3,0.1111,0,0,0,2,1,0,0.0,low-margin
+Qwen_R2_CoT,qwen_b2,CoT-tree,3,2,Rank 2,5,2,9,3,0.3333,1,0,0,3,3,1,1.0,high-margin
+Qwen_R2_CoT,qwen_b2,CoT-tree,7,2,Rank 2,6,1,7,5,0.7143,0,0,0,3,4,0,0.75,high-margin
+Qwen_R2_CoT,qwen_b2,CoT-tree,10,4,Rank >3,10,1,14,9,0.6429,1,0,0,3,3,1,1.0,high-margin
+Qwen_R2_CoT,qwen_b2,CoT-tree,12,2,Rank 2,3,2,6,1,0.1667,0,0,0,2,3,0,0.3333,low-margin
+Qwen_R2_CoT,qwen_b2,CoT-tree,18,2,Rank 2,4,3,7,1,0.1429,0,0,0,3,3,1,0.6667,low-margin
+Qwen_R2_CoT,qwen_b2,CoT-tree,27,3,Rank 3,13,4,23,9,0.3913,0,0,0,3,4,0,0.75,high-margin
+Qwen_R2_CoT,qwen_b2,CoT-tree,42,2,Rank 2,11,3,16,8,0.5,1,0,0,3,3,1,1.0,high-margin
+Qwen_R2_CoT,qwen_b2,CoT-tree,46,3,Rank 3,6,2,12,4,0.3333,0,0,0,3,3,1,0.6667,high-margin
+Qwen_R2_CoT,qwen_b2,CoT-tree,54,2,Rank 2,5,2,12,3,0.25,0,0,0,3,5,0,0.6,low-margin
+Qwen_R2_CoT,qwen_b2,CoT-tree,62,2,Rank 2,3,2,14,1,0.0714,0,0,0,3,2,0,0.3333,low-margin
+Qwen_R2_CoT,qwen_b2,CoT-tree,71,2,Rank 2,11,1,12,10,0.8333,1,0,0,2,2,1,1.0,high-margin
+Qwen_R2_CoT,qwen_b2,CoT-tree,78,12,Rank >3,2,1,22,1,0.0455,0,0,0,3,4,0,0.25,low-margin
+Qwen_R2_CoT,qwen_b2,CoT-tree,85,6,Rank >3,5,1,15,4,0.2667,0,0,0,2,2,1,0.5,low-margin
+Qwen_R2_CoT,qwen_b2,CoT-tree,91,2,Rank 2,3,1,4,2,0.5,0,0,0,2,1,0,0.0,high-margin
+Qwen_R2_CoT,qwen_b2,CoT-tree,100,3,Rank 3,5,2,17,3,0.1765,0,0,0,2,4,0,0.5,low-margin
+Qwen_R2_CoT,qwen_b2,CoT-tree,113,2,Rank 2,9,7,20,2,0.1,0,0,0,4,4,1,0.5,low-margin
+Qwen_R2_CoT,qwen_b2,CoT-tree,115,9,Rank >3,3,1,12,2,0.1667,0,0,0,4,4,1,0.5,low-margin
+Qwen_R2_CoT,qwen_b2,CoT-tree,116,2,Rank 2,5,2,11,3,0.2727,0,0,0,3,4,0,0.75,low-margin
+Qwen_R2_CoT,qwen_b2,CoT-tree,122,2,Rank 2,9,5,16,4,0.25,0,0,0,4,4,1,0.5,low-margin
+Qwen_R2_CoT,qwen_b2,CoT-tree,131,15,Rank >3,2,1,20,1,0.05,0,0,0,5,4,0,0.8,low-margin
+Qwen_R2_CoT,qwen_b2,CoT-tree,134,17,Rank >3,2,1,26,1,0.0385,1,0,0,4,4,1,1.0,low-margin
+Qwen_R2_CoT,qwen_b2,CoT-tree,162,6,Rank >3,3,1,22,2,0.0909,0,0,0,3,3,1,0.3333,low-margin
+Qwen_R2_MO,qwen_b2,MO-Tree,3,3,Rank 3,2,1,5,1,0.2,1,0,0,3,3,1,1.0,low-margin
+Qwen_R2_MO,qwen_b2,MO-Tree,12,2,Rank 2,2,1,3,1,0.3333,0,0,0,2,3,0,0.3333,high-margin
+Qwen_R2_MO,qwen_b2,MO-Tree,41,3,Rank 3,3,1,5,2,0.4,0,0,0,3,3,1,0.3333,high-margin
+Qwen_R2_MO,qwen_b2,MO-Tree,46,3,Rank 3,2,1,5,1,0.2,0,0,0,3,3,1,0.3333,low-margin
+Qwen_R2_MO,qwen_b2,MO-Tree,47,4,Rank >3,2,1,6,1,0.1667,0,0,0,2,3,0,0.6667,low-margin
+Qwen_R2_MO,qwen_b2,MO-Tree,76,4,Rank >3,5,1,10,4,0.4,0,0,0,3,2,0,0.3333,high-margin
+Qwen_R2_MO,qwen_b2,MO-Tree,83,2,Rank 2,3,1,5,2,0.4,1,0,1,2,2,1,1.0,high-margin
+Qwen_R2_MO,qwen_b2,MO-Tree,97,3,Rank 3,6,1,10,5,0.5,0,0,0,2,2,1,0.5,high-margin
+Qwen_R2_MO,qwen_b2,MO-Tree,102,2,Rank 2,6,2,9,4,0.4444,1,0,1,2,2,1,1.0,high-margin
+Qwen_R2_MO,qwen_b2,MO-Tree,113,2,Rank 2,3,2,5,1,0.2,0,0,0,4,4,1,0.5,low-margin
+Qwen_R2_MO,qwen_b2,MO-Tree,122,3,Rank 3,3,1,7,2,0.2857,0,0,0,2,4,0,0.5,low-margin
+Qwen_R2_MO,qwen_b2,MO-Tree,123,4,Rank >3,2,1,5,1,0.2,0,0,0,4,4,1,0.25,low-margin
+Qwen_R2_MO,qwen_b2,MO-Tree,138,5,Rank >3,6,1,11,5,0.4545,0,0,0,3,4,0,0.5,high-margin
+Qwen_R2_MO,qwen_b2,MO-Tree,153,2,Rank 2,6,2,9,4,0.4444,0,0,0,2,1,0,0.5,high-margin
+Qwen_R2_MO,qwen_b2,MO-Tree,163,2,Rank 2,4,1,5,3,0.6,0,0,0,1,3,0,0.3333,high-margin
+Qwen_R2_MO,qwen_b2,MO-Tree,175,2,Rank 2,6,3,11,3,0.2727,0,0,0,2,1,0,0.5,low-margin
+Qwen_R2_MO,qwen_b2,MO-Tree,178,2,Rank 2,7,4,11,3,0.2727,0,0,0,2,1,0,0.5,low-margin
+Qwen_R2_MO,qwen_b2,MO-Tree,181,2,Rank 2,4,1,5,3,0.6,0,0,0,2,1,0,0.0,high-margin
+Qwen_Prompt,qwen,Prompt-matched BoN,3,2,Rank 2,23,4,34,19,0.5588,1,0,0,3,3,1,1.0,high-margin
+Qwen_Prompt,qwen,Prompt-matched BoN,7,2,Rank 2,32,1,34,31,0.9118,0,0,0,3,4,0,0.75,high-margin
+Qwen_Prompt,qwen,Prompt-matched BoN,9,3,Rank 3,14,6,34,8,0.2353,0,0,0,3,3,1,0.3333,low-margin
+Qwen_Prompt,qwen,Prompt-matched BoN,18,2,Rank 2,23,11,34,12,0.3529,0,0,0,3,3,1,0.6667,high-margin
+Qwen_Prompt,qwen,Prompt-matched BoN,27,3,Rank 3,25,2,34,23,0.6765,0,0,0,3,4,0,0.75,high-margin
+Qwen_Prompt,qwen,Prompt-matched BoN,35,2,Rank 2,19,11,34,8,0.2353,0,0,0,4,3,0,0.25,low-margin
+Qwen_Prompt,qwen,Prompt-matched BoN,38,5,Rank >3,12,2,31,10,0.3226,0,0,0,3,3,1,0.6667,high-margin
+Qwen_Prompt,qwen,Prompt-matched BoN,39,3,Rank 3,18,6,34,12,0.3529,0,0,0,3,3,1,0.6667,high-margin
+Qwen_Prompt,qwen,Prompt-matched BoN,42,3,Rank 3,16,6,30,10,0.3333,1,0,0,3,3,1,1.0,high-margin
+Qwen_Prompt,qwen,Prompt-matched BoN,46,2,Rank 2,12,8,34,4,0.1176,0,0,0,3,3,1,0.6667,low-margin
+Qwen_Prompt,qwen,Prompt-matched BoN,47,2,Rank 2,26,3,32,23,0.7188,1,0,0,3,3,1,1.0,high-margin
+Qwen_Prompt,qwen,Prompt-matched BoN,54,3,Rank 3,21,3,30,18,0.6,0,0,0,3,5,0,0.6,high-margin
+Qwen_Prompt,qwen,Prompt-matched BoN,62,2,Rank 2,28,3,34,25,0.7353,0,0,0,3,2,0,0.3333,high-margin
+Qwen_Prompt,qwen,Prompt-matched BoN,71,2,Rank 2,30,4,34,26,0.7647,1,0,0,2,2,1,1.0,high-margin
+Qwen_Prompt,qwen,Prompt-matched BoN,73,7,Rank >3,12,1,26,11,0.4231,1,0,0,2,2,1,1.0,high-margin
+Qwen_Prompt,qwen,Prompt-matched BoN,78,6,Rank >3,4,2,33,2,0.0606,0,0,0,3,4,0,0.25,low-margin
+Qwen_Prompt,qwen,Prompt-matched BoN,91,2,Rank 2,25,9,34,16,0.4706,0,0,0,2,1,0,0.0,high-margin
+Qwen_Prompt,qwen,Prompt-matched BoN,94,2,Rank 2,19,10,34,9,0.2647,0,0,0,2,4,0,0.0,low-margin
+Qwen_Prompt,qwen,Prompt-matched BoN,97,8,Rank >3,11,1,34,10,0.2941,0,0,0,4,2,0,0.25,high-margin
+Qwen_Prompt,qwen,Prompt-matched BoN,100,2,Rank 2,11,9,33,2,0.0606,0,0,0,2,4,0,0.5,low-margin
+Qwen_Prompt,qwen,Prompt-matched BoN,115,5,Rank >3,10,3,34,7,0.2059,0,0,0,4,4,1,0.5,low-margin
+Qwen_Prompt,qwen,Prompt-matched BoN,116,2,Rank 2,26,3,31,23,0.7419,0,0,0,3,4,0,0.75,high-margin
+Qwen_Prompt,qwen,Prompt-matched BoN,119,3,Rank 3,24,4,34,20,0.5882,1,0,0,4,4,1,1.0,high-margin
+Qwen_Prompt,qwen,Prompt-matched BoN,122,2,Rank 2,22,9,34,13,0.3824,0,0,0,4,4,1,0.5,high-margin
+Qwen_Prompt,qwen,Prompt-matched BoN,129,3,Rank 3,20,1,34,19,0.5588,1,0,0,4,4,1,1.0,high-margin
+Qwen_Prompt,qwen,Prompt-matched BoN,134,25,Rank >3,3,1,31,2,0.0645,0,0,0,5,4,0,0.4,low-margin
+Qwen_Prompt,qwen,Prompt-matched BoN,139,10,Rank >3,5,1,31,4,0.129,0,0,0,4,3,0,0.5,low-margin
+Qwen_Prompt,qwen,Prompt-matched BoN,142,8,Rank >3,12,1,34,11,0.3235,0,0,0,5,6,0,0.5,high-margin
+Qwen_Prompt,qwen,Prompt-matched BoN,153,2,Rank 2,27,2,32,25,0.7812,0,0,0,2,1,0,0.5,high-margin
+Qwen_Prompt,qwen,Prompt-matched BoN,156,2,Rank 2,11,10,34,1,0.0294,0,0,0,6,3,0,0.0,low-margin
+Qwen_Prompt,qwen,Prompt-matched BoN,162,2,Rank 2,6,4,32,2,0.0625,0,0,0,3,3,1,0.0,low-margin
+Qwen_Prompt,qwen,Prompt-matched BoN,176,2,Rank 2,27,6,33,21,0.6364,0,0,0,2,1,0,0.0,high-margin

@@ -1,0 +1,4 @@
+pool,candidates,normalized_plan_differs,correctness_differs,hard0_differs,oracle_stored,oracle_raw_reextract,selected_stored,selected_raw_reextract,tasks_oracle_changed,tasks_selected_changed
+mini_noseed,5856,17,0,4,139,139,121,121,0,0
+qwen_b1,6222,21,0,8,159,159,129,129,0,0
+qwen_b2,6222,11,0,1,162,162,128,128,0,0

@@ -1,0 +1,6 @@
+model,procedure,run,oracle_count,n,oracle_pct
+GPT-4o-mini,CoT-tree,primary,153,183,83.6
+GPT-4o-mini,Prompt-matched,control,154,183,84.2
+Qwen3.5-9B,CoT-tree,Run 1,162,183,88.5
+Qwen3.5-9B,CoT-tree,Run 2,157,183,85.8
+Qwen3.5-9B,Prompt-matched,control,160,183,87.4

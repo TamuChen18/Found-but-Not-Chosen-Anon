@@ -1,0 +1,2 @@
+pool,task_id,candidate_id,C1_ref_not_in_dependence,C2_dependence_without_ref,C3_ref_without_dependence,other_violations
+mini:CoT-tree,32,5,,1,,"{""malformed_generated"": 1}"
