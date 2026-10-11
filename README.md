@@ -17,27 +17,31 @@ through a common post-generation evaluation (normalization, structural validatio
 measures whether a pool contains a correct workflow; Selected EM whether the final selected workflow is correct.
 Main numbers and figures: [Results](#results).
 
-## Contents
 
-```
-main.py, src/, baselines/   candidate generation (BoN, CoT-tree, MO-Tree) and the OpenRouter-compatible client
-scripts/                    offline post-processing, selection, audits, figures; reproduce_all.sh runs everything
-data/                       task-id lists (the benchmark split is written by scripts/prepare_disasterbench.py)
-artifacts/                  manifests, cached LLM decisions, final audit labels, and all regenerated results
-prompts/                    the GPT-4o judge, Top-3 verifier and audit-annotation prompts (exported from the scripts)
-assets/                     figures shown in this README
-third_party/                DisasterBench_Open at the pinned commit (see below)
+## Repository Structure
+
+```text
+.
+├── main.py                 # Candidate generation entry point
+├── src/                    # Core planning and OpenRouter-compatible client
+├── baselines/              # BoN, CoT-tree, and MO-Tree implementations
+├── scripts/                # Post-processing, selection, audits, and figures
+│   └── reproduce_all.sh    # One-command offline reproduction
+├── data/                   # Task IDs and benchmark splits
+├── artifacts/              # Manifests, cached decisions, audits, and results
+├── prompts/                # Judge, verifier, and audit prompts
+├── assets/                 # README figures
+├── third_party/            # Pinned DisasterBench_Open
+│
+├── runs/                   # Raw candidate pools [data package]
+└── logs/                   # Per-request logs [data package]
 ```
 
-The data package (see [Data](#data)) adds:
+The separate data package additionally provides:
+- `artifacts/**/run/`: Raw prompt-matched BoN pools.
+- `artifacts/**/per_candidate.jsonl` and `*_per_candidate.csv`: Candidate-level evaluation results.
+- `logs/`: Sampling parameters, finish reasons, and token usage; no prompts or completions. Response IDs are replaced with truncated SHA-256 hashes.
 
-```
-runs/                       raw candidate pools of every generation run (config.json + per-task answer sheets)
-artifacts/**/run/           raw prompt-matched BoN pools
-artifacts/**/per_candidate.jsonl, *_per_candidate.csv   candidate-level evaluation results
-logs/                       per-request call logs (sampling parameters, finish reasons, token usage; no prompts
-                            or completions; response ids replaced by truncated sha256 hashes)
-```
 
 ## Setup
 
