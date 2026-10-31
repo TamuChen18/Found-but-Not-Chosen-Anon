@@ -71,7 +71,7 @@ differently, so the shim keeps the original extraction for generation and for th
 The raw candidate pools, request logs and candidate-level evaluation results are distributed separately from the
 code.
 
-Download `From Apparent Search Gains to Selection Failures.zip` from the supplementary material of the submission and extract it into
+Download `found-but-not-chosen-data.tar.gz` from the supplementary material of the submission and extract it into
 the repository root before running the reproduction scripts (it adds `runs/`, `logs/`, the raw prompt-matched pools
 and the candidate-level result files).
 
