@@ -1,4 +1,4 @@
-# Found but Not Chosen: Attribution and Selection in Structured Workflow Planning on DisasterBench
+# From Apparent Search Gains to Selection Failures: Auditing Test-Time Inference in Structured Workflow Planning
 
 Code, candidate pools, cached LLM decisions and analysis scripts for the paper. Every number, table and figure of
 the paper can be regenerated offline from the released candidate pools with one command, and is then checked
@@ -71,7 +71,7 @@ differently, so the shim keeps the original extraction for generation and for th
 The raw candidate pools, request logs and candidate-level evaluation results are distributed separately from the
 code.
 
-Download `found-but-not-chosen-data-anon.zip` from the supplementary material of the submission and extract it into
+Download `From Apparent Search Gains to Selection Failures.zip` from the supplementary material of the submission and extract it into
 the repository root before running the reproduction scripts (it adds `runs/`, `logs/`, the raw prompt-matched pools
 and the candidate-level result files).
 
