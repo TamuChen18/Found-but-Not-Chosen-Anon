@@ -68,12 +68,10 @@ differently, so the shim keeps the original extraction for generation and for th
 
 ## Data
 
-The raw candidate pools, request logs and candidate-level evaluation results are distributed separately from the
-code.
+The raw candidate pools, request logs and candidate-level evaluation results are provided in [`data_package/`](data_package/) as two self-contained ZIP archives. Extract both into the repository root before running the reproduction scripts (they add `runs/`, `logs/`, the raw prompt-matched pools and the candidate-level result files); see [`data_package/README.md`](data_package/README.md) for the extraction commands and checksum verification.
 
-Download `found-but-not-chosen-data.tar.gz` from the supplementary material of the submission and extract it into
-the repository root before running the reproduction scripts (it adds `runs/`, `logs/`, the raw prompt-matched pools
-and the candidate-level result files).
+*This data package was inadvertently omitted from the original supplementary material and was added during the author-response period. The archives contain the pre-submission experimental data, with no changes to the underlying experimental results.*
+
 
 ## Reproducing the paper
 
